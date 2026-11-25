@@ -1,0 +1,290 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 23380000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "46bb8ff4-6044-4d07-8be3-d9b1d55c79fb",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-28-29_PANDAER_p005.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "e50d7eab-c1ca-45b5-93f0-e9326881824c",
+        "content": "{\"text\": \"这个属标先来库存不多了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ed4d4c0e-21ae-485a-9e3e-dff2e0870391",
+        "content": "{\"text\": \"砂瓦门\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a34a452a-fbc7-42a0-aac9-8b833109c2c8",
+        "content": "{\"text\": \"这个是在我们的这个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "db0ed3e4-c26d-47bf-b945-bf80520d8751",
+        "content": "{\"text\": \"砂瓦门嫂握的8号连鞋可以\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8492f9e4-6280-4a13-8a1c-167ec5f12564",
+        "content": "{\"text\": \"点进去吃后的话可以去看一下\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d100cb73-2c7a-42a6-a1bf-13086433fa45",
+        "content": "{\"text\": \"这个属标的话现在库存已经不多了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f2ab9624-9144-4ad2-ad18-18a9dfcb555c",
+        "content": "{\"text\": \"大家想拍个宝宝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1aecd28d-51d1-4077-8db7-69cf9918f0a2",
+        "content": "{\"text\": \"我们抓紧时间偏好属库\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d339677e-8d99-4560-afa6-8f24e7c54e91",
+        "content": "{\"text\": \"我们家产品是有7天56日以前的砂瓦门\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "97c8f793-849f-4ccc-9bc6-59e22c1af461",
+        "content": "{\"text\": \"所以产品的话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "49268eec-3009-4b99-99c3-2c9b71c761b1",
+        "content": "{\"text\": \"你拿回家之后的话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b59c9cab-21cd-42c5-a31b-da0f1c9eba18",
+        "content": "{\"text\": \"你也可以去试一试\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d89a58be-0ffe-452d-94b4-de3c77548694",
+        "content": "{\"text\": \"又用体验体验码对不对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "56a79d79-aa6f-4476-bdac-9caf5aaec148",
+        "content": "{\"text\": \"好又合适\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "d681d5be-6567-4a7f-a63b-c141b44e860e",
+      "type": "video",
+      "segments": [
+        {
+          "id": "48f2d3ea-c33c-48ba-a5d6-70cfc0727c25",
+          "material_id": "46bb8ff4-6044-4d07-8be3-d9b1d55c79fb",
+          "source_timerange": {
+            "start": 1700000,
+            "duration": 23380000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 23380000
+          }
+        }
+      ]
+    },
+    {
+      "id": "18dc3940-8c6e-4fbd-bc76-c81f37f293f8",
+      "type": "text",
+      "segments": [
+        {
+          "id": "37347015-8522-4396-b38a-1a717cd497fe",
+          "material_id": "e50d7eab-c1ca-45b5-93f0-e9326881824c",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2040000
+          }
+        },
+        {
+          "id": "085b5acf-3aa6-4d9f-8d36-568a074a6d13",
+          "material_id": "ed4d4c0e-21ae-485a-9e3e-dff2e0870391",
+          "target_timerange": {
+            "start": 2040000,
+            "duration": 599999
+          }
+        },
+        {
+          "id": "97149606-90a1-4a7a-960c-d30dd641b084",
+          "material_id": "a34a452a-fbc7-42a0-aac9-8b833109c2c8",
+          "target_timerange": {
+            "start": 2639999,
+            "duration": 1799999
+          }
+        },
+        {
+          "id": "d7363d8c-418f-48f4-83dd-2e2a54293e3b",
+          "material_id": "db0ed3e4-c26d-47bf-b945-bf80520d8751",
+          "target_timerange": {
+            "start": 4439999,
+            "duration": 2559999
+          }
+        },
+        {
+          "id": "c01d575c-3050-4b80-ad34-7b2072e6b667",
+          "material_id": "8492f9e4-6280-4a13-8a1c-167ec5f12564",
+          "target_timerange": {
+            "start": 6999999,
+            "duration": 2320000
+          }
+        },
+        {
+          "id": "613abfa5-f5d8-4b62-9aea-f9123e09c477",
+          "material_id": "d100cb73-2c7a-42a6-a1bf-13086433fa45",
+          "target_timerange": {
+            "start": 9320000,
+            "duration": 2500000
+          }
+        },
+        {
+          "id": "139b5051-581e-48be-9ae5-a7d83a8b80af",
+          "material_id": "f2ab9624-9144-4ad2-ad18-18a9dfcb555c",
+          "target_timerange": {
+            "start": 11820000,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "01f2879e-b081-46a1-990d-55c6392c7741",
+          "material_id": "1aecd28d-51d1-4077-8db7-69cf9918f0a2",
+          "target_timerange": {
+            "start": 13140000,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "fed45457-f55f-4c45-ade9-e84624bb0bf8",
+          "material_id": "d339677e-8d99-4560-afa6-8f24e7c54e91",
+          "target_timerange": {
+            "start": 14940000,
+            "duration": 3079999
+          }
+        },
+        {
+          "id": "201234f5-0b56-4166-9c15-e26fa8ef1905",
+          "material_id": "97c8f793-849f-4ccc-9bc6-59e22c1af461",
+          "target_timerange": {
+            "start": 18020000,
+            "duration": 1100000
+          }
+        },
+        {
+          "id": "e02ac380-fe45-4fa9-95eb-8dc7f41966f6",
+          "material_id": "49268eec-3009-4b99-99c3-2c9b71c761b1",
+          "target_timerange": {
+            "start": 19120000,
+            "duration": 940000
+          }
+        },
+        {
+          "id": "aa3422c2-2596-4044-a7c2-cfbd56865714",
+          "material_id": "b59c9cab-21cd-42c5-a31b-da0f1c9eba18",
+          "target_timerange": {
+            "start": 20060000,
+            "duration": 779999
+          }
+        },
+        {
+          "id": "45e9b68c-f6d7-4a1e-b714-70c8a0e67fd3",
+          "material_id": "d89a58be-0ffe-452d-94b4-de3c77548694",
+          "target_timerange": {
+            "start": 20840000,
+            "duration": 1519999
+          }
+        },
+        {
+          "id": "46d84a5d-1975-42f2-9f9e-1fb5808c1d81",
+          "material_id": "56a79d79-aa6f-4476-bdac-9caf5aaec148",
+          "target_timerange": {
+            "start": 22360000,
+            "duration": 1019999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

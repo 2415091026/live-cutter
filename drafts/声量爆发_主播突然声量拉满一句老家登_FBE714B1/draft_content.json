@@ -1,0 +1,137 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 24660000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "8597aa59-4dfa-4a68-b400-4cbac609e381",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-29-57_观音桥毕加索_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "85e62f01-bb38-475f-90fc-8854534045d6",
+        "content": "{\"text\": \"把麥打開吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d2f929f4-8e47-4a2f-894f-16b4cd7fe937",
+        "content": "{\"text\": \"謝謝杯塔 謝謝杯塔 謝謝奇跡\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "64e588c7-cbf5-41c3-af29-4d13d74d518f",
+        "content": "{\"text\": \"謝謝會贊到會思考送的夢境 謝謝思考\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c3cdbf84-029a-44c1-a536-aab7747815ec",
+        "content": "{\"text\": \"謝謝斯瓜表票\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2da7057e-8e3c-45a1-9f00-0e4af4252025",
+        "content": "{\"text\": \"這是老家 老家登場\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "5ba1ac3c-2fb0-4939-ab62-3f13cbec715e",
+      "type": "video",
+      "segments": [
+        {
+          "id": "288218d3-d56b-43b0-8789-9a6f8cdb8e11",
+          "material_id": "8597aa59-4dfa-4a68-b400-4cbac609e381",
+          "source_timerange": {
+            "start": 0,
+            "duration": 24660000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 24660000
+          }
+        }
+      ]
+    },
+    {
+      "id": "0c6d8fa2-8bab-4281-b7ea-1b499472d833",
+      "type": "text",
+      "segments": [
+        {
+          "id": "6ed25a95-16a3-4ea4-ac88-d6b1e58330c7",
+          "material_id": "85e62f01-bb38-475f-90fc-8854534045d6",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1040000
+          }
+        },
+        {
+          "id": "92b6bcd5-fc14-4fe8-b7a6-1f9f116fdd40",
+          "material_id": "d2f929f4-8e47-4a2f-894f-16b4cd7fe937",
+          "target_timerange": {
+            "start": 1660000,
+            "duration": 2500000
+          }
+        },
+        {
+          "id": "f401460d-556b-41d6-b230-358b8b0a983f",
+          "material_id": "64e588c7-cbf5-41c3-af29-4d13d74d518f",
+          "target_timerange": {
+            "start": 13200000,
+            "duration": 3199999
+          }
+        },
+        {
+          "id": "d33baae2-aef4-4adf-993e-c0ff583aa474",
+          "material_id": "c3cdbf84-029a-44c1-a536-aab7747815ec",
+          "target_timerange": {
+            "start": 17120000,
+            "duration": 1359999
+          }
+        },
+        {
+          "id": "485c1862-426e-46c0-8b09-1860f85e9bc1",
+          "material_id": "2da7057e-8e3c-45a1-9f00-0e4af4252025",
+          "target_timerange": {
+            "start": 22660000,
+            "duration": 2000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

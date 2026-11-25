@@ -1,0 +1,103 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 8039999,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "a0596fca-323d-48f6-b386-800c754e8a78",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_256751986134_20261102_212539_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "5fe387c2-b5b8-4369-936a-39193ee47bf1",
+        "content": "{\"text\": \"顺风包有啊 顺风包有小报门\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "05340cfa-d383-4d42-ac0c-6486fccbd62b",
+        "content": "{\"text\": \"所以说了还产品来回家之后呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "81b1bbe3-8c4b-4c4b-b278-c5e18e4520d4",
+        "content": "{\"text\": \"你可以去试试用用体验体验\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "7d3340b0-5847-4fb4-904d-2b0051fe7cf5",
+      "type": "video",
+      "segments": [
+        {
+          "id": "93d7dbd0-94ba-4ecf-bf18-b097fdc9665f",
+          "material_id": "a0596fca-323d-48f6-b386-800c754e8a78",
+          "source_timerange": {
+            "start": 3880000,
+            "duration": 8039999
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 8039999
+          }
+        }
+      ]
+    },
+    {
+      "id": "e2c06106-8ec8-4f00-be16-05d29547ea8e",
+      "type": "text",
+      "segments": [
+        {
+          "id": "2b3a8738-ffdc-4399-8aa7-fead8b64ac0a",
+          "material_id": "5fe387c2-b5b8-4369-936a-39193ee47bf1",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2679999
+          }
+        },
+        {
+          "id": "e953d0ba-cc5f-45e7-b81a-fc201d53e119",
+          "material_id": "05340cfa-d383-4d42-ac0c-6486fccbd62b",
+          "target_timerange": {
+            "start": 3560000,
+            "duration": 2120000
+          }
+        },
+        {
+          "id": "b190c1ba-6f4c-4941-8e0a-57c531f66ef7",
+          "material_id": "81b1bbe3-8c4b-4c4b-b278-c5e18e4520d4",
+          "target_timerange": {
+            "start": 5880000,
+            "duration": 2159999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

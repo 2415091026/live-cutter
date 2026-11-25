@@ -1,0 +1,137 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 12000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "8a0c49f5-e64b-442d-9bef-8514057d5667",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_256751986134_20261102_212243_p003.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "6bfb2e15-7e43-47dd-9952-83a74148abf8",
+        "content": "{\"text\": \"就充电宝 我还嫁个也是非常香的宝门\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5ab4fc4e-6699-462b-abfc-04f7b6075d12",
+        "content": "{\"text\": \"两万好像使得一个充电宝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e101995d-f018-49f8-8307-e94b724d7166",
+        "content": "{\"text\": \"两万好像使得充电宝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "00908da7-13a8-417e-b986-648cd0688eae",
+        "content": "{\"text\": \"现在是拍个话们还会有到一年的宝修亲\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6ef44fbf-d7d0-400a-99de-0fb5eadb2b81",
+        "content": "{\"text\": \"所以充电也可以来看一下这一\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "e760c668-c9cd-43ec-bf2f-edca9714a4c0",
+      "type": "video",
+      "segments": [
+        {
+          "id": "c9400a59-8815-47ad-9d20-3ac5709b868b",
+          "material_id": "8a0c49f5-e64b-442d-9bef-8514057d5667",
+          "source_timerange": {
+            "start": 0,
+            "duration": 12000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 12000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "3726c35f-1c22-46cb-b8d7-fdda435bec43",
+      "type": "text",
+      "segments": [
+        {
+          "id": "b4287d38-0cc6-443c-9dce-44fbd8d63765",
+          "material_id": "6bfb2e15-7e43-47dd-9952-83a74148abf8",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2400000
+          }
+        },
+        {
+          "id": "85fb2b75-d34b-48d8-a880-7db31bfc1538",
+          "material_id": "5ab4fc4e-6699-462b-abfc-04f7b6075d12",
+          "target_timerange": {
+            "start": 2800000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "228ce5e0-d193-45db-ae55-b99b12c805b2",
+          "material_id": "e101995d-f018-49f8-8307-e94b724d7166",
+          "target_timerange": {
+            "start": 5720000,
+            "duration": 1240000
+          }
+        },
+        {
+          "id": "48d50522-3d67-42fe-9131-2b71a91098b7",
+          "material_id": "00908da7-13a8-417e-b986-648cd0688eae",
+          "target_timerange": {
+            "start": 6960000,
+            "duration": 2639999
+          }
+        },
+        {
+          "id": "76ecfc7d-eff2-4c6e-9ca9-1c48190a2aad",
+          "material_id": "6ef44fbf-d7d0-400a-99de-0fb5eadb2b81",
+          "target_timerange": {
+            "start": 10440000,
+            "duration": 1560000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

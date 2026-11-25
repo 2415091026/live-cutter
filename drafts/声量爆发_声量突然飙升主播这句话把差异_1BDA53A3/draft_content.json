@@ -1,0 +1,120 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 5800000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "a9f8cef5-ced5-40fd-967a-7ef49a0af1bf",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-45-34_渡一Web前端学习频道（Ai全栈）_p007.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "c42b4e5e-bfc5-4bbf-aa61-240bf84a3b56",
+        "content": "{\"text\": \"就很強\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f78b7432-4cd5-447f-a377-d312053a65c8",
+        "content": "{\"text\": \"但是你可畫面的體驗的要是多一點\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c27261f1-fdac-4ba6-bcea-5a0a94ec8c11",
+        "content": "{\"text\": \"每個人都有差異\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8ec23f12-9975-42bd-917f-c4613160efb3",
+        "content": "{\"text\": \"要什麼現在要承認這個差異\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "2c260e6f-2f96-40c6-bac8-3fc72df14e98",
+      "type": "video",
+      "segments": [
+        {
+          "id": "b1a83257-9ce7-49ce-9b8a-49ae89390fd8",
+          "material_id": "a9f8cef5-ced5-40fd-967a-7ef49a0af1bf",
+          "source_timerange": {
+            "start": 0,
+            "duration": 5800000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 5800000
+          }
+        }
+      ]
+    },
+    {
+      "id": "67e61eeb-4a0e-4375-969d-7e70a6b9408f",
+      "type": "text",
+      "segments": [
+        {
+          "id": "5feda3db-f017-42b1-a9dd-7e6500a07c8e",
+          "material_id": "c42b4e5e-bfc5-4bbf-aa61-240bf84a3b56",
+          "target_timerange": {
+            "start": 0,
+            "duration": 840000
+          }
+        },
+        {
+          "id": "b667015c-0386-4b39-adb3-98b1a6a394f8",
+          "material_id": "f78b7432-4cd5-447f-a377-d312053a65c8",
+          "target_timerange": {
+            "start": 840000,
+            "duration": 2040000
+          }
+        },
+        {
+          "id": "54580608-f131-4d9f-81c5-a372d56f8b93",
+          "material_id": "c27261f1-fdac-4ba6-bcea-5a0a94ec8c11",
+          "target_timerange": {
+            "start": 2880000,
+            "duration": 1160000
+          }
+        },
+        {
+          "id": "8f2e89f8-d980-4542-83bd-8c6e0279af0b",
+          "material_id": "8ec23f12-9975-42bd-917f-c4613160efb3",
+          "target_timerange": {
+            "start": 4040000,
+            "duration": 1759999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

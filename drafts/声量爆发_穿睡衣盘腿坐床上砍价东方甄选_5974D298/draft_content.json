@@ -1,0 +1,392 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 22500000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "0b0c596d-e3fe-49fa-89cf-70046e6882f2",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-40-18_东方甄选_p020.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "857962c3-4bcb-4714-9d12-a6719f5b6a90",
+        "content": "{\"text\": \"给大家剪60多块钱\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "72337048-1ba9-4f4b-9d47-293b06f860e7",
+        "content": "{\"text\": \"你看平时如果我们要做专场也就剪30\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "55aa1abc-6b6d-468d-a04f-a59f32b0e7e5",
+        "content": "{\"text\": \"对吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c160524a-3778-46df-965b-68f18523e652",
+        "content": "{\"text\": \"我没可能就不来这一趟了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "12da484b-9d58-46f9-ba4b-b462a614e73a",
+        "content": "{\"text\": \"但今天感觉双11\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "025d9701-3788-4e11-8536-bba7ad9402ac",
+        "content": "{\"text\": \"还能再剪33\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "47e01170-b768-4b72-9f33-cb02ae8910be",
+        "content": "{\"text\": \"所以一共的剪60多块钱\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "50f86ceb-ec45-4621-8943-4b5e96efca5b",
+        "content": "{\"text\": \"不要们60多\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cd2e3292-0200-41c3-ae3d-db6301943116",
+        "content": "{\"text\": \"你这6个人就赶点啥不好\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "58a58432-ab72-439c-b66f-73d7b08c8a0e",
+        "content": "{\"text\": \"好朋友们166块钱\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0217d9df-45ea-48d9-9851-8724401e46f7",
+        "content": "{\"text\": \"对吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "702ebe6b-aa09-47a1-b283-e9de21c77560",
+        "content": "{\"text\": \"所以咱们可以拍回去\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2cde2d5c-9b24-4142-b444-5ada825f555b",
+        "content": "{\"text\": \"然后其他的你看这个款式\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d738a2b6-d79c-491d-9b83-4b163e4974fa",
+        "content": "{\"text\": \"比如说你1080.8%的单人床\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "74f58205-e63f-4d74-aee2-ec0787eb551e",
+        "content": "{\"text\": \"那连100都不得\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "58a39c30-4e36-4792-807b-7ea36abfd63a",
+        "content": "{\"text\": \"连90都不得\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "14c38187-3b25-44f5-8007-a261e936dee3",
+        "content": "{\"text\": \"对吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a727a3c1-02cb-4ce3-9436-88b0a5d6f36f",
+        "content": "{\"text\": \"其他的也都很便宜\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b9a6bd69-8932-4454-9e48-2eb998e54601",
+        "content": "{\"text\": \"所以朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "085961fb-5186-444c-937b-3c904e0d82bf",
+        "content": "{\"text\": \"咱放心去拍\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "460f3578-c665-495d-b264-7cb59bf00f65",
+      "type": "video",
+      "segments": [
+        {
+          "id": "5a3bb6df-1768-4652-9541-7755d802b154",
+          "material_id": "0b0c596d-e3fe-49fa-89cf-70046e6882f2",
+          "source_timerange": {
+            "start": 7000000,
+            "duration": 22500000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 22500000
+          }
+        }
+      ]
+    },
+    {
+      "id": "8af06576-8f82-4992-b293-1fd3197e05b3",
+      "type": "text",
+      "segments": [
+        {
+          "id": "dfed1dd2-cfde-4834-9ca2-d73b82b8a851",
+          "material_id": "857962c3-4bcb-4714-9d12-a6719f5b6a90",
+          "target_timerange": {
+            "start": 0,
+            "duration": 19999
+          }
+        },
+        {
+          "id": "5f18cb22-2e5a-47c8-86c7-7ea52c49f4dc",
+          "material_id": "72337048-1ba9-4f4b-9d47-293b06f860e7",
+          "target_timerange": {
+            "start": 19999,
+            "duration": 2200000
+          }
+        },
+        {
+          "id": "ac900ffe-59d6-4f97-bc46-17494524fbd0",
+          "material_id": "55aa1abc-6b6d-468d-a04f-a59f32b0e7e5",
+          "target_timerange": {
+            "start": 2220000,
+            "duration": 439999
+          }
+        },
+        {
+          "id": "549cc4d0-635f-4b75-8029-78a1eea336e6",
+          "material_id": "c160524a-3778-46df-965b-68f18523e652",
+          "target_timerange": {
+            "start": 2660000,
+            "duration": 1439999
+          }
+        },
+        {
+          "id": "362f4ee5-b01b-49ad-9d9f-fc344b911950",
+          "material_id": "12da484b-9d58-46f9-ba4b-b462a614e73a",
+          "target_timerange": {
+            "start": 4099999,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "9329abe2-0f93-4fc1-a192-3ad9c92d4965",
+          "material_id": "025d9701-3788-4e11-8536-bba7ad9402ac",
+          "target_timerange": {
+            "start": 5420000,
+            "duration": 1660000
+          }
+        },
+        {
+          "id": "c3253efe-8706-4c89-b144-392109aae60d",
+          "material_id": "47e01170-b768-4b72-9f33-cb02ae8910be",
+          "target_timerange": {
+            "start": 7080000,
+            "duration": 1880000
+          }
+        },
+        {
+          "id": "fade671a-b136-4deb-990f-e69b2c60b6cb",
+          "material_id": "50f86ceb-ec45-4621-8943-4b5e96efca5b",
+          "target_timerange": {
+            "start": 8960000,
+            "duration": 1279999
+          }
+        },
+        {
+          "id": "442c98a8-7f09-419c-9c78-07ac4556e80a",
+          "material_id": "cd2e3292-0200-41c3-ae3d-db6301943116",
+          "target_timerange": {
+            "start": 10239999,
+            "duration": 1240000
+          }
+        },
+        {
+          "id": "8cb0955e-5a2c-463f-8854-2b32e13482e2",
+          "material_id": "58a58432-ab72-439c-b66f-73d7b08c8a0e",
+          "target_timerange": {
+            "start": 11480000,
+            "duration": 1480000
+          }
+        },
+        {
+          "id": "40c0ba2b-e3bc-4d7c-85b2-c5dac99b58e0",
+          "material_id": "0217d9df-45ea-48d9-9851-8724401e46f7",
+          "target_timerange": {
+            "start": 12960000,
+            "duration": 480000
+          }
+        },
+        {
+          "id": "786a1298-18e9-4692-b656-62b53d5174da",
+          "material_id": "702ebe6b-aa09-47a1-b283-e9de21c77560",
+          "target_timerange": {
+            "start": 13440000,
+            "duration": 1259999
+          }
+        },
+        {
+          "id": "d1710489-d85b-4856-907c-31e0e52c172a",
+          "material_id": "2cde2d5c-9b24-4142-b444-5ada825f555b",
+          "target_timerange": {
+            "start": 14700000,
+            "duration": 1539999
+          }
+        },
+        {
+          "id": "6f520825-b645-4ddc-b4af-4060ec6498cd",
+          "material_id": "d738a2b6-d79c-491d-9b83-4b163e4974fa",
+          "target_timerange": {
+            "start": 16239999,
+            "duration": 1339999
+          }
+        },
+        {
+          "id": "fbf16c0b-31d4-4a62-9bea-1244e36a08f2",
+          "material_id": "74f58205-e63f-4d74-aee2-ec0787eb551e",
+          "target_timerange": {
+            "start": 17580000,
+            "duration": 760000
+          }
+        },
+        {
+          "id": "074fb93c-c19d-4a9f-bc62-848d0127a441",
+          "material_id": "58a39c30-4e36-4792-807b-7ea36abfd63a",
+          "target_timerange": {
+            "start": 18340000,
+            "duration": 899999
+          }
+        },
+        {
+          "id": "7bca0323-8fd0-408d-85dc-5575a578cb1d",
+          "material_id": "14c38187-3b25-44f5-8007-a261e936dee3",
+          "target_timerange": {
+            "start": 19240000,
+            "duration": 460000
+          }
+        },
+        {
+          "id": "b059658a-529c-46d8-a593-acabbfc21f04",
+          "material_id": "a727a3c1-02cb-4ce3-9436-88b0a5d6f36f",
+          "target_timerange": {
+            "start": 19700000,
+            "duration": 1060000
+          }
+        },
+        {
+          "id": "78f8ff5c-9af4-42d1-acde-177f47b1cf0e",
+          "material_id": "b9a6bd69-8932-4454-9e48-2eb998e54601",
+          "target_timerange": {
+            "start": 20760000,
+            "duration": 699999
+          }
+        },
+        {
+          "id": "a1901663-6df8-4a6e-a1be-f542ad1c1a24",
+          "material_id": "085961fb-5186-444c-937b-3c904e0d82bf",
+          "target_timerange": {
+            "start": 21460000,
+            "duration": 1039999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

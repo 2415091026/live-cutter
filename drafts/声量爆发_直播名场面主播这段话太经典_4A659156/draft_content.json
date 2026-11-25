@@ -1,0 +1,205 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 12080000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "bdf7b987-9448-489d-8dd3-c5bc85edc66b",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-46-09_渡一Web前端学习频道（Ai全栈）_p008.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "9e655773-e8ef-4985-9a98-19e462caba16",
+        "content": "{\"text\": \"言字沒有那麼高\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1c697b98-9bba-4fb8-87fe-7257e6beab37",
+        "content": "{\"text\": \"那就是要我們來接受\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f5447951-0231-471d-a652-87f03d3ca9a0",
+        "content": "{\"text\": \"法則還是要我們就接受\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2e5a3a75-e443-44fd-b18c-82016ce04258",
+        "content": "{\"text\": \"普普普通的狀態\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b4e04557-ef49-4565-afa8-b6a856412eca",
+        "content": "{\"text\": \"也我去了解受\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9bf98c22-2197-4cac-a525-2ef784e604a9",
+        "content": "{\"text\": \"不是\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "468e9040-be9b-42c2-b485-79efd406b52a",
+        "content": "{\"text\": \"解受當然不是能不能解受\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cfe6945b-9971-4d21-b28e-5b55c9d138b9",
+        "content": "{\"text\": \"關鍵是有你連\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2cfe8f44-e4b6-4adf-a248-7d5783f8103c",
+        "content": "{\"text\": \"零三到自己連工作\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "e27d985d-0e23-4c53-9f2f-4f9da28d9358",
+      "type": "video",
+      "segments": [
+        {
+          "id": "ed65ebe8-ac85-431e-9de4-907f41858216",
+          "material_id": "bdf7b987-9448-489d-8dd3-c5bc85edc66b",
+          "source_timerange": {
+            "start": 0,
+            "duration": 12080000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 12080000
+          }
+        }
+      ]
+    },
+    {
+      "id": "e33ba839-755c-4178-acec-99ac0b5079fa",
+      "type": "text",
+      "segments": [
+        {
+          "id": "bb9494a0-a66e-42bc-b85e-37e55e699d99",
+          "material_id": "9e655773-e8ef-4985-9a98-19e462caba16",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1240000
+          }
+        },
+        {
+          "id": "bff205c4-ac97-4024-9beb-322e4a974f89",
+          "material_id": "1c697b98-9bba-4fb8-87fe-7257e6beab37",
+          "target_timerange": {
+            "start": 1240000,
+            "duration": 1720000
+          }
+        },
+        {
+          "id": "8ab411d1-de5d-432f-ac60-283bb23bc153",
+          "material_id": "f5447951-0231-471d-a652-87f03d3ca9a0",
+          "target_timerange": {
+            "start": 2960000,
+            "duration": 1679999
+          }
+        },
+        {
+          "id": "f67608e2-bd7b-4ff5-aa48-516cb4fa58ff",
+          "material_id": "2e5a3a75-e443-44fd-b18c-82016ce04258",
+          "target_timerange": {
+            "start": 4640000,
+            "duration": 1680000
+          }
+        },
+        {
+          "id": "55b5307b-2ab8-49a3-9615-8eb54d01c61c",
+          "material_id": "b4e04557-ef49-4565-afa8-b6a856412eca",
+          "target_timerange": {
+            "start": 6320000,
+            "duration": 1120000
+          }
+        },
+        {
+          "id": "d98144b7-86d1-437b-b034-2d69f70e2547",
+          "material_id": "9bf98c22-2197-4cac-a525-2ef784e604a9",
+          "target_timerange": {
+            "start": 7440000,
+            "duration": 479999
+          }
+        },
+        {
+          "id": "0bf90975-ce4d-42ad-87f0-16efdfe129db",
+          "material_id": "468e9040-be9b-42c2-b485-79efd406b52a",
+          "target_timerange": {
+            "start": 7920000,
+            "duration": 1560000
+          }
+        },
+        {
+          "id": "829c6e83-29df-4a54-be51-74206d25170d",
+          "material_id": "cfe6945b-9971-4d21-b28e-5b55c9d138b9",
+          "target_timerange": {
+            "start": 9480000,
+            "duration": 959999
+          }
+        },
+        {
+          "id": "9f3d53f3-3911-435c-9fec-41c7e3fddeab",
+          "material_id": "2cfe8f44-e4b6-4adf-a248-7d5783f8103c",
+          "target_timerange": {
+            "start": 10440000,
+            "duration": 1640000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

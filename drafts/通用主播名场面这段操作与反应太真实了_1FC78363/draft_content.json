@@ -1,0 +1,103 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 6950000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "8e16e814-e595-4bc9-8ac3-823e4bdf8bed",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\16-18-59_单良¹⁰³_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "cfd68bd2-6a3e-4627-9c44-c2a94e9f902f",
+        "content": "{\"text\": \"吃了可能吃饱了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4c732cab-2e0e-4a64-b067-acfeb13fdc77",
+        "content": "{\"text\": \"对 这是正常的事情啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "71b42872-5e33-4671-bbb9-8397a0419376",
+        "content": "{\"text\": \"朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "56c8a2ce-5b4b-40cb-957b-fed50af24135",
+      "type": "video",
+      "segments": [
+        {
+          "id": "ce9cfb7d-d996-4554-8f18-0bc5fe84cf37",
+          "material_id": "8e16e814-e595-4bc9-8ac3-823e4bdf8bed",
+          "source_timerange": {
+            "start": 0,
+            "duration": 6950000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 6950000
+          }
+        }
+      ]
+    },
+    {
+      "id": "119e0a20-9381-4ae2-bb2e-93aadd88591c",
+      "type": "text",
+      "segments": [
+        {
+          "id": "a65521dc-5329-452e-b111-4f0c4d21c943",
+          "material_id": "cfd68bd2-6a3e-4627-9c44-c2a94e9f902f",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "f4b3b099-208c-4585-9836-7eb7aa3116cf",
+          "material_id": "4c732cab-2e0e-4a64-b067-acfeb13fdc77",
+          "target_timerange": {
+            "start": 2000000,
+            "duration": 3950000
+          }
+        },
+        {
+          "id": "642307f8-a157-4952-85f9-95ec7061f709",
+          "material_id": "71b42872-5e33-4671-bbb9-8397a0419376",
+          "target_timerange": {
+            "start": 5950000,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

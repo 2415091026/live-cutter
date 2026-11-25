@@ -1,0 +1,307 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 25519999,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "24b65234-838a-41d3-a7da-2855420c2392",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-33-54_东方甄选_p018.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "b0e1e3fb-7a2a-4829-9a8f-bc8b87ae5fba",
+        "content": "{\"text\": \"然后在这层丝的外边\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4e527edd-7bba-4874-a83b-80d860c7d260",
+        "content": "{\"text\": \"你看不直接加这层摆的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "83a552b9-6b1f-4f3a-867c-3d375a6b485b",
+        "content": "{\"text\": \"这个这个决原丝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8a871b24-e67d-4368-a2b3-39ee266a7187",
+        "content": "{\"text\": \"就决原相交而是在先再来一层这个相交\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6d45ce23-c6d3-4cf2-8bd8-00f1a57db516",
+        "content": "{\"text\": \"这层相交的话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5b755229-bd87-4c9d-b1ec-9460c0d1f27e",
+        "content": "{\"text\": \"把它套上之后\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "02258eb0-bab5-4f9d-9420-8408863a4c8b",
+        "content": "{\"text\": \"它外边再来这样的一个同丝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "60372a78-9ddd-45ab-a1f1-8e2ed7c017f3",
+        "content": "{\"text\": \"能看着来吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7ea151cb-ce94-4749-846e-8e8ae4ba4ab3",
+        "content": "{\"text\": \"等于这就已经四样东西了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4d0dc9e9-65f3-40ba-b78a-e82c251cc52a",
+        "content": "{\"text\": \"那怎么个原理呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a5c32a69-88de-42be-8638-eb5f9187b721",
+        "content": "{\"text\": \"这个发热丝如果达到七十度左右\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b6644d6a-b2c2-4ca8-8f9c-3f5d46962285",
+        "content": "{\"text\": \"就过载了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "36bebc7f-5153-4bc2-b635-8e3adb15c673",
+        "content": "{\"text\": \"就过分了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "923bc7d9-6c86-41c9-bdf4-a5f003a428b9",
+        "content": "{\"text\": \"那它的这个相交呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ebeb3339-3626-4904-a130-5afec1c6afc2",
+        "content": "{\"text\": \"这层相交多加的相交\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "5ab70650-f9ba-4830-afe7-13a692dae0bb",
+      "type": "video",
+      "segments": [
+        {
+          "id": "4f6ee33a-31c2-47c7-9a9b-9f34aa568e99",
+          "material_id": "24b65234-838a-41d3-a7da-2855420c2392",
+          "source_timerange": {
+            "start": 34780000,
+            "duration": 25519999
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 25519999
+          }
+        }
+      ]
+    },
+    {
+      "id": "9be1411b-115f-4cbd-b0f4-64bd6ef7b757",
+      "type": "text",
+      "segments": [
+        {
+          "id": "c3048051-4055-4c91-adc5-8b5421b81bbb",
+          "material_id": "b0e1e3fb-7a2a-4829-9a8f-bc8b87ae5fba",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1799999
+          }
+        },
+        {
+          "id": "31242e4e-4c78-4cd6-be6f-73cdf6842593",
+          "material_id": "4e527edd-7bba-4874-a83b-80d860c7d260",
+          "target_timerange": {
+            "start": 1799999,
+            "duration": 2079999
+          }
+        },
+        {
+          "id": "233d5595-282a-405b-a685-3f909dcd96f0",
+          "material_id": "83a552b9-6b1f-4f3a-867c-3d375a6b485b",
+          "target_timerange": {
+            "start": 3879999,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "cc444c50-c522-4a0b-9c7e-9df9047bc685",
+          "material_id": "8a871b24-e67d-4368-a2b3-39ee266a7187",
+          "target_timerange": {
+            "start": 5680000,
+            "duration": 3439999
+          }
+        },
+        {
+          "id": "e9a7d48c-9a80-43e3-b3b3-1b579c047265",
+          "material_id": "6d45ce23-c6d3-4cf2-8bd8-00f1a57db516",
+          "target_timerange": {
+            "start": 9119999,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "f4e7dd4d-8cf4-4200-be7f-bc5c2dabd834",
+          "material_id": "5b755229-bd87-4c9d-b1ec-9460c0d1f27e",
+          "target_timerange": {
+            "start": 10439999,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "be3ae3d6-d553-437a-8e68-cba91b341c0c",
+          "material_id": "02258eb0-bab5-4f9d-9420-8408863a4c8b",
+          "target_timerange": {
+            "start": 11640000,
+            "duration": 2399999
+          }
+        },
+        {
+          "id": "9bb4f18e-eb4f-4135-9ece-c4c5cf869f56",
+          "material_id": "60372a78-9ddd-45ab-a1f1-8e2ed7c017f3",
+          "target_timerange": {
+            "start": 14040000,
+            "duration": 799999
+          }
+        },
+        {
+          "id": "7bbce433-20e2-48a2-98c0-daa64e76d339",
+          "material_id": "7ea151cb-ce94-4749-846e-8e8ae4ba4ab3",
+          "target_timerange": {
+            "start": 14839999,
+            "duration": 1560000
+          }
+        },
+        {
+          "id": "bf072640-8103-4d8a-acbb-778cfae9b7d5",
+          "material_id": "4d0dc9e9-65f3-40ba-b78a-e82c251cc52a",
+          "target_timerange": {
+            "start": 16399999,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "e3158cd4-ad37-4661-8f04-7c8aa29cd498",
+          "material_id": "a5c32a69-88de-42be-8638-eb5f9187b721",
+          "target_timerange": {
+            "start": 17720000,
+            "duration": 3679999
+          }
+        },
+        {
+          "id": "77c9c271-1ee1-46e6-a5c0-5adaacc206ac",
+          "material_id": "b6644d6a-b2c2-4ca8-8f9c-3f5d46962285",
+          "target_timerange": {
+            "start": 21400000,
+            "duration": 719999
+          }
+        },
+        {
+          "id": "9b1374b3-3731-435d-9b51-98140510fe9f",
+          "material_id": "36bebc7f-5153-4bc2-b635-8e3adb15c673",
+          "target_timerange": {
+            "start": 22119999,
+            "duration": 880000
+          }
+        },
+        {
+          "id": "bd7840ea-89cc-4564-b306-b34eb79003af",
+          "material_id": "923bc7d9-6c86-41c9-bdf4-a5f003a428b9",
+          "target_timerange": {
+            "start": 23000000,
+            "duration": 1199999
+          }
+        },
+        {
+          "id": "1ce7e555-941d-41b3-9afe-a8b48f99faed",
+          "material_id": "ebeb3339-3626-4904-a130-5afec1c6afc2",
+          "target_timerange": {
+            "start": 24199999,
+            "duration": 1320000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

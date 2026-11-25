@@ -1,0 +1,188 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 17159999,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "7b203fc1-e812-468d-bf71-e14209886ac9",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\16-13-26_单良¹⁰³_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "20b3f9a2-3ff8-460e-a9f4-e752e64c9a51",
+        "content": "{\"text\": \"那会往里面存钱吗\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f18f9c88-910a-4fe6-b8d8-429fa78dd74c",
+        "content": "{\"text\": \"其实这个共同账户开着就没有用过\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "51ff5599-e397-494b-ab05-da22725b24f5",
+        "content": "{\"text\": \"我的钱没有往里面存过\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b286958d-296d-4baa-a1c8-94d7d1990c48",
+        "content": "{\"text\": \"他没有用过\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ca5dffd2-99c5-4949-b82d-847047a99544",
+        "content": "{\"text\": \"在外地一地工作的越收质多少\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fcfd6ae4-c6e2-4dc0-89d4-2db8cce66ab3",
+        "content": "{\"text\": \"这个他跟我说\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d8590a8e-e349-46d2-bb1a-5d6d3671b9d6",
+        "content": "{\"text\": \"他什么\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "85493c75-535c-4bbb-9832-1def8487bed8",
+        "content": "{\"text\": \"他会跟我说 他是不给\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "873508ba-30d5-48fc-b914-c8cc993788a2",
+      "type": "video",
+      "segments": [
+        {
+          "id": "8a76692b-a6fd-4640-9f70-af52964eb7b5",
+          "material_id": "7b203fc1-e812-468d-bf71-e14209886ac9",
+          "source_timerange": {
+            "start": 15600000,
+            "duration": 17159999
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 17159999
+          }
+        }
+      ]
+    },
+    {
+      "id": "74edfc42-9a80-4d24-b502-b7e7b92f8a13",
+      "type": "text",
+      "segments": [
+        {
+          "id": "8e53ca64-1046-4731-a5ee-ea042ecb8ca2",
+          "material_id": "20b3f9a2-3ff8-460e-a9f4-e752e64c9a51",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2320000
+          }
+        },
+        {
+          "id": "2f60ea92-8d5c-4c86-be0b-b6279c68673d",
+          "material_id": "f18f9c88-910a-4fe6-b8d8-429fa78dd74c",
+          "target_timerange": {
+            "start": 2320000,
+            "duration": 2559999
+          }
+        },
+        {
+          "id": "b025fa71-4b32-4111-b332-6a6f8e8d7a0d",
+          "material_id": "51ff5599-e397-494b-ab05-da22725b24f5",
+          "target_timerange": {
+            "start": 4880000,
+            "duration": 1280000
+          }
+        },
+        {
+          "id": "a5eb22cd-e140-494d-bb16-e899e54044ae",
+          "material_id": "b286958d-296d-4baa-a1c8-94d7d1990c48",
+          "target_timerange": {
+            "start": 6160000,
+            "duration": 959999
+          }
+        },
+        {
+          "id": "00ba6195-1441-4378-8106-450049d3d33c",
+          "material_id": "ca5dffd2-99c5-4949-b82d-847047a99544",
+          "target_timerange": {
+            "start": 7119999,
+            "duration": 3400000
+          }
+        },
+        {
+          "id": "80a3c646-0015-45c7-bd68-1bcefe2ed3fb",
+          "material_id": "fcfd6ae4-c6e2-4dc0-89d4-2db8cce66ab3",
+          "target_timerange": {
+            "start": 10520000,
+            "duration": 2039999
+          }
+        },
+        {
+          "id": "5c2d6df4-00c6-4a92-98cb-ec8a36036622",
+          "material_id": "d8590a8e-e349-46d2-bb1a-5d6d3671b9d6",
+          "target_timerange": {
+            "start": 12560000,
+            "duration": 1039999
+          }
+        },
+        {
+          "id": "3a12c8c0-5f2e-4b6d-88fa-1db8436639cf",
+          "material_id": "85493c75-535c-4bbb-9832-1def8487bed8",
+          "target_timerange": {
+            "start": 13600000,
+            "duration": 3559999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

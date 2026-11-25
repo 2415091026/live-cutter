@@ -1,0 +1,205 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 15160000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "90a19def-29b1-4e80-86fe-50dcf92ff4cc",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-23-13_PANDAER_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "f641ec7c-f600-4087-ad37-ec851b00ac66",
+        "content": "{\"text\": \"因为我们等到那个11点钟\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "79de4211-44b0-47a6-868a-35a5c2883860",
+        "content": "{\"text\": \"我们就要下波了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a099c975-6f04-4543-b649-504c56e2c805",
+        "content": "{\"text\": \"可以等到11点我们就要下波了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1ff3d0fa-14de-40d5-9424-707364188fd2",
+        "content": "{\"text\": \"等到我们这边下波几乎直播之后\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d78ae5bd-dc29-4ca5-a6fb-136b431552c8",
+        "content": "{\"text\": \"这个活动就没有了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bbef8916-22a2-46ec-97a5-1be148171d33",
+        "content": "{\"text\": \"这个活动就没有了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6fe64409-ac09-4620-a607-4a0eb99b7502",
+        "content": "{\"text\": \"所以说我建议大家\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "78a818fd-a85d-48a3-a802-e860afb62dc5",
+        "content": "{\"text\": \"能在直播就能中拍的小宝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a08f07c9-b1a0-44cc-8d07-81d0fa3a530e",
+        "content": "{\"text\": \"我们尽量在直播就能中去拍\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "c431223a-779d-43f4-90a8-b70891273512",
+      "type": "video",
+      "segments": [
+        {
+          "id": "55e8001e-1048-4583-b909-e1a3cb5f75a9",
+          "material_id": "90a19def-29b1-4e80-86fe-50dcf92ff4cc",
+          "source_timerange": {
+            "start": 10040000,
+            "duration": 15160000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 15160000
+          }
+        }
+      ]
+    },
+    {
+      "id": "ea0ce286-f684-4cd7-b1c9-0704af1aa43b",
+      "type": "text",
+      "segments": [
+        {
+          "id": "8f4769f0-41fe-4b8a-84bb-bab4012be61d",
+          "material_id": "f641ec7c-f600-4087-ad37-ec851b00ac66",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1960000
+          }
+        },
+        {
+          "id": "8184380b-4ec9-406b-9c29-0b58bb806527",
+          "material_id": "79de4211-44b0-47a6-868a-35a5c2883860",
+          "target_timerange": {
+            "start": 1960000,
+            "duration": 1359999
+          }
+        },
+        {
+          "id": "2f322a7c-8909-4750-8beb-55900b51282b",
+          "material_id": "a099c975-6f04-4543-b649-504c56e2c805",
+          "target_timerange": {
+            "start": 4040000,
+            "duration": 1839999
+          }
+        },
+        {
+          "id": "6b789a70-3da8-413b-ac19-91a7cadf784e",
+          "material_id": "1ff3d0fa-14de-40d5-9424-707364188fd2",
+          "target_timerange": {
+            "start": 5880000,
+            "duration": 2159999
+          }
+        },
+        {
+          "id": "c2feccf3-4175-4eaa-b112-745198aa1651",
+          "material_id": "d78ae5bd-dc29-4ca5-a6fb-136b431552c8",
+          "target_timerange": {
+            "start": 8039999,
+            "duration": 1240000
+          }
+        },
+        {
+          "id": "1c4b8fe1-417f-4383-859d-e6471bff867c",
+          "material_id": "bbef8916-22a2-46ec-97a5-1be148171d33",
+          "target_timerange": {
+            "start": 9280000,
+            "duration": 919999
+          }
+        },
+        {
+          "id": "b582b752-4814-4021-bfd0-7b0c01df6493",
+          "material_id": "6fe64409-ac09-4620-a607-4a0eb99b7502",
+          "target_timerange": {
+            "start": 10200000,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "5bd6c620-0662-45af-b897-d1ae2df08613",
+          "material_id": "78a818fd-a85d-48a3-a802-e860afb62dc5",
+          "target_timerange": {
+            "start": 11400000,
+            "duration": 1639999
+          }
+        },
+        {
+          "id": "8a3935d2-4aaa-4953-bafd-b3f3e12ffa45",
+          "material_id": "a08f07c9-b1a0-44cc-8d07-81d0fa3a530e",
+          "target_timerange": {
+            "start": 13040000,
+            "duration": 2120000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

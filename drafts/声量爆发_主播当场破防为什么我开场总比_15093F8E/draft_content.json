@@ -1,0 +1,154 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 17120000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "0616a28e-ff1a-45ab-aa26-9e7570ca779a",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-37-23_陈伯(全能王)_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "7cfd6d7d-aba4-4bbd-97ba-581f46837167",
+        "content": "{\"text\": \"我这把好业你开场你都不能发顶配手机开场\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6f56beb7-8423-4f46-ac44-449e760b8099",
+        "content": "{\"text\": \"你不得了我 你现在啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ec68bb63-8c4f-4b24-8dcb-5acd268f0402",
+        "content": "{\"text\": \"发了就发了 修轮轮就得用最好的呀\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0b1ce39b-831f-467d-8cc3-a111b782ee03",
+        "content": "{\"text\": \"我总感觉真的每次你开场\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "47a7dacb-1f68-4297-b3a9-2626e9d6d606",
+        "content": "{\"text\": \"为什么总是比我开场的人要多呀\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8accde35-4e16-406d-ae20-8753b549a590",
+        "content": "{\"text\": \"我开完场我喝完水直播间直有四十多\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "9f05376c-7eb2-46a8-91c3-906c4af85683",
+      "type": "video",
+      "segments": [
+        {
+          "id": "fe09f69b-30f1-496d-b024-fd0725a63dea",
+          "material_id": "0616a28e-ff1a-45ab-aa26-9e7570ca779a",
+          "source_timerange": {
+            "start": 6880000,
+            "duration": 17120000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 17120000
+          }
+        }
+      ]
+    },
+    {
+      "id": "d9885535-f8e4-4d5e-80de-4d22bc9e95b6",
+      "type": "text",
+      "segments": [
+        {
+          "id": "73e59980-241b-4c92-85d4-c41064310de4",
+          "material_id": "7cfd6d7d-aba4-4bbd-97ba-581f46837167",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3040000
+          }
+        },
+        {
+          "id": "a555d2fa-17d9-4274-abb0-8185bdb7ebed",
+          "material_id": "6f56beb7-8423-4f46-ac44-449e760b8099",
+          "target_timerange": {
+            "start": 3600000,
+            "duration": 1359999
+          }
+        },
+        {
+          "id": "9fb1338e-f913-49c3-b957-978e66cb9517",
+          "material_id": "ec68bb63-8c4f-4b24-8dcb-5acd268f0402",
+          "target_timerange": {
+            "start": 5680000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "3df26602-99a0-4f76-8a5a-8bc2dd700595",
+          "material_id": "0b1ce39b-831f-467d-8cc3-a111b782ee03",
+          "target_timerange": {
+            "start": 7680000,
+            "duration": 1999999
+          }
+        },
+        {
+          "id": "494e1fb9-a233-4fa3-b092-b12bc7038523",
+          "material_id": "47a7dacb-1f68-4297-b3a9-2626e9d6d606",
+          "target_timerange": {
+            "start": 9680000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "6f5f93bd-3763-4e31-94d1-5dc0c1b448e7",
+          "material_id": "8accde35-4e16-406d-ae20-8753b549a590",
+          "target_timerange": {
+            "start": 13200000,
+            "duration": 3920000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

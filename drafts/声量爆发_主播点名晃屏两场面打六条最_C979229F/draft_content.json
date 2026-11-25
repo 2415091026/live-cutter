@@ -1,0 +1,137 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 20740000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "99fbd9e7-0ecb-446e-9e90-9322e9c6ff95",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-44-40_陈伯(全能王)_p007.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "7ded968c-7f3c-4e26-b68b-2d1bb95481a9",
+        "content": "{\"text\": \"看来晃屏每天都是常来不应力吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ae188b43-79dd-495a-8d41-9a43d2bd7ded",
+        "content": "{\"text\": \"你的三天一把不应力吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c023dd7d-3e23-40ca-9976-478117f48d07",
+        "content": "{\"text\": \"晃屏我给你个任务啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4c98d939-795f-4dc9-b0d1-61a48cc210f2",
+        "content": "{\"text\": \"两场面打他们六条\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a5f53129-70a5-4df0-975f-c569b792709a",
+        "content": "{\"text\": \"这个任务不是很难\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "85d7128b-8cdd-4b72-ba1a-9a70a694ce26",
+      "type": "video",
+      "segments": [
+        {
+          "id": "b56332ed-803a-4d06-b3a5-25c1c1b39be5",
+          "material_id": "99fbd9e7-0ecb-446e-9e90-9322e9c6ff95",
+          "source_timerange": {
+            "start": 39300000,
+            "duration": 20740000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 20740000
+          }
+        }
+      ]
+    },
+    {
+      "id": "98a50ff0-fb59-4bd6-82c3-9d41c8918fea",
+      "type": "text",
+      "segments": [
+        {
+          "id": "9e7035b0-6c98-48c9-92f5-18b5b994db2d",
+          "material_id": "7ded968c-7f3c-4e26-b68b-2d1bb95481a9",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "2d75ecc4-0ab3-4725-aafc-b8c24a0a21a7",
+          "material_id": "ae188b43-79dd-495a-8d41-9a43d2bd7ded",
+          "target_timerange": {
+            "start": 3000000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "9203417c-a8d8-4a98-a9ea-3600b83769bf",
+          "material_id": "c023dd7d-3e23-40ca-9976-478117f48d07",
+          "target_timerange": {
+            "start": 5000000,
+            "duration": 8600000
+          }
+        },
+        {
+          "id": "1910b620-8c80-4320-8a66-74cb26ffb6e1",
+          "material_id": "4c98d939-795f-4dc9-b0d1-61a48cc210f2",
+          "target_timerange": {
+            "start": 13600000,
+            "duration": 4140000
+          }
+        },
+        {
+          "id": "0645a8a2-37b8-4e81-89e8-e602715fe8b3",
+          "material_id": "a5f53129-70a5-4df0-975f-c569b792709a",
+          "target_timerange": {
+            "start": 19740000,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

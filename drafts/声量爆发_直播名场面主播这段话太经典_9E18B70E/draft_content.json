@@ -1,0 +1,341 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 39420000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "1d41d4e8-4418-4b76-8f4f-0e03bd42f566",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-53-25_陈伯(全能王)_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "ddea1ac3-3743-4c4a-af39-fe8b7c6d5f54",
+        "content": "{\"text\": \"老闆\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "304e347a-293b-4dcf-a707-e3d65a15a0a7",
+        "content": "{\"text\": \"好\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0fc51a5a-526b-4878-8918-adf4c0985870",
+        "content": "{\"text\": \"我来说的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ef181616-a467-4145-b52e-e672798e4636",
+        "content": "{\"text\": \"今天我发开听过说\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dd048a10-7be7-41e5-9b50-d65d73e8d5f4",
+        "content": "{\"text\": \"听过是巴普洞\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "26c9f93f-627f-4d04-ab05-9200e9177c05",
+        "content": "{\"text\": \"闻住\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a7a8947d-6eb5-48af-8d3d-ec47665ec361",
+        "content": "{\"text\": \"给他发布\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ced0f761-3b88-4118-8194-9349eb8b1386",
+        "content": "{\"text\": \"看他选什么头\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9370dc27-952e-402a-a60a-c9df782d0738",
+        "content": "{\"text\": \"站他命必须给他吃掉\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "25238587-d079-4794-96a2-53dd8bb6a82e",
+        "content": "{\"text\": \"有没有压力\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "eb7752d7-d544-489f-b28f-88164ffd91f5",
+        "content": "{\"text\": \"没有\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3d3dff15-9b4f-468e-81e4-40d5be969942",
+        "content": "{\"text\": \"必须给他吃掉\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d97942be-88e6-41fe-b962-0dda3af8a57f",
+        "content": "{\"text\": \"老闆的老闆在旁边\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dbc5d787-e66e-4f70-986e-b1e032116f5c",
+        "content": "{\"text\": \"这生了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ce5261cf-f9f5-4ef9-ba57-51c5f1d0102b",
+        "content": "{\"text\": \"起书列车不要怕\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "00d86bc1-1185-4249-9d71-9ab2136406c2",
+        "content": "{\"text\": \"怕什么\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0e2e6f6b-2613-43f0-9063-30874cce4b79",
+        "content": "{\"text\": \"不不就是干\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "7b25cdd4-2bda-4422-b474-d8e488922f20",
+      "type": "video",
+      "segments": [
+        {
+          "id": "12c4cfab-54f9-4d83-9a47-9ec7dde10437",
+          "material_id": "1d41d4e8-4418-4b76-8f4f-0e03bd42f566",
+          "source_timerange": {
+            "start": 1170000,
+            "duration": 39420000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 39420000
+          }
+        }
+      ]
+    },
+    {
+      "id": "a96914d0-5856-41bb-b6c6-698e393577ee",
+      "type": "text",
+      "segments": [
+        {
+          "id": "8efd458d-b753-46fd-80ac-ece4cda62ec3",
+          "material_id": "ddea1ac3-3743-4c4a-af39-fe8b7c6d5f54",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "1ed5939f-1e06-4cc8-8a28-ffd1817f2bb5",
+          "material_id": "304e347a-293b-4dcf-a707-e3d65a15a0a7",
+          "target_timerange": {
+            "start": 1000000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "cbf8ea8e-8d43-405c-8feb-784e6d5d7359",
+          "material_id": "0fc51a5a-526b-4878-8918-adf4c0985870",
+          "target_timerange": {
+            "start": 2000000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "f8849dbd-b387-4f62-b705-87c2121c04ff",
+          "material_id": "ef181616-a467-4145-b52e-e672798e4636",
+          "target_timerange": {
+            "start": 3000000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "0295b199-fcde-4d10-ad13-5ab7af6c5cce",
+          "material_id": "dd048a10-7be7-41e5-9b50-d65d73e8d5f4",
+          "target_timerange": {
+            "start": 5000000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "bca97702-84ef-4e2d-8c01-82a7416f4a86",
+          "material_id": "26c9f93f-627f-4d04-ab05-9200e9177c05",
+          "target_timerange": {
+            "start": 6000000,
+            "duration": 14130000
+          }
+        },
+        {
+          "id": "31013ac6-6125-4d76-81f9-ddd8eb0f04e0",
+          "material_id": "a7a8947d-6eb5-48af-8d3d-ec47665ec361",
+          "target_timerange": {
+            "start": 20130000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "7d3a1a96-8ad2-478a-b925-d7ba880a8b9f",
+          "material_id": "ced0f761-3b88-4118-8194-9349eb8b1386",
+          "target_timerange": {
+            "start": 21130000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "04bded05-7cc3-4bdc-b7fa-52bfc974b294",
+          "material_id": "9370dc27-952e-402a-a60a-c9df782d0738",
+          "target_timerange": {
+            "start": 22130000,
+            "duration": 3689999
+          }
+        },
+        {
+          "id": "3cc35c52-0d03-4a00-a937-96472b87d720",
+          "material_id": "25238587-d079-4794-96a2-53dd8bb6a82e",
+          "target_timerange": {
+            "start": 25820000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "2d7f0179-85c9-49a9-a735-d738ad4fe79c",
+          "material_id": "eb7752d7-d544-489f-b28f-88164ffd91f5",
+          "target_timerange": {
+            "start": 27820000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "95857c3a-91d8-445d-93be-d9ac72690a16",
+          "material_id": "3d3dff15-9b4f-468e-81e4-40d5be969942",
+          "target_timerange": {
+            "start": 28820000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "fa2b8523-c3bd-4667-8e55-4903e8683a70",
+          "material_id": "d97942be-88e6-41fe-b962-0dda3af8a57f",
+          "target_timerange": {
+            "start": 29820000,
+            "duration": 4600000
+          }
+        },
+        {
+          "id": "cdc56e22-3895-43bd-8c05-e0405706ec15",
+          "material_id": "dbc5d787-e66e-4f70-986e-b1e032116f5c",
+          "target_timerange": {
+            "start": 34420000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "d162f84b-4e7f-4b62-a447-d3d9fba3b223",
+          "material_id": "ce5261cf-f9f5-4ef9-ba57-51c5f1d0102b",
+          "target_timerange": {
+            "start": 35420000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "41a0b6a4-f408-4966-9d80-2c0b45bf0f10",
+          "material_id": "00d86bc1-1185-4249-9d71-9ab2136406c2",
+          "target_timerange": {
+            "start": 36420000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "300d1c91-7710-4937-bb9c-427941a0eb4c",
+          "material_id": "0e2e6f6b-2613-43f0-9063-30874cce4b79",
+          "target_timerange": {
+            "start": 38420000,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

@@ -1,0 +1,341 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 57320000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "b89baf03-e4af-4fe2-b49a-9653ac6d229c",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-59-42_陈伯(全能王)_p012.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "7347cd28-6b3e-474b-9693-665224f06f2e",
+        "content": "{\"text\": \"直接上恐懼瘋\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6bc59e04-6807-4ff8-a37b-6c2145783972",
+        "content": "{\"text\": \"直接上恐懼瘋\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e79a8b19-9b38-4b45-b0cc-e996a38d7c82",
+        "content": "{\"text\": \"主要叫复代宣门\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "67117790-7622-47bf-8792-16eea00ef424",
+        "content": "{\"text\": \"電關處拿走一台蘋果是吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "98e8cd3e-e86a-45dc-b535-9c3f74edfc1c",
+        "content": "{\"text\": \"沒兩關處中了講的時候都沒有了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a7a05b5e-2d40-46e8-8cee-d1e944017d71",
+        "content": "{\"text\": \"而且我們免費的關注點一個\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0aa307fc-b8a8-4938-b75e-78542af3201b",
+        "content": "{\"text\": \"我對面直接上大將的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d5f2e555-efd5-47a3-a07d-53f9c0b7514e",
+        "content": "{\"text\": \"四大金燈之一\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "74a7bf21-a570-4ccf-841f-c9cae430ab3b",
+        "content": "{\"text\": \"你也是我們四大金燈之一\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "739fc753-5cca-4afd-bf9b-b9816a6cfcae",
+        "content": "{\"text\": \"不要徐豪嗎\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "322250d1-3406-4422-9f6d-261ddf9419dc",
+        "content": "{\"text\": \"加油\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e6deb767-a57d-41e9-b711-c1b222801cca",
+        "content": "{\"text\": \"海冰這眼\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "617295bc-7d23-45f3-90e3-cd056ab0abb7",
+        "content": "{\"text\": \"海冰這眼第一張不是水出來的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7f72a45f-1061-4309-b87d-bf715525f2b0",
+        "content": "{\"text\": \"而且我們還沒有選過\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "69dff20d-abdc-4eba-a69d-a6e52e6bdeab",
+        "content": "{\"text\": \"加油\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "82d3341f-facb-4dac-bab1-7fcb7e631c7d",
+        "content": "{\"text\": \"回來了一萬人聰明\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a9a406f9-ae2c-4a53-96ab-bb403742655b",
+        "content": "{\"text\": \"再把三個一萬人傳送了嗎\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "61719403-07d0-4ffe-ae2d-92af93a0473c",
+      "type": "video",
+      "segments": [
+        {
+          "id": "1cf70697-c69b-4474-aad7-cf4f46d9e061",
+          "material_id": "b89baf03-e4af-4fe2-b49a-9653ac6d229c",
+          "source_timerange": {
+            "start": 0,
+            "duration": 57320000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 57320000
+          }
+        }
+      ]
+    },
+    {
+      "id": "a4e1d83c-f0e3-4a71-99a4-47327f4c9aac",
+      "type": "text",
+      "segments": [
+        {
+          "id": "d028b912-e239-4f8b-9e5d-d96124caa5e6",
+          "material_id": "7347cd28-6b3e-474b-9693-665224f06f2e",
+          "target_timerange": {
+            "start": 0,
+            "duration": 7700000
+          }
+        },
+        {
+          "id": "cdebe495-ec19-4d1e-b5a9-4398d5291972",
+          "material_id": "6bc59e04-6807-4ff8-a37b-6c2145783972",
+          "target_timerange": {
+            "start": 7700000,
+            "duration": 9790000
+          }
+        },
+        {
+          "id": "a6b51432-2478-4510-bdbf-71bbf95594f3",
+          "material_id": "e79a8b19-9b38-4b45-b0cc-e996a38d7c82",
+          "target_timerange": {
+            "start": 17490000,
+            "duration": 1260000
+          }
+        },
+        {
+          "id": "abe882ae-65ad-43d5-92ab-31ad02b0003e",
+          "material_id": "67117790-7622-47bf-8792-16eea00ef424",
+          "target_timerange": {
+            "start": 18750000,
+            "duration": 2359999
+          }
+        },
+        {
+          "id": "29da69ea-33b4-4ca7-beb5-ff6314da8e95",
+          "material_id": "98e8cd3e-e86a-45dc-b535-9c3f74edfc1c",
+          "target_timerange": {
+            "start": 21110000,
+            "duration": 1820000
+          }
+        },
+        {
+          "id": "a2722c56-0283-4249-bfdf-c94dc02ab565",
+          "material_id": "a7a05b5e-2d40-46e8-8cee-d1e944017d71",
+          "target_timerange": {
+            "start": 22930000,
+            "duration": 2179999
+          }
+        },
+        {
+          "id": "13ecbfda-e582-4b1a-83b4-fa7fe4dc9d69",
+          "material_id": "0aa307fc-b8a8-4938-b75e-78542af3201b",
+          "target_timerange": {
+            "start": 25110000,
+            "duration": 2760000
+          }
+        },
+        {
+          "id": "4fe6089a-a097-4e42-b017-c6d8e0ab0c74",
+          "material_id": "d5f2e555-efd5-47a3-a07d-53f9c0b7514e",
+          "target_timerange": {
+            "start": 27870000,
+            "duration": 2439999
+          }
+        },
+        {
+          "id": "186e8896-7d03-4137-a1ce-7ba1e3948afa",
+          "material_id": "74a7bf21-a570-4ccf-841f-c9cae430ab3b",
+          "target_timerange": {
+            "start": 30310000,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "759afbe1-ffcd-4aa5-a33f-07ba7fe3e348",
+          "material_id": "739fc753-5cca-4afd-bf9b-b9816a6cfcae",
+          "target_timerange": {
+            "start": 31710000,
+            "duration": 1199999
+          }
+        },
+        {
+          "id": "11ef98c9-25c5-4ae2-ac3b-2c9d6a807079",
+          "material_id": "322250d1-3406-4422-9f6d-261ddf9419dc",
+          "target_timerange": {
+            "start": 32909999,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "9e3ac833-d4fd-4945-b1a9-afcfb2ebb735",
+          "material_id": "e6deb767-a57d-41e9-b711-c1b222801cca",
+          "target_timerange": {
+            "start": 39910000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "269a0624-ac6e-4c7c-a2c2-4bd019b16694",
+          "material_id": "617295bc-7d23-45f3-90e3-cd056ab0abb7",
+          "target_timerange": {
+            "start": 42630000,
+            "duration": 1640000
+          }
+        },
+        {
+          "id": "00611712-3b7d-4179-9924-98a70bc76836",
+          "material_id": "7f72a45f-1061-4309-b87d-bf715525f2b0",
+          "target_timerange": {
+            "start": 44270000,
+            "duration": 2079999
+          }
+        },
+        {
+          "id": "bd70605d-c102-47ba-9c84-b491785db1be",
+          "material_id": "69dff20d-abdc-4eba-a69d-a6e52e6bdeab",
+          "target_timerange": {
+            "start": 47910000,
+            "duration": 3920000
+          }
+        },
+        {
+          "id": "dbb8ea49-3542-42cc-8bc9-f08bc0be9525",
+          "material_id": "82d3341f-facb-4dac-bab1-7fcb7e631c7d",
+          "target_timerange": {
+            "start": 51830000,
+            "duration": 1920000
+          }
+        },
+        {
+          "id": "cf8dde71-db16-461a-95ab-bd7e9ca82b74",
+          "material_id": "a9a406f9-ae2c-4a53-96ab-bb403742655b",
+          "target_timerange": {
+            "start": 53750000,
+            "duration": 3570000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

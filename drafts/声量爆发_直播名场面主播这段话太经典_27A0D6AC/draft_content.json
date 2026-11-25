@@ -1,0 +1,154 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 56370000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "9360cc88-96c2-4ec3-a3d8-6d6b2fb26d5e",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\23-34-59_陈伯(全能王)_p005.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "caf2660b-cd00-43f2-ab04-41be8addcc1a",
+        "content": "{\"text\": \"每周看他的時候\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "05cbfce6-cf77-41e1-9f31-a3850a2b2d19",
+        "content": "{\"text\": \"我幫忙 野心\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4825bd9c-ecb6-46eb-a6f8-ea3301b76302",
+        "content": "{\"text\": \"不要猶豫\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "89c2a380-68ff-4743-b5a2-003fa9d39a29",
+        "content": "{\"text\": \"不要猶豫\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e81f7908-fb76-4b68-a944-c15417f75cbe",
+        "content": "{\"text\": \"加起來有點自信壓制度\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "16113024-a3ce-4f16-a8b4-547f2c45ce48",
+        "content": "{\"text\": \"這個馬軍有點自信壓制度\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "6c247382-63e4-471d-abc8-4bf473dc77e8",
+      "type": "video",
+      "segments": [
+        {
+          "id": "57993639-811b-48f9-99ba-23fcf7738e74",
+          "material_id": "9360cc88-96c2-4ec3-a3d8-6d6b2fb26d5e",
+          "source_timerange": {
+            "start": 2610000,
+            "duration": 56370000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 56370000
+          }
+        }
+      ]
+    },
+    {
+      "id": "bcc005e7-6e19-4161-9881-a24e9c63e6ae",
+      "type": "text",
+      "segments": [
+        {
+          "id": "17dee549-688d-4534-93af-39893dd332b7",
+          "material_id": "caf2660b-cd00-43f2-ab04-41be8addcc1a",
+          "target_timerange": {
+            "start": 0,
+            "duration": 8240000
+          }
+        },
+        {
+          "id": "cb6f8201-f1bb-49b3-9412-ead9314b7f9e",
+          "material_id": "05cbfce6-cf77-41e1-9f31-a3850a2b2d19",
+          "target_timerange": {
+            "start": 8240000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "4cf83dc7-449d-40e5-a3dd-74ae0314f07e",
+          "material_id": "4825bd9c-ecb6-46eb-a6f8-ea3301b76302",
+          "target_timerange": {
+            "start": 10240000,
+            "duration": 4330000
+          }
+        },
+        {
+          "id": "a49cc20a-006d-4432-b8e4-4ceb640bee5c",
+          "material_id": "89c2a380-68ff-4743-b5a2-003fa9d39a29",
+          "target_timerange": {
+            "start": 14570000,
+            "duration": 37800000
+          }
+        },
+        {
+          "id": "85e03816-f967-4044-836b-c35580e6fc04",
+          "material_id": "e81f7908-fb76-4b68-a944-c15417f75cbe",
+          "target_timerange": {
+            "start": 52370000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "47249971-ee04-443c-86e4-91e465250ffc",
+          "material_id": "16113024-a3ce-4f16-a8b4-547f2c45ce48",
+          "target_timerange": {
+            "start": 54370000,
+            "duration": 2000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

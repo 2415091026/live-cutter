@@ -1,0 +1,16 @@
+# Secrets - never commit
+config/douyin_cookies.json
+config/llm_config.json
+config/highlights_history.json
+
+# Dependencies and build output
+gui/node_modules/
+gui/dist/
+web/assets/
+__pycache__/
+*.pyc
+
+# Local runtime data
+recordings/
+output/
+temp_rolling_cache/

@@ -1,0 +1,562 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 59960000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "d3e7c9cd-f26e-4088-aa99-6939151f800b",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-53-48_东方甄选_p028.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "08dee664-dbb2-4d3d-9e9c-f65b1c15d673",
+        "content": "{\"text\": \"那这个外表的话呢又加了一层相交\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fd018fce-dd48-43d8-bb67-e29221a0517f",
+        "content": "{\"text\": \"看他们这银似的这个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e80be735-699d-4902-9a7c-689c497f8e46",
+        "content": "{\"text\": \"就从来可以看就跟一个相交管是的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9310a43f-1cbe-41fc-b733-3520f5fbab08",
+        "content": "{\"text\": \"这个呢是什么回事呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "66e5c3b0-e8d7-4970-a4c3-3fd3dcdf07f6",
+        "content": "{\"text\": \"它呢是70度左右就会容调的这么一种相交\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4c7aea0d-663e-46fc-aeca-b939b4cd0ad9",
+        "content": "{\"text\": \"那在它的外表\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2a53c3c9-c6f1-46a2-8e5b-26592c5ec5ae",
+        "content": "{\"text\": \"你看这还在传着一根丝呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8d879857-4f1b-4ea5-87c5-6cd0cde36565",
+        "content": "{\"text\": \"那这个统丝呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5d4b87d5-91bd-4266-98d0-d12519113615",
+        "content": "{\"text\": \"如果要是说\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6e4d50e8-ef32-432c-b004-933a3be749d0",
+        "content": "{\"text\": \"这个相交遇到70度左右的温度\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "71e105e6-bb50-44e7-95c2-9e5bb9bfd5c1",
+        "content": "{\"text\": \"它就融化了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d7130c65-b47a-4336-a410-97f29423a9de",
+        "content": "{\"text\": \"那么外表这个统丝跟礼拜的发热丝就相遇了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e3f08f45-a778-4522-ba67-d997c9b5c6b5",
+        "content": "{\"text\": \"这两一接触它就断电保护\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "12b5f12e-3433-4b59-9236-f17bc8a04372",
+        "content": "{\"text\": \"那你想想70度左右的一个温度\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ce01f744-d4e7-42d5-93c0-2cef03e28b75",
+        "content": "{\"text\": \"是不是距联引发火灾\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b7b5b8c4-e493-4ace-84a4-284a2742cc7e",
+        "content": "{\"text\": \"还造着呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cc21df1b-f74f-4575-92a5-ddb7456f7349",
+        "content": "{\"text\": \"那么安全细数对吧安心指数\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f786484d-4ff8-439a-a6e0-e2e9613bf7c5",
+        "content": "{\"text\": \"真的就大大大的提升了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b24126ad-b236-4886-a3af-08b0903078d3",
+        "content": "{\"text\": \"各位能理解这感觉吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e0c2b815-1f1e-479b-8301-5face73d11f4",
+        "content": "{\"text\": \"就中间就多了这么一个设计\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7f2689f9-fc19-4e95-aeeb-e4a5be21e308",
+        "content": "{\"text\": \"用料可就贵了很大一层了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d31c74cb-7542-4261-b697-0086ef588194",
+        "content": "{\"text\": \"因为你人家厂上制作的多呀对吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6bb27792-e0e3-427d-93af-4f5b60f5851f",
+        "content": "{\"text\": \"所以每一个成本都在不断叠加\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ef1dcd02-e0e1-4bba-8629-0e2378d597fa",
+        "content": "{\"text\": \"但是也恰恰因为这个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "475de137-36d6-457c-9939-be456e00ecbb",
+        "content": "{\"text\": \"所以它才让你用的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "add93613-97d2-4d82-a62a-920205f9c949",
+        "content": "{\"text\": \"它是用的安心\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e1dfd897-1e62-4b55-93e1-1eccdb417810",
+        "content": "{\"text\": \"就多了这么一层相交外表的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4308121c-3e34-4648-98d3-8ab933090213",
+        "content": "{\"text\": \"我以从这个金属丝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b85af88d-07a2-4a23-8ac8-c41a1de03053",
+        "content": "{\"text\": \"相交70度就融了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "077b159a-c2f9-4036-b6e1-3b86335e6724",
+        "content": "{\"text\": \"融了之后这两一碰上就断电\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "452f0f56-f9ab-414e-8acc-3661299dd7e7",
+      "type": "video",
+      "segments": [
+        {
+          "id": "63365f59-b1e4-4852-aa5e-57a16f0f8652",
+          "material_id": "d3e7c9cd-f26e-4088-aa99-6939151f800b",
+          "source_timerange": {
+            "start": 0,
+            "duration": 59960000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 59960000
+          }
+        }
+      ]
+    },
+    {
+      "id": "987d032b-2b60-41ce-bfbd-b9912d999b16",
+      "type": "text",
+      "segments": [
+        {
+          "id": "5478642c-7005-459a-a6e1-e0e8bf61ebbd",
+          "material_id": "08dee664-dbb2-4d3d-9e9c-f65b1c15d673",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2400000
+          }
+        },
+        {
+          "id": "53298acc-52da-4605-b2b8-d13f0b044070",
+          "material_id": "fd018fce-dd48-43d8-bb67-e29221a0517f",
+          "target_timerange": {
+            "start": 2400000,
+            "duration": 1180000
+          }
+        },
+        {
+          "id": "0657eb0c-400b-41cd-828e-d808fbdf0abd",
+          "material_id": "e80be735-699d-4902-9a7c-689c497f8e46",
+          "target_timerange": {
+            "start": 3580000,
+            "duration": 1979999
+          }
+        },
+        {
+          "id": "07cc47c7-5d3d-4c9d-bf89-aaa1ddf1c4d6",
+          "material_id": "9310a43f-1cbe-41fc-b733-3520f5fbab08",
+          "target_timerange": {
+            "start": 5560000,
+            "duration": 1560000
+          }
+        },
+        {
+          "id": "8fe2bb0e-55f0-4ef6-b85f-9b3376ffa192",
+          "material_id": "66e5c3b0-e8d7-4970-a4c3-3fd3dcdf07f6",
+          "target_timerange": {
+            "start": 7120000,
+            "duration": 4399999
+          }
+        },
+        {
+          "id": "456d886d-d737-441c-acc2-7258d7fa382c",
+          "material_id": "4c7aea0d-663e-46fc-aeca-b939b4cd0ad9",
+          "target_timerange": {
+            "start": 11520000,
+            "duration": 1019999
+          }
+        },
+        {
+          "id": "99a94957-c99a-493e-800d-5fba6d745a99",
+          "material_id": "2a53c3c9-c6f1-46a2-8e5b-26592c5ec5ae",
+          "target_timerange": {
+            "start": 12540000,
+            "duration": 2820000
+          }
+        },
+        {
+          "id": "0a430a27-961b-4732-9158-df793cd6dba6",
+          "material_id": "8d879857-4f1b-4ea5-87c5-6cd0cde36565",
+          "target_timerange": {
+            "start": 15360000,
+            "duration": 1039999
+          }
+        },
+        {
+          "id": "b1e4c8f1-1a80-4f89-ba9f-edadde4d2dd1",
+          "material_id": "5d4b87d5-91bd-4266-98d0-d12519113615",
+          "target_timerange": {
+            "start": 16399999,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "2cd30f78-9481-42c9-bdeb-83643ef5ca07",
+          "material_id": "6e4d50e8-ef32-432c-b004-933a3be749d0",
+          "target_timerange": {
+            "start": 17600000,
+            "duration": 2879999
+          }
+        },
+        {
+          "id": "c473dbb7-8663-4755-b79a-953e4ff5a05c",
+          "material_id": "71e105e6-bb50-44e7-95c2-9e5bb9bfd5c1",
+          "target_timerange": {
+            "start": 20480000,
+            "duration": 919999
+          }
+        },
+        {
+          "id": "4bce4daf-e322-4940-a69e-4ca8c55dce3a",
+          "material_id": "d7130c65-b47a-4336-a410-97f29423a9de",
+          "target_timerange": {
+            "start": 21400000,
+            "duration": 3560000
+          }
+        },
+        {
+          "id": "0774c587-86a3-4f97-89fb-ad06ea5d206b",
+          "material_id": "e3f08f45-a778-4522-ba67-d997c9b5c6b5",
+          "target_timerange": {
+            "start": 24960000,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "6bbe49ef-48ea-4db6-ab3b-ad8e74911efa",
+          "material_id": "12b5f12e-3433-4b59-9236-f17bc8a04372",
+          "target_timerange": {
+            "start": 28480000,
+            "duration": 2800000
+          }
+        },
+        {
+          "id": "88f47054-fd90-4304-80f8-d8f494348a3a",
+          "material_id": "ce01f744-d4e7-42d5-93c0-2cef03e28b75",
+          "target_timerange": {
+            "start": 31280000,
+            "duration": 1799999
+          }
+        },
+        {
+          "id": "fb52f837-3720-47be-8d29-4cbf137c5aa6",
+          "material_id": "b7b5b8c4-e493-4ace-84a4-284a2742cc7e",
+          "target_timerange": {
+            "start": 33080000,
+            "duration": 1280000
+          }
+        },
+        {
+          "id": "6e3f69ee-4d12-4387-83f2-68443cead11c",
+          "material_id": "cc21df1b-f74f-4575-92a5-ddb7456f7349",
+          "target_timerange": {
+            "start": 34360000,
+            "duration": 2240000
+          }
+        },
+        {
+          "id": "82fc13b1-d4fd-4d2b-9d91-ca7f1fbbda76",
+          "material_id": "f786484d-4ff8-439a-a6e0-e2e9613bf7c5",
+          "target_timerange": {
+            "start": 36600000,
+            "duration": 2119999
+          }
+        },
+        {
+          "id": "393e778d-fa60-43ae-855d-f07d9b733e53",
+          "material_id": "b24126ad-b236-4886-a3af-08b0903078d3",
+          "target_timerange": {
+            "start": 38720000,
+            "duration": 1399999
+          }
+        },
+        {
+          "id": "4915ef41-2125-4f77-9098-78b0f2f2b1d4",
+          "material_id": "e0c2b815-1f1e-479b-8301-5face73d11f4",
+          "target_timerange": {
+            "start": 40120000,
+            "duration": 1920000
+          }
+        },
+        {
+          "id": "35829a45-4bf4-4748-bd93-0177a7fdf2d2",
+          "material_id": "7f2689f9-fc19-4e95-aeeb-e4a5be21e308",
+          "target_timerange": {
+            "start": 42040000,
+            "duration": 2039999
+          }
+        },
+        {
+          "id": "471ca551-8bbc-4ee0-a8fb-c5ad45cdc3b3",
+          "material_id": "d31c74cb-7542-4261-b697-0086ef588194",
+          "target_timerange": {
+            "start": 44080000,
+            "duration": 2440000
+          }
+        },
+        {
+          "id": "311bd0c9-54d9-4581-8d6a-386896c7c908",
+          "material_id": "6bb27792-e0e3-427d-93af-4f5b60f5851f",
+          "target_timerange": {
+            "start": 46520000,
+            "duration": 2039999
+          }
+        },
+        {
+          "id": "0738fa35-eb6f-4993-adc2-9f7f5bab3693",
+          "material_id": "ef1dcd02-e0e1-4bba-8629-0e2378d597fa",
+          "target_timerange": {
+            "start": 48560000,
+            "duration": 1679999
+          }
+        },
+        {
+          "id": "ef164e2b-9e61-41a9-8205-ba2da21d9da6",
+          "material_id": "475de137-36d6-457c-9939-be456e00ecbb",
+          "target_timerange": {
+            "start": 50240000,
+            "duration": 1479999
+          }
+        },
+        {
+          "id": "c91bb924-3153-42d3-9985-a7580c2158ed",
+          "material_id": "add93613-97d2-4d82-a62a-920205f9c949",
+          "target_timerange": {
+            "start": 51720000,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "d9a26325-ce23-4f06-8328-d9bba101d0de",
+          "material_id": "e1dfd897-1e62-4b55-93e1-1eccdb417810",
+          "target_timerange": {
+            "start": 53040000,
+            "duration": 1280000
+          }
+        },
+        {
+          "id": "eba5b2d5-11f2-44d0-83d1-5190275f454e",
+          "material_id": "4308121c-3e34-4648-98d3-8ab933090213",
+          "target_timerange": {
+            "start": 54320000,
+            "duration": 1679999
+          }
+        },
+        {
+          "id": "3b453dfa-fe45-4efe-9da8-5067204e77e9",
+          "material_id": "b85af88d-07a2-4a23-8ac8-c41a1de03053",
+          "target_timerange": {
+            "start": 56000000,
+            "duration": 1399999
+          }
+        },
+        {
+          "id": "620ca15e-65e2-4bfb-b809-168470aff063",
+          "material_id": "077b159a-c2f9-4036-b6e1-3b86335e6724",
+          "target_timerange": {
+            "start": 57400000,
+            "duration": 2560000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

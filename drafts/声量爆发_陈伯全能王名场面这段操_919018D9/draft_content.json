@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 6280000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "79077711-b6a6-4d3e-925b-152a2b1f0d5f",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-50-06_陈伯(全能王)_p008.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "fbb5f985-14fa-4ae0-b55c-3a87defbf572",
+        "content": "{\"text\": \"啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3a92be49-4aa5-4b7b-b328-de028c54ad2d",
+        "content": "{\"text\": \"把蝙蝘蝶\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "22045a2f-bc6b-4a8e-b2cc-dd0903095d7d",
+      "type": "video",
+      "segments": [
+        {
+          "id": "57a18921-179c-4cbb-8af8-b0710f7f0e36",
+          "material_id": "79077711-b6a6-4d3e-925b-152a2b1f0d5f",
+          "source_timerange": {
+            "start": 0,
+            "duration": 6280000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 6280000
+          }
+        }
+      ]
+    },
+    {
+      "id": "9476affe-2602-4fe2-98fd-452000e6d199",
+      "type": "text",
+      "segments": [
+        {
+          "id": "e38ec37c-f471-4cad-a52d-ee0370b79385",
+          "material_id": "fbb5f985-14fa-4ae0-b55c-3a87defbf572",
+          "target_timerange": {
+            "start": 0,
+            "duration": 5480000
+          }
+        },
+        {
+          "id": "e961b3b9-1f64-417c-b8bb-4a8951c29988",
+          "material_id": "3a92be49-4aa5-4b7b-b328-de028c54ad2d",
+          "target_timerange": {
+            "start": 5480000,
+            "duration": 799999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

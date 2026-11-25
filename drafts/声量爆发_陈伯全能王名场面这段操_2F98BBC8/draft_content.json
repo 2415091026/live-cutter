@@ -1,0 +1,137 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 13599999,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "cef0f0c9-2bea-4572-8ea5-497cc929ed4d",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-49-00_陈伯(全能王)_p007.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "8d3ee872-ffc6-4579-a293-5118624d71cd",
+        "content": "{\"text\": \"有,从来不应地吧,不应地\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0cfa6d09-23bb-438d-9310-eeb2044f8d77",
+        "content": "{\"text\": \"我以兵可以打还两条,我以兵可以打还两条,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fab92d58-d161-4374-94d7-8605b48bb7d3",
+        "content": "{\"text\": \"装掉负败还一分钟,没参与的参与的参与的参与的败败败败败败败败\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2b2deece-3ce5-466d-b34e-9440da1cd145",
+        "content": "{\"text\": \"连点关注啊,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1b76ae53-77f4-4a2d-ad5e-dbe604f99d3b",
+        "content": "{\"text\": \"赫点关注重甲\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "d817cee1-e2b6-4726-8e49-e201a4a13977",
+      "type": "video",
+      "segments": [
+        {
+          "id": "97ccdc2e-8ae8-4d36-a805-353ce781eb74",
+          "material_id": "cef0f0c9-2bea-4572-8ea5-497cc929ed4d",
+          "source_timerange": {
+            "start": 20020000,
+            "duration": 13599999
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 13599999
+          }
+        }
+      ]
+    },
+    {
+      "id": "82b992e5-6310-4a6e-9542-1f67cebee591",
+      "type": "text",
+      "segments": [
+        {
+          "id": "b0e5856c-776c-482b-84c9-f3ecda39c85b",
+          "material_id": "8d3ee872-ffc6-4579-a293-5118624d71cd",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2039999
+          }
+        },
+        {
+          "id": "8d5ce1d6-b386-414c-a85f-f5ac1e5899f6",
+          "material_id": "0cfa6d09-23bb-438d-9310-eeb2044f8d77",
+          "target_timerange": {
+            "start": 3080000,
+            "duration": 3199999
+          }
+        },
+        {
+          "id": "403f71e4-98a1-4c33-8868-0a1384385cad",
+          "material_id": "fab92d58-d161-4374-94d7-8605b48bb7d3",
+          "target_timerange": {
+            "start": 6280000,
+            "duration": 4199999
+          }
+        },
+        {
+          "id": "dc08b8b1-b2e9-46d9-9ab8-d5d22d791fac",
+          "material_id": "2b2deece-3ce5-466d-b34e-9440da1cd145",
+          "target_timerange": {
+            "start": 11280000,
+            "duration": 999999
+          }
+        },
+        {
+          "id": "e4f02c31-5921-435a-8b98-76eee0d63fe5",
+          "material_id": "1b76ae53-77f4-4a2d-ad5e-dbe604f99d3b",
+          "target_timerange": {
+            "start": 12800000,
+            "duration": 799999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

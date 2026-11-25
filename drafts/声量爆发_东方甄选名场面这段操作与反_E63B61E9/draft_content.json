@@ -1,0 +1,120 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 60010000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "a8b16345-07b5-4d0c-b4fc-b22b30ba6c78",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-09-06_东方甄选_p039.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "ebea1a4b-004f-4c4d-aeb6-d56ba425908e",
+        "content": "{\"text\": \"出满劍,大家擔心未生问题,咱们有出满劍,咱们一按就可以了,所以用起来特别的方便朋友们,真的很简单\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5c64bd38-8e08-4245-9ceb-1062dc38212d",
+        "content": "{\"text\": \"然后浩电量也不高,咱们基本上比较实际小时才一度电,很简单比空调,小年两肯定是高一些的,所以它的话咱们这个的话,今天跟大家说,因为确实有很多老人,比如说,它这一辈子的用不习惯空调,人生可能80年,前60年没接受过空调,不习惯,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "eda477b9-1161-474c-95e8-227b1177b4d5",
+        "content": "{\"text\": \"而且空调也好,包括那个体脚线或者是那个小太阳也好,都有一个问题是解决不了的,就是你被窩里边咱们暖气了,对不对,你恨我能拿那个小太阳那么个被窩里吧,对不对,那下次了,对不对,体脚线和床上这不可能,所以的话咱们现在如果说真的想直接能尊敬暖被窩,我不用说穿着衣服在里边,等等等等等等等等,现在扭一扭的,拜登弄暖,咱们就垫热坦是目前绅结断,也是特别好的,又便宜又能解决问题的这么一个事,好吗,好吗,好吗,好吗,好吗,好吗,好吗,好吗,好吗,好吗,好吗,好吗,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5f7c4ea5-5f7d-4a2e-92c9-341cf0e905af",
+        "content": "{\"text\": \"大哥真的不用说\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "46f38494-2478-4c30-ba94-00faa464235e",
+      "type": "video",
+      "segments": [
+        {
+          "id": "5c9c6e8e-7149-4ede-9a6e-c328d93d5924",
+          "material_id": "a8b16345-07b5-4d0c-b4fc-b22b30ba6c78",
+          "source_timerange": {
+            "start": 0,
+            "duration": 60010000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 60010000
+          }
+        }
+      ]
+    },
+    {
+      "id": "04942469-7a6a-4c66-b487-f6bffeab4d85",
+      "type": "text",
+      "segments": [
+        {
+          "id": "0a2c4c92-5f26-4e22-853a-1667ecb4c62b",
+          "material_id": "ebea1a4b-004f-4c4d-aeb6-d56ba425908e",
+          "target_timerange": {
+            "start": 0,
+            "duration": 10000000
+          }
+        },
+        {
+          "id": "15a87dba-3852-4b2c-8307-6d590108c1e6",
+          "material_id": "5c64bd38-8e08-4245-9ceb-1062dc38212d",
+          "target_timerange": {
+            "start": 10000000,
+            "duration": 19000000
+          }
+        },
+        {
+          "id": "a370a998-2f30-401a-ac49-54d7bb237889",
+          "material_id": "eda477b9-1161-474c-95e8-227b1177b4d5",
+          "target_timerange": {
+            "start": 29000000,
+            "duration": 30000000
+          }
+        },
+        {
+          "id": "3eba24df-d8eb-4cf8-bcb4-b4667aa93acb",
+          "material_id": "5f7c4ea5-5f7d-4a2e-92c9-341cf0e905af",
+          "target_timerange": {
+            "start": 59000000,
+            "duration": 1009999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

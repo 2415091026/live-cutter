@@ -1,0 +1,69 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 5440000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "0140ff38-d156-40ed-a4ff-654ccca5ab13",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_256751986134_20261102_212614_p005.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "2c3e967d-49dd-4451-9cb3-c33ee3882bff",
+        "content": "{\"text\": \"你在跟他说你说应该他应该不知道你是指播件的定单\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "007aa47a-4712-4a88-b241-0e9f8a8d16a5",
+      "type": "video",
+      "segments": [
+        {
+          "id": "34ffefcb-14d4-4e42-be24-9bac402d210e",
+          "material_id": "0140ff38-d156-40ed-a4ff-654ccca5ab13",
+          "source_timerange": {
+            "start": 1800000,
+            "duration": 5440000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 5440000
+          }
+        }
+      ]
+    },
+    {
+      "id": "b1ea9756-f6ae-4a9d-9aba-4ae87e5c1f3b",
+      "type": "text",
+      "segments": [
+        {
+          "id": "3d1d5dec-3363-4afe-82a2-47aeef22155d",
+          "material_id": "2c3e967d-49dd-4451-9cb3-c33ee3882bff",
+          "target_timerange": {
+            "start": 0,
+            "duration": 5440000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

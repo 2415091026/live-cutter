@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 5000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "638a4bb0-aa88-4bd2-b930-d95037f4243d",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-44-01_渡一Web前端学习频道（Ai全栈）_p006.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "be8d0953-bd55-4c70-b1e1-38d233b729f3",
+        "content": "{\"text\": \"那遇到這種不同的同學的話\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c63d2818-2cd4-4d09-a624-2e50ec0a385f",
+        "content": "{\"text\": \"當然輸出這個東西並不是必須的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "4f43e75e-b87f-4edf-a20f-d61535ddb47f",
+      "type": "video",
+      "segments": [
+        {
+          "id": "a13f80dd-f8ad-4449-84f4-eb8380ed58bc",
+          "material_id": "638a4bb0-aa88-4bd2-b930-d95037f4243d",
+          "source_timerange": {
+            "start": 1000000,
+            "duration": 5000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 5000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "692ccc8c-4c30-48d6-8b3d-64ba95da032b",
+      "type": "text",
+      "segments": [
+        {
+          "id": "ad172dfa-2245-470a-8cb9-69ef06311404",
+          "material_id": "be8d0953-bd55-4c70-b1e1-38d233b729f3",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "f8cef77f-5b5f-423f-87c3-cbb753a3d51b",
+          "material_id": "c63d2818-2cd4-4d09-a624-2e50ec0a385f",
+          "target_timerange": {
+            "start": 2000000,
+            "duration": 3000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

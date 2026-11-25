@@ -1,0 +1,171 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 12160000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "f1cb71a6-7ec6-4f89-9f76-73a21c76e1b0",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_256751986134_20261102_212429_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "eafb9779-51ef-4581-9113-397506aef336",
+        "content": "{\"text\": \"他这个也是比较不错\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f2be41c3-c896-4729-a07a-877c9c47b451",
+        "content": "{\"text\": \"帮我大家出差呀\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4e7252d6-3f3f-463a-aefd-6596b31b59a9",
+        "content": "{\"text\": \"充了设备比较多\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f1867f81-04b5-48f8-9b4e-7800ffc564f4",
+        "content": "{\"text\": \"或者是说你以后\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8aac27e9-ab19-4e65-bedb-a9335a45c1a9",
+        "content": "{\"text\": \"即便出门有高墙度的拍摄许球都可以选他\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ad4cddc8-b749-45b7-b2f5-5831d03187b2",
+        "content": "{\"text\": \"他现在下个真的很想啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bd2b72c4-e3cf-4e31-aa15-4577cf05b7c4",
+        "content": "{\"text\": \"他远家是一个二百六十九\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "84f155c0-86e7-4b51-b62b-5f3a1414419b",
+      "type": "video",
+      "segments": [
+        {
+          "id": "f691b170-a86a-4a9a-939e-0160cd97adb1",
+          "material_id": "f1cb71a6-7ec6-4f89-9f76-73a21c76e1b0",
+          "source_timerange": {
+            "start": 0,
+            "duration": 12160000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 12160000
+          }
+        }
+      ]
+    },
+    {
+      "id": "b4a802ec-12c9-49ad-8daa-d89868336481",
+      "type": "text",
+      "segments": [
+        {
+          "id": "4fdcfe79-8a68-4428-b40f-16b7670ef0e7",
+          "material_id": "eafb9779-51ef-4581-9113-397506aef336",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2420000
+          }
+        },
+        {
+          "id": "ae4547b6-9cc3-434a-a369-de6e5942b4af",
+          "material_id": "f2be41c3-c896-4729-a07a-877c9c47b451",
+          "target_timerange": {
+            "start": 2420000,
+            "duration": 1920000
+          }
+        },
+        {
+          "id": "f27cd0ae-bd54-42ce-82e7-aa044715841b",
+          "material_id": "4e7252d6-3f3f-463a-aefd-6596b31b59a9",
+          "target_timerange": {
+            "start": 4340000,
+            "duration": 1020000
+          }
+        },
+        {
+          "id": "63c915c7-cff1-4290-8716-cfcf5bbd9280",
+          "material_id": "f1867f81-04b5-48f8-9b4e-7800ffc564f4",
+          "target_timerange": {
+            "start": 5360000,
+            "duration": 779999
+          }
+        },
+        {
+          "id": "b49befaf-1ccc-4ddd-b0ef-bd20f5bbdfe7",
+          "material_id": "8aac27e9-ab19-4e65-bedb-a9335a45c1a9",
+          "target_timerange": {
+            "start": 6140000,
+            "duration": 2639999
+          }
+        },
+        {
+          "id": "758a914c-d5df-4b33-9736-619cad09e829",
+          "material_id": "ad4cddc8-b749-45b7-b2f5-5831d03187b2",
+          "target_timerange": {
+            "start": 8780000,
+            "duration": 1660000
+          }
+        },
+        {
+          "id": "edfde1ba-fe02-4a00-b384-eb097481d74c",
+          "material_id": "bd2b72c4-e3cf-4e31-aa15-4577cf05b7c4",
+          "target_timerange": {
+            "start": 10440000,
+            "duration": 1720000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

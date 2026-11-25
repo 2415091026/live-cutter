@@ -1,0 +1,103 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 6600000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "f4081d14-dc39-4c3e-94d1-e42c992268ff",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-52-09_渡一Web前端学习频道（Ai全栈）_p014.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "c5cf2b6f-e928-4537-b9d2-d9c32759cc9c",
+        "content": "{\"text\": \"后面的事情我们也在说\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8b57eaa3-216e-4faf-91cc-64f6e05314d3",
+        "content": "{\"text\": \"目前当下的问题就是这样主要是\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "51f46d0c-68a2-4053-94f0-d2cd3c9ed195",
+        "content": "{\"text\": \"绝写上面的一些空伙\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "c4a70f93-f3fe-4d7e-8b55-31f3b4cc9a0d",
+      "type": "video",
+      "segments": [
+        {
+          "id": "d04c47b2-09c6-4faf-a8cf-233a644a4ce3",
+          "material_id": "f4081d14-dc39-4c3e-94d1-e42c992268ff",
+          "source_timerange": {
+            "start": 0,
+            "duration": 6600000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 6600000
+          }
+        }
+      ]
+    },
+    {
+      "id": "ef09ef1a-42f4-488a-8a6d-e7ebd2451dc0",
+      "type": "text",
+      "segments": [
+        {
+          "id": "691d6b30-5ff5-42dc-a8ce-625f121d7e07",
+          "material_id": "c5cf2b6f-e928-4537-b9d2-d9c32759cc9c",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "ff004ae9-b8e8-40ea-9389-7c43f76ecbbd",
+          "material_id": "8b57eaa3-216e-4faf-91cc-64f6e05314d3",
+          "target_timerange": {
+            "start": 1800000,
+            "duration": 2920000
+          }
+        },
+        {
+          "id": "a01fcf00-fa99-4668-b075-336c9ab21233",
+          "material_id": "51f46d0c-68a2-4053-94f0-d2cd3c9ed195",
+          "target_timerange": {
+            "start": 4720000,
+            "duration": 1880000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

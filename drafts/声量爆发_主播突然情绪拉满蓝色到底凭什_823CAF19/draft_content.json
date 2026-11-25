@@ -1,0 +1,188 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 15120000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "a5723deb-3a7a-4bdc-9d8d-15df8efd5237",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-26-13_PANDAER_p003.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "0b98f6ab-8ea9-48b4-a48b-da57cf5b2a50",
+        "content": "{\"text\": \"蓝色的那个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "57aa5401-b9f8-4ce5-a6f6-21c0ac652e22",
+        "content": "{\"text\": \"蓝色的好看是不是\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "604f23f0-b6f7-4ee6-a3de-d023b6694610",
+        "content": "{\"text\": \"对的蓝色的就是很好看\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "06481083-5bb0-48df-a5f9-4144f1092cf4",
+        "content": "{\"text\": \"蓝色真的很好看\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "52fce9c2-9dec-4b3c-a05f-b4134710c42f",
+        "content": "{\"text\": \"尤其是女孩子就很喜欢很猛去\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c05803ee-c2b2-48c4-8256-ced424e89486",
+        "content": "{\"text\": \"没事你再买一个自己用\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "70c2e5fb-e9f3-447a-a14d-0fa30fa0d9d3",
+        "content": "{\"text\": \"那个给你给你洗腹用\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1e47cfc2-cca7-49dc-a803-d6a2959930fc",
+        "content": "{\"text\": \"你这个自己用\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "b032adca-7715-490b-ae56-480f58de0979",
+      "type": "video",
+      "segments": [
+        {
+          "id": "4b9e12db-0199-4920-8ecf-ff95beb21afd",
+          "material_id": "a5723deb-3a7a-4bdc-9d8d-15df8efd5237",
+          "source_timerange": {
+            "start": 9100000,
+            "duration": 15120000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 15120000
+          }
+        }
+      ]
+    },
+    {
+      "id": "c0fc2b6e-9414-4ac8-8cf6-f6562a01aa67",
+      "type": "text",
+      "segments": [
+        {
+          "id": "629dd5be-10f8-4018-880e-bc1c7641cab2",
+          "material_id": "0b98f6ab-8ea9-48b4-a48b-da57cf5b2a50",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "c31f4fbd-879b-4b9b-8c5e-53790e93b69c",
+          "material_id": "57aa5401-b9f8-4ce5-a6f6-21c0ac652e22",
+          "target_timerange": {
+            "start": 1800000,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "f4e68b66-7059-43c8-b1c9-14e525de73d9",
+          "material_id": "604f23f0-b6f7-4ee6-a3de-d023b6694610",
+          "target_timerange": {
+            "start": 3200000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "17bb1165-ef5b-463e-b9ec-bca47989d5ac",
+          "material_id": "06481083-5bb0-48df-a5f9-4144f1092cf4",
+          "target_timerange": {
+            "start": 5200000,
+            "duration": 1439999
+          }
+        },
+        {
+          "id": "a3e241c9-1740-41a3-978b-c2bbb6753a1b",
+          "material_id": "52fce9c2-9dec-4b3c-a05f-b4134710c42f",
+          "target_timerange": {
+            "start": 7320000,
+            "duration": 2719999
+          }
+        },
+        {
+          "id": "2ced94a0-6360-4675-8f55-6b8182e2e752",
+          "material_id": "c05803ee-c2b2-48c4-8256-ced424e89486",
+          "target_timerange": {
+            "start": 10680000,
+            "duration": 1640000
+          }
+        },
+        {
+          "id": "1affce40-c9f2-410f-bef3-af1f9a3de672",
+          "material_id": "70c2e5fb-e9f3-447a-a14d-0fa30fa0d9d3",
+          "target_timerange": {
+            "start": 12320000,
+            "duration": 1799999
+          }
+        },
+        {
+          "id": "a41608fb-6668-4b54-b16c-a75c93410d80",
+          "material_id": "1e47cfc2-cca7-49dc-a803-d6a2959930fc",
+          "target_timerange": {
+            "start": 14120000,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

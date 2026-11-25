@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 4500000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "ba7b4419-23b5-4055-8589-aee75a4ed04a",
+        "path": "e:\\代码\\美食街\\live-cutter\\recordings\\live_80017709309_20261102_171325_5s.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "f2587043-276f-4703-8925-600bfe448a2b",
+        "content": "{\"text\": \"家人们这波直接稳了！\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1a71b1f3-6bce-43af-83ab-fe55b7114ab9",
+        "content": "{\"text\": \"结果进场三秒当场破防退钱！\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "db7c78bc-398f-4705-b26e-4a10e1b18ca9",
+      "type": "video",
+      "segments": [
+        {
+          "id": "5bbb5670-1ec5-4e5e-a8f2-c676cae2c1d7",
+          "material_id": "ba7b4419-23b5-4055-8589-aee75a4ed04a",
+          "source_timerange": {
+            "start": 0,
+            "duration": 4500000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 4500000
+          }
+        }
+      ]
+    },
+    {
+      "id": "67b21e84-3ee3-40a9-b9c5-745f84df7016",
+      "type": "text",
+      "segments": [
+        {
+          "id": "12bb193f-932a-431b-8147-556c52bc6164",
+          "material_id": "f2587043-276f-4703-8925-600bfe448a2b",
+          "target_timerange": {
+            "start": 500000,
+            "duration": 1700000
+          }
+        },
+        {
+          "id": "c35f79ed-a411-43a8-9b2a-6cd026130556",
+          "material_id": "1a71b1f3-6bce-43af-83ab-fe55b7114ab9",
+          "target_timerange": {
+            "start": 2500000,
+            "duration": 1700000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

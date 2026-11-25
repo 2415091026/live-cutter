@@ -1,0 +1,205 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18400000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "f6940753-c3aa-48bb-808f-3854fe62e947",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-39-13_陈伯(全能王)_p003.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "7a60b5bc-cc21-47ec-8f92-595cd9acd72f",
+        "content": "{\"text\": \"真的,你们跑车十大名场面\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0814899e-fa4f-4cfa-9ba9-eab29af52a19",
+        "content": "{\"text\": \"这个开播,这个开播之间我刷的我应该刷到了的话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "168e7e29-0b2d-4de9-8327-602eec611f96",
+        "content": "{\"text\": \"激行,你激行时刻的的话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1ace969f-a646-4342-ab18-988573a0e7b2",
+        "content": "{\"text\": \"名场面\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "faa046b7-29ab-4634-8ba5-ba45954c216e",
+        "content": "{\"text\": \"老有感觉了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "755b327a-37a6-420e-b8e1-845c2397e5db",
+        "content": "{\"text\": \"不代还有一份东西这么没参业的抓你参业了啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "32fb6b1f-0cac-4294-a428-d39361375e37",
+        "content": "{\"text\": \"参业参业下来\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6acaf3af-9405-4216-815c-7faaa6192179",
+        "content": "{\"text\": \"别人关注就可以了啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3afbf21c-c366-4d5c-8020-2c5d27115a3a",
+        "content": "{\"text\": \"咱马步去就没了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "8104e622-a83e-49c6-b98d-4bb7feb2d6e7",
+      "type": "video",
+      "segments": [
+        {
+          "id": "455f2b1c-d2e0-4318-bb7d-be4982aa5e22",
+          "material_id": "f6940753-c3aa-48bb-808f-3854fe62e947",
+          "source_timerange": {
+            "start": 6600000,
+            "duration": 18400000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18400000
+          }
+        }
+      ]
+    },
+    {
+      "id": "46a6b99f-0526-4cb9-b41c-ffafb0caab60",
+      "type": "text",
+      "segments": [
+        {
+          "id": "21e08555-0294-4707-88b3-40b9a0f3619e",
+          "material_id": "7a60b5bc-cc21-47ec-8f92-595cd9acd72f",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2040000
+          }
+        },
+        {
+          "id": "c360f93b-6dc6-4be1-b11d-cbb107e0087d",
+          "material_id": "0814899e-fa4f-4cfa-9ba9-eab29af52a19",
+          "target_timerange": {
+            "start": 2040000,
+            "duration": 2959999
+          }
+        },
+        {
+          "id": "4a9062f7-5b09-4a11-b6ca-98654fac3270",
+          "material_id": "168e7e29-0b2d-4de9-8327-602eec611f96",
+          "target_timerange": {
+            "start": 5400000,
+            "duration": 2199999
+          }
+        },
+        {
+          "id": "802f2c89-9cb7-4b48-808b-d0b809944127",
+          "material_id": "1ace969f-a646-4342-ab18-988573a0e7b2",
+          "target_timerange": {
+            "start": 8400000,
+            "duration": 800000
+          }
+        },
+        {
+          "id": "6a555aaf-4669-464e-9679-dea46551fb6d",
+          "material_id": "faa046b7-29ab-4634-8ba5-ba45954c216e",
+          "target_timerange": {
+            "start": 10400000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "c5053091-fb45-4441-891a-05d4e83f1e2f",
+          "material_id": "755b327a-37a6-420e-b8e1-845c2397e5db",
+          "target_timerange": {
+            "start": 12600000,
+            "duration": 2400000
+          }
+        },
+        {
+          "id": "ec5da508-c048-42be-84a6-c689bd9f8c97",
+          "material_id": "32fb6b1f-0cac-4294-a428-d39361375e37",
+          "target_timerange": {
+            "start": 15000000,
+            "duration": 799999
+          }
+        },
+        {
+          "id": "a85029fb-0a87-4a0f-a513-3eb4a77e367a",
+          "material_id": "6acaf3af-9405-4216-815c-7faaa6192179",
+          "target_timerange": {
+            "start": 16200000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "508c0310-77ae-44c5-9ac2-2ea968afa219",
+          "material_id": "3afbf21c-c366-4d5c-8020-2c5d27115a3a",
+          "target_timerange": {
+            "start": 17600000,
+            "duration": 799999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

@@ -1,0 +1,171 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18260000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "372f6f3b-c8cb-4949-94db-9969d5fbe33f",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-41-35_陈伯(全能王)_p005.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "75cb0454-48c0-470e-8d07-63188a3ed4c2",
+        "content": "{\"text\": \"理科結,遊戲,OK\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8bc2ec00-7c5d-487f-a49d-79e941b9934a",
+        "content": "{\"text\": \"Best go\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9eb5bcdf-9fea-4357-92b6-1aed0246fcd8",
+        "content": "{\"text\": \"回忽了,好哥,哈囉來了,就見面了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ed2571ac-b72b-465c-978b-6ea61d65a37c",
+        "content": "{\"text\": \"就見面了,就見面了,來吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7ad92e87-bfca-4fd8-a287-b15ba7326607",
+        "content": "{\"text\": \"今天,今天你們的狀態怎麼樣?\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d827dcba-c9e5-4ae1-9c33-7456c52a269e",
+        "content": "{\"text\": \"不知道怎麼樣?\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "488589f8-0f4a-4759-b7ab-6cb51765a35e",
+        "content": "{\"text\": \"非常好\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "dc0de735-2569-4e34-8f5d-5de518690b96",
+      "type": "video",
+      "segments": [
+        {
+          "id": "09f8b9c6-6ceb-4a60-9d9a-acd87a5535b7",
+          "material_id": "372f6f3b-c8cb-4949-94db-9969d5fbe33f",
+          "source_timerange": {
+            "start": 6660000,
+            "duration": 18260000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18260000
+          }
+        }
+      ]
+    },
+    {
+      "id": "d1271325-14ef-46fc-82cb-8dff36709c9b",
+      "type": "text",
+      "segments": [
+        {
+          "id": "6282b4f1-5dd9-423c-9bc5-c3902dad3151",
+          "material_id": "75cb0454-48c0-470e-8d07-63188a3ed4c2",
+          "target_timerange": {
+            "start": 0,
+            "duration": 4699999
+          }
+        },
+        {
+          "id": "a2adf776-4b30-49fb-925d-46290776f627",
+          "material_id": "8bc2ec00-7c5d-487f-a49d-79e941b9934a",
+          "target_timerange": {
+            "start": 4699999,
+            "duration": 1020000
+          }
+        },
+        {
+          "id": "6d4aafe2-45b4-4257-b891-884129d0dc26",
+          "material_id": "9eb5bcdf-9fea-4357-92b6-1aed0246fcd8",
+          "target_timerange": {
+            "start": 7260000,
+            "duration": 2819999
+          }
+        },
+        {
+          "id": "a41d79a3-a83e-47e9-acb0-ea6be5e245d9",
+          "material_id": "ed2571ac-b72b-465c-978b-6ea61d65a37c",
+          "target_timerange": {
+            "start": 10079999,
+            "duration": 2680000
+          }
+        },
+        {
+          "id": "f5bf80e2-3837-4182-a554-5d864d074272",
+          "material_id": "7ad92e87-bfca-4fd8-a287-b15ba7326607",
+          "target_timerange": {
+            "start": 12760000,
+            "duration": 2699999
+          }
+        },
+        {
+          "id": "2cb39601-406c-439b-8366-f7247921d6ab",
+          "material_id": "d827dcba-c9e5-4ae1-9c33-7456c52a269e",
+          "target_timerange": {
+            "start": 15460000,
+            "duration": 1459999
+          }
+        },
+        {
+          "id": "4d156064-2fb6-41d1-bdcd-8dcafc568310",
+          "material_id": "488589f8-0f4a-4759-b7ab-6cb51765a35e",
+          "target_timerange": {
+            "start": 16920000,
+            "duration": 1340000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

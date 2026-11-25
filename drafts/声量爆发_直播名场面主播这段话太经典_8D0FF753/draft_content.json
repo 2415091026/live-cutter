@@ -1,0 +1,103 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 58910000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "76e20b42-5dcb-41e5-878f-5d3b92d6e54a",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\15-14-17_叫我Happy（Rust-失控进化）_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "6d6dc262-3247-450d-ac09-04cef60166a4",
+        "content": "{\"text\": \"后箭大人鞋\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f0687ecc-afa8-45d0-9332-d01d1c30f876",
+        "content": "{\"text\": \"后箭,后箭,后箭\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dc4feb40-5c93-45f8-b041-975f8837cc23",
+        "content": "{\"text\": \"箭继续\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "daedf012-a1e5-414c-9ae8-50c56aa23ebc",
+      "type": "video",
+      "segments": [
+        {
+          "id": "c673d287-5ee3-4cfb-a252-67d6a868fc4d",
+          "material_id": "76e20b42-5dcb-41e5-878f-5d3b92d6e54a",
+          "source_timerange": {
+            "start": 500000,
+            "duration": 58910000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 58910000
+          }
+        }
+      ]
+    },
+    {
+      "id": "533aa595-87a8-44b0-9052-ce22042e12a9",
+      "type": "text",
+      "segments": [
+        {
+          "id": "2799fbb2-11e8-4c13-915a-c325670dfba0",
+          "material_id": "6d6dc262-3247-450d-ac09-04cef60166a4",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3599999
+          }
+        },
+        {
+          "id": "b9a706f4-84bf-4687-905c-a9cbb95b7bd7",
+          "material_id": "f0687ecc-afa8-45d0-9332-d01d1c30f876",
+          "target_timerange": {
+            "start": 5600000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "b5b7b531-91f2-4293-bc3e-fe5611cc4728",
+          "material_id": "dc4feb40-5c93-45f8-b041-975f8837cc23",
+          "target_timerange": {
+            "start": 8600000,
+            "duration": 50309999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

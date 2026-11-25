@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 5400000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "c2ca729e-4528-40f8-8b52-66a38769333a",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-40-37_渡一Web前端学习频道（Ai全栈）_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "bebaa33d-6398-4587-a68d-f3cf5059688c",
+        "content": "{\"text\": \"但是这样的话那个时间不就拉长了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "eb1c7dff-91bb-44ed-957b-44533f3e2b9d",
+        "content": "{\"text\": \"而且现在市面上很多都是拍摄的家吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "8b3e49c6-1a04-4e82-8f1d-56b302ab0538",
+      "type": "video",
+      "segments": [
+        {
+          "id": "d297c796-ed65-4b09-ba1a-96c9654a2d5d",
+          "material_id": "c2ca729e-4528-40f8-8b52-66a38769333a",
+          "source_timerange": {
+            "start": 0,
+            "duration": 5400000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 5400000
+          }
+        }
+      ]
+    },
+    {
+      "id": "0be5c45e-c6fd-4a4f-a28f-e0e547f9462e",
+      "type": "text",
+      "segments": [
+        {
+          "id": "68e662f1-f891-4416-a942-067a6b07ee94",
+          "material_id": "bebaa33d-6398-4587-a68d-f3cf5059688c",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3200000
+          }
+        },
+        {
+          "id": "94edfb9a-72bb-4237-9649-c608cda982ff",
+          "material_id": "eb1c7dff-91bb-44ed-957b-44533f3e2b9d",
+          "target_timerange": {
+            "start": 3200000,
+            "duration": 2200000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

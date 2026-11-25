@@ -1,0 +1,103 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 24560000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "62640b5e-97c3-4032-a812-fcbaf7030607",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\15-18-17_叫我Happy（Rust-失控进化）_p003.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "ccd06d88-55a1-4258-9e19-3cf8f421a9bd",
+        "content": "{\"text\": \"那个还没收到小级\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "543c6c98-f3f1-42ae-a380-51199a1d2c14",
+        "content": "{\"text\": \"可无啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "74d04872-e0cc-4b7e-ac98-a2ad37062fc5",
+        "content": "{\"text\": \"怎么还没收到小级啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "5dabf822-4a01-407d-8557-76fe11b4bff7",
+      "type": "video",
+      "segments": [
+        {
+          "id": "31b79b0c-2bdd-4bc1-8a2c-093a37a203e8",
+          "material_id": "62640b5e-97c3-4032-a812-fcbaf7030607",
+          "source_timerange": {
+            "start": 3480000,
+            "duration": 24560000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 24560000
+          }
+        }
+      ]
+    },
+    {
+      "id": "26fdf15d-327c-4e93-8318-b071f6be117e",
+      "type": "text",
+      "segments": [
+        {
+          "id": "6390901c-0250-4423-aea5-f07486de571f",
+          "material_id": "ccd06d88-55a1-4258-9e19-3cf8f421a9bd",
+          "target_timerange": {
+            "start": 0,
+            "duration": 12930000
+          }
+        },
+        {
+          "id": "eb643701-b997-443a-aeb3-1393a1dd60b4",
+          "material_id": "543c6c98-f3f1-42ae-a380-51199a1d2c14",
+          "target_timerange": {
+            "start": 22160000,
+            "duration": 839999
+          }
+        },
+        {
+          "id": "78618058-11ca-46ab-91b1-c66954efc243",
+          "material_id": "74d04872-e0cc-4b7e-ac98-a2ad37062fc5",
+          "target_timerange": {
+            "start": 23000000,
+            "duration": 1559999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

@@ -1,0 +1,324 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "587a9888-1461-46dc-8a33-d380e5944190",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-04-37_东方甄选_p008.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "14c6ec29-cbca-4853-a864-ef3d037de8a5",
+        "content": "{\"text\": \"而且的话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d065be1c-acf8-4b7f-bad9-b04db5056a00",
+        "content": "{\"text\": \"尤其像这个空调可能比较干\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2dc822da-ab23-45be-9fd0-3fa4bc5e5571",
+        "content": "{\"text\": \"你还未必适应\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "25334ccb-43fd-4547-aa0f-3551126b12c6",
+        "content": "{\"text\": \"像这个小太阳\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8aa40ae1-b272-4c1f-a8fc-7b36e73a6814",
+        "content": "{\"text\": \"替了线也只能热一个区域\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ca2ae783-0dec-4cd9-801e-1b87d278a365",
+        "content": "{\"text\": \"就不对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "328b8a80-a40e-4f62-af09-65b2ad2c86f6",
+        "content": "{\"text\": \"咱们比如双上床\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7263aba5-c1de-479d-945b-935162ae1052",
+        "content": "{\"text\": \"一般的替了线\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "514ef2db-63fc-42f4-8e57-72d41aca4961",
+        "content": "{\"text\": \"你放这边\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f2b7380b-5fa9-48ab-8246-71596d769fa8",
+        "content": "{\"text\": \"这边这人怎么办\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5ce9d581-00de-4501-94df-817f037fb8fa",
+        "content": "{\"text\": \"对吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "48ef3963-5945-4930-b5a0-0d362ea233d7",
+        "content": "{\"text\": \"你放脚上你头怎么办\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2d2b772d-fd44-4d09-8469-1d17e3c507ce",
+        "content": "{\"text\": \"对不对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f9fced2c-7978-441e-84f8-58a95e8f70ec",
+        "content": "{\"text\": \"而且你备在里边床单上的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0045fac6-8a5f-4b5f-a31c-13c9845ca41d",
+        "content": "{\"text\": \"一冷朝食怎么解决\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "73b56dd6-36fb-4863-9820-ebe4c78ceffe",
+        "content": "{\"text\": \"各位咱说一个特别现实的问题\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "344fb00f-f763-4c5e-b7b8-e5e512c0b313",
+      "type": "video",
+      "segments": [
+        {
+          "id": "3b3d7797-5fd2-46e3-bc46-e5be9ed960cc",
+          "material_id": "587a9888-1461-46dc-8a33-d380e5944190",
+          "source_timerange": {
+            "start": 24000000,
+            "duration": 18000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "80748d8c-0169-479f-8a89-02160856fff7",
+      "type": "text",
+      "segments": [
+        {
+          "id": "a075e2ba-2d50-462d-baf3-05ccb3aa97e1",
+          "material_id": "14c6ec29-cbca-4853-a864-ef3d037de8a5",
+          "target_timerange": {
+            "start": 0,
+            "duration": 559999
+          }
+        },
+        {
+          "id": "5f2e100c-5be8-4f86-965e-3f50489195ac",
+          "material_id": "d065be1c-acf8-4b7f-bad9-b04db5056a00",
+          "target_timerange": {
+            "start": 559999,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "348c1ad0-a988-4922-8c7b-f0af60f9257f",
+          "material_id": "2dc822da-ab23-45be-9fd0-3fa4bc5e5571",
+          "target_timerange": {
+            "start": 2160000,
+            "duration": 1039999
+          }
+        },
+        {
+          "id": "336ccbb4-737f-4556-acf6-97df91b61157",
+          "material_id": "25334ccb-43fd-4547-aa0f-3551126b12c6",
+          "target_timerange": {
+            "start": 3199999,
+            "duration": 800000
+          }
+        },
+        {
+          "id": "0deee795-7f88-45a1-ad69-2597a83238c2",
+          "material_id": "8aa40ae1-b272-4c1f-a8fc-7b36e73a6814",
+          "target_timerange": {
+            "start": 4000000,
+            "duration": 2300000
+          }
+        },
+        {
+          "id": "dd5d8cd5-8ee7-4d05-99fb-1383188e3884",
+          "material_id": "ca2ae783-0dec-4cd9-801e-1b87d278a365",
+          "target_timerange": {
+            "start": 6300000,
+            "duration": 519999
+          }
+        },
+        {
+          "id": "3b7d730f-9be3-4846-8966-8a919e1a0034",
+          "material_id": "328b8a80-a40e-4f62-af09-65b2ad2c86f6",
+          "target_timerange": {
+            "start": 6820000,
+            "duration": 1019999
+          }
+        },
+        {
+          "id": "b8a167ad-f093-4f01-8215-b8a990840355",
+          "material_id": "7263aba5-c1de-479d-945b-935162ae1052",
+          "target_timerange": {
+            "start": 7840000,
+            "duration": 760000
+          }
+        },
+        {
+          "id": "5e70dd05-a562-40a6-8d4b-0736f683e819",
+          "material_id": "514ef2db-63fc-42f4-8e57-72d41aca4961",
+          "target_timerange": {
+            "start": 8600000,
+            "duration": 780000
+          }
+        },
+        {
+          "id": "8c45dd23-453f-4ccb-85b0-66eb5287e38b",
+          "material_id": "f2b7380b-5fa9-48ab-8246-71596d769fa8",
+          "target_timerange": {
+            "start": 9380000,
+            "duration": 1019999
+          }
+        },
+        {
+          "id": "be26837b-0c49-466b-884e-22d5079368ff",
+          "material_id": "5ce9d581-00de-4501-94df-817f037fb8fa",
+          "target_timerange": {
+            "start": 10399999,
+            "duration": 259999
+          }
+        },
+        {
+          "id": "9be0bd89-8a8e-4d71-9367-90025483ee62",
+          "material_id": "48ef3963-5945-4930-b5a0-0d362ea233d7",
+          "target_timerange": {
+            "start": 10659999,
+            "duration": 1520000
+          }
+        },
+        {
+          "id": "5504b759-d2f6-4dd4-b7ac-56ac0c273a6e",
+          "material_id": "2d2b772d-fd44-4d09-8469-1d17e3c507ce",
+          "target_timerange": {
+            "start": 12180000,
+            "duration": 399999
+          }
+        },
+        {
+          "id": "77945666-dabe-46a9-b047-3971ecd029aa",
+          "material_id": "f9fced2c-7978-441e-84f8-58a95e8f70ec",
+          "target_timerange": {
+            "start": 12579999,
+            "duration": 2179999
+          }
+        },
+        {
+          "id": "b029b4e8-e524-4ffe-bc48-1c73f7ea375b",
+          "material_id": "0045fac6-8a5f-4b5f-a31c-13c9845ca41d",
+          "target_timerange": {
+            "start": 14759999,
+            "duration": 1539999
+          }
+        },
+        {
+          "id": "09c1bfcb-0e28-491d-b967-819408877f29",
+          "material_id": "73b56dd6-36fb-4863-9820-ebe4c78ceffe",
+          "target_timerange": {
+            "start": 16299999,
+            "duration": 1700000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 5440000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "2ad891f8-4550-46fe-9ad3-05cd184d3a71",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-42-46_渡一Web前端学习频道（Ai全栈）_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "26deca70-4c31-4ac9-af18-65276c23aa34",
+        "content": "{\"text\": \"因为每一节,我到底是什么问题,我都感觉好像我们有\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "79790a03-8a96-4293-a21b-b96a9e272379",
+        "content": "{\"text\": \"有很多种点去关注\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "d2e44f95-4874-4f49-b0a6-b98bcd9a0d29",
+      "type": "video",
+      "segments": [
+        {
+          "id": "2976effc-e86f-437b-87ad-0370b05faea3",
+          "material_id": "2ad891f8-4550-46fe-9ad3-05cd184d3a71",
+          "source_timerange": {
+            "start": 4040000,
+            "duration": 5440000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 5440000
+          }
+        }
+      ]
+    },
+    {
+      "id": "94d41fd6-a594-4e68-826b-90004ccf734b",
+      "type": "text",
+      "segments": [
+        {
+          "id": "be2e40fd-e148-4ceb-b661-43968c7cc65a",
+          "material_id": "26deca70-4c31-4ac9-af18-65276c23aa34",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3280000
+          }
+        },
+        {
+          "id": "7c60dbab-f543-4ec2-bd34-9003629d3273",
+          "material_id": "79790a03-8a96-4293-a21b-b96a9e272379",
+          "target_timerange": {
+            "start": 3280000,
+            "duration": 2160000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

@@ -1,0 +1,120 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 8359999,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "e06a7d70-3398-483c-90c7-96b2e499acbe",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_256751986134_20261102_212504_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "5e2e5a8b-dc14-459b-a92c-7781d1e3149a",
+        "content": "{\"text\": \"下等的話又給大家檢了四六塊錢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2fff9e9e-7e48-4c37-9da4-41c3e67e7410",
+        "content": "{\"text\": \"又給大家檢了四六塊錢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c712f5aa-447f-40f2-8af3-7d02d153d05c",
+        "content": "{\"text\": \"你是拍的話只需要好的一開頭\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ae4a8131-1263-4d02-934b-b55da9643805",
+        "content": "{\"text\": \"一百九十九的价格\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "55d2ebc7-01d8-433f-8841-74998bbd3895",
+      "type": "video",
+      "segments": [
+        {
+          "id": "40438d46-8899-40b7-a61e-944a98611b66",
+          "material_id": "e06a7d70-3398-483c-90c7-96b2e499acbe",
+          "source_timerange": {
+            "start": 3680000,
+            "duration": 8359999
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 8359999
+          }
+        }
+      ]
+    },
+    {
+      "id": "743988c9-003d-4fa6-badb-2facebaea8ba",
+      "type": "text",
+      "segments": [
+        {
+          "id": "aae1bcb6-de45-4743-82e1-a72ea84b0192",
+          "material_id": "5e2e5a8b-dc14-459b-a92c-7781d1e3149a",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2600000
+          }
+        },
+        {
+          "id": "48cea44c-6c32-432e-903c-c31fc57233e2",
+          "material_id": "2fff9e9e-7e48-4c37-9da4-41c3e67e7410",
+          "target_timerange": {
+            "start": 2600000,
+            "duration": 1919999
+          }
+        },
+        {
+          "id": "eb260404-1a5d-41fb-89e8-078fd4229850",
+          "material_id": "c712f5aa-447f-40f2-8af3-7d02d153d05c",
+          "target_timerange": {
+            "start": 4520000,
+            "duration": 2480000
+          }
+        },
+        {
+          "id": "a7545f7e-6533-4c15-9ef7-1cb025e6d5b1",
+          "material_id": "ae4a8131-1263-4d02-934b-b55da9643805",
+          "target_timerange": {
+            "start": 7000000,
+            "duration": 1359999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

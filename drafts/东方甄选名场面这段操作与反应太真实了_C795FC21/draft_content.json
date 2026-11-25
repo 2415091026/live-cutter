@@ -1,0 +1,50 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 60100000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "1b2a50ed-19e0-46ad-adde-08db51ff8210",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-11-53_东方甄选_p041.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "38b31166-07d2-4a28-837b-198c4db13f3b",
+      "type": "video",
+      "segments": [
+        {
+          "id": "d6ae75ec-d843-4795-8bf1-b649ed6ccc14",
+          "material_id": "1b2a50ed-19e0-46ad-adde-08db51ff8210",
+          "source_timerange": {
+            "start": 0,
+            "duration": 60100000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 60100000
+          }
+        }
+      ]
+    },
+    {
+      "id": "09972051-1de6-44fc-89e8-4c7c37623130",
+      "type": "text",
+      "segments": []
+    }
+  ],
+  "version": 3000000
+}

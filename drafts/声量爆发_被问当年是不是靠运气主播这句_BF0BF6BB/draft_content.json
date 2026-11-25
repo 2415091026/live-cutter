@@ -1,0 +1,137 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 12000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "182bed96-ba32-4d63-b54f-27ffb4e63ce8",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-47-51_渡一Web前端学习频道（Ai全栈）_p009.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "e9a7c5a9-ee59-49b4-aad1-f0c97063be5b",
+        "content": "{\"text\": \"你当年有点运气的成分吗\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f088326b-9cc4-4203-bc5e-c46f0d32c5a7",
+        "content": "{\"text\": \"我觉得然后我这一位前端早期要求简单\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7571bc21-da83-4342-8c05-80289560c248",
+        "content": "{\"text\": \"要求补负责\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a38783ac-792a-4e0b-88dc-f9da26f8b0ca",
+        "content": "{\"text\": \"现在A晋特勢一样的状态\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "85a9ae30-4079-479d-9266-c98ef42eebf3",
+        "content": "{\"text\": \"还不就是当时有用\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "2c8da13a-081d-41a2-aee3-cd6bc11749ae",
+      "type": "video",
+      "segments": [
+        {
+          "id": "773fd584-8361-4a6b-a515-bfc84f4c1e3e",
+          "material_id": "182bed96-ba32-4d63-b54f-27ffb4e63ce8",
+          "source_timerange": {
+            "start": 0,
+            "duration": 12000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 12000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "193eb222-cfc3-4039-9441-562e489bfc57",
+      "type": "text",
+      "segments": [
+        {
+          "id": "9d5f64da-c92e-44ef-aaa9-e610b839f8cb",
+          "material_id": "e9a7c5a9-ee59-49b4-aad1-f0c97063be5b",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2680000
+          }
+        },
+        {
+          "id": "7890b82d-bd3f-436d-94dd-0da8882bceee",
+          "material_id": "f088326b-9cc4-4203-bc5e-c46f0d32c5a7",
+          "target_timerange": {
+            "start": 2680000,
+            "duration": 3720000
+          }
+        },
+        {
+          "id": "8ac76b4a-3918-4e38-9dd0-af8aca08eed0",
+          "material_id": "7571bc21-da83-4342-8c05-80289560c248",
+          "target_timerange": {
+            "start": 6400000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "e060d690-6a3a-4271-9d53-56000cc01cd4",
+          "material_id": "a38783ac-792a-4e0b-88dc-f9da26f8b0ca",
+          "target_timerange": {
+            "start": 7400000,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "b02691d2-ed82-43ea-a3a0-a426f855c85c",
+          "material_id": "85a9ae30-4079-479d-9266-c98ef42eebf3",
+          "target_timerange": {
+            "start": 9920000,
+            "duration": 2080000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

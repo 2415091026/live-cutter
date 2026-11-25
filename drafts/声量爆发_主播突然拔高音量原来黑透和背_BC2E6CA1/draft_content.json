@@ -1,0 +1,154 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 15160000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "4b52be92-6f95-4bfe-a21c-75ed8df88b79",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-30-24_PANDAER_p007.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "541abbac-40e4-438f-bd47-3f84c253c5c7",
+        "content": "{\"text\": \"還有一個 還有一個是屬於那種黑透的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bc2286b0-e0a0-4801-bcff-07d09c1d108d",
+        "content": "{\"text\": \"兩種不同的一個背鋼\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1e68cf24-46d5-488d-9a9c-0a1752c365bd",
+        "content": "{\"text\": \"讓大家隨意新環到不同的手感\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3824361f-7004-4657-9a8b-885d95c7d720",
+        "content": "{\"text\": \"並且他表服和到人體工程學的一個設計的外型\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f0381d5b-f9db-46ec-8137-2631553d4f4b",
+        "content": "{\"text\": \"所以說我們整個的握持感的話\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c4c76147-51c0-4c6a-8616-522c21748410",
+        "content": "{\"text\": \"會跟貼合一線\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "10bb72dc-a4dc-47a9-a911-35665f10bd8d",
+      "type": "video",
+      "segments": [
+        {
+          "id": "c3480e81-143d-41ee-bc18-89e015cf35fc",
+          "material_id": "4b52be92-6f95-4bfe-a21c-75ed8df88b79",
+          "source_timerange": {
+            "start": 0,
+            "duration": 15160000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 15160000
+          }
+        }
+      ]
+    },
+    {
+      "id": "d43a4381-2e69-428b-b362-5d015cbbd0a2",
+      "type": "text",
+      "segments": [
+        {
+          "id": "2c3d096c-b59b-4a87-9800-3848269ecfda",
+          "material_id": "541abbac-40e4-438f-bd47-3f84c253c5c7",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2880000
+          }
+        },
+        {
+          "id": "1773280e-5173-4e80-8ee7-d2e23d434c88",
+          "material_id": "bc2286b0-e0a0-4801-bcff-07d09c1d108d",
+          "target_timerange": {
+            "start": 3600000,
+            "duration": 2119999
+          }
+        },
+        {
+          "id": "492ac4a2-1091-485c-997a-a93b9c51d780",
+          "material_id": "1e68cf24-46d5-488d-9a9c-0a1752c365bd",
+          "target_timerange": {
+            "start": 5720000,
+            "duration": 2200000
+          }
+        },
+        {
+          "id": "e966b82a-9364-414c-9be3-5d55e51ad8a1",
+          "material_id": "3824361f-7004-4657-9a8b-885d95c7d720",
+          "target_timerange": {
+            "start": 8119999,
+            "duration": 3640000
+          }
+        },
+        {
+          "id": "1a989661-d2a4-4ba7-bb84-25e3b7fe1f5f",
+          "material_id": "f0381d5b-f9db-46ec-8137-2631553d4f4b",
+          "target_timerange": {
+            "start": 11760000,
+            "duration": 2080000
+          }
+        },
+        {
+          "id": "fa097e9d-7e22-4510-bc88-cf398424fa6a",
+          "material_id": "c4c76147-51c0-4c6a-8616-522c21748410",
+          "target_timerange": {
+            "start": 13840000,
+            "duration": 1320000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

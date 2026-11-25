@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 22580000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "34d6914c-8ad3-4958-9cc4-71022953003c",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\15-11-14_叫我Happy（Rust-失控进化）_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "1357b5da-e884-4db1-b7ca-4b71c4d882f4",
+        "content": "{\"text\": \"多一次吧 干嘛\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "640dcc31-5ff4-4bac-8567-12e9eada9bc3",
+        "content": "{\"text\": \"我这个人最喜欢办好这好事了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "58d13eee-b91a-4981-a6d9-a5a0a50c1af8",
+      "type": "video",
+      "segments": [
+        {
+          "id": "8642f498-9015-46c0-8dd3-9b273fcf453a",
+          "material_id": "34d6914c-8ad3-4958-9cc4-71022953003c",
+          "source_timerange": {
+            "start": 660000,
+            "duration": 22580000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 22580000
+          }
+        }
+      ]
+    },
+    {
+      "id": "416289af-4dbd-4f18-9431-3960181d537e",
+      "type": "text",
+      "segments": [
+        {
+          "id": "999dd8eb-b6d7-4815-bca9-42c6329641f3",
+          "material_id": "1357b5da-e884-4db1-b7ca-4b71c4d882f4",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1319999
+          }
+        },
+        {
+          "id": "c85a4b78-2f0f-40db-9aef-6ca16099ff10",
+          "material_id": "640dcc31-5ff4-4bac-8567-12e9eada9bc3",
+          "target_timerange": {
+            "start": 20460000,
+            "duration": 2119999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

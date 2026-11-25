@@ -1,0 +1,188 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 19800000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "ec30c8b5-ebf4-41b1-88f9-2a2822ea6dff",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-44-39_东方甄选_p022.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "55fca6e5-3044-476f-87c9-31bfdb0581a9",
+        "content": "{\"text\": \"那么你想外呗这个相交如果容了之后\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cd4779f3-26fc-48b5-9a37-9bf28d25bcb2",
+        "content": "{\"text\": \"那它外呗传着的这个金属丝根理的这个发热丝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "eb28c6b4-2b91-454d-8815-6152ed4744e2",
+        "content": "{\"text\": \"一接触到它就自动断电了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5597dfed-ad6d-4068-b301-84c976b5a6ae",
+        "content": "{\"text\": \"各位能力点吧就安全保护了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8f145ca6-4933-454f-8eaa-0f51f86a9aee",
+        "content": "{\"text\": \"那么这种情况之下\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5a4816d4-40b5-4033-a2fc-aae75e43b8f2",
+        "content": "{\"text\": \"各位咱们的这个安全细数\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c51bb7ea-2db6-4133-bb5e-b6ed71d4ed08",
+        "content": "{\"text\": \"安心指数就大打提升了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9f04c5ff-bea2-444e-9513-1fc19c78ec1e",
+        "content": "{\"text\": \"所以我们跟大家说咱这个彩虹真是大品牌\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "19235309-d62a-487b-bc0a-5c4ba599ec36",
+      "type": "video",
+      "segments": [
+        {
+          "id": "4d7f5e52-0a66-4291-9468-6dc93b4c7b8d",
+          "material_id": "ec30c8b5-ebf4-41b1-88f9-2a2822ea6dff",
+          "source_timerange": {
+            "start": 29800000,
+            "duration": 19800000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 19800000
+          }
+        }
+      ]
+    },
+    {
+      "id": "e2f8ed64-0fe7-4b48-83a2-6bb8be6f37ef",
+      "type": "text",
+      "segments": [
+        {
+          "id": "e1f4bc1f-f756-479d-960c-cf6a4ca86864",
+          "material_id": "55fca6e5-3044-476f-87c9-31bfdb0581a9",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2599999
+          }
+        },
+        {
+          "id": "20b48115-af50-4c30-938e-dca33fea0513",
+          "material_id": "cd4779f3-26fc-48b5-9a37-9bf28d25bcb2",
+          "target_timerange": {
+            "start": 2599999,
+            "duration": 5200000
+          }
+        },
+        {
+          "id": "4c938d0f-7dd9-48d2-9546-dad91933061d",
+          "material_id": "eb28c6b4-2b91-454d-8815-6152ed4744e2",
+          "target_timerange": {
+            "start": 7800000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "bbcf2a76-f64a-4269-b8e3-44f6b7ad7e55",
+          "material_id": "5597dfed-ad6d-4068-b301-84c976b5a6ae",
+          "target_timerange": {
+            "start": 9800000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "7fa11ea3-1793-4acb-9891-26106e4d34bf",
+          "material_id": "8f145ca6-4933-454f-8eaa-0f51f86a9aee",
+          "target_timerange": {
+            "start": 11400000,
+            "duration": 1199999
+          }
+        },
+        {
+          "id": "934f2aa3-b67a-4076-ba0d-87f92c4b0fdf",
+          "material_id": "5a4816d4-40b5-4033-a2fc-aae75e43b8f2",
+          "target_timerange": {
+            "start": 12599999,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "3a13003d-7f9a-4043-8e0e-f56840784cb9",
+          "material_id": "c51bb7ea-2db6-4133-bb5e-b6ed71d4ed08",
+          "target_timerange": {
+            "start": 14400000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "2016b037-7028-44cd-b42b-1745e5fdefa5",
+          "material_id": "9f04c5ff-bea2-444e-9513-1fc19c78ec1e",
+          "target_timerange": {
+            "start": 16400000,
+            "duration": 3399999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

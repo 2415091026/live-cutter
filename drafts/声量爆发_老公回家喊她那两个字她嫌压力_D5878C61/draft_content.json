@@ -1,0 +1,273 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 19500000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "1e816cd7-2602-4454-a566-7d9fa286b61d",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\16-18-59_单良¹⁰³_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "3a1639b8-fb07-4587-ba57-eac1883f60a1",
+        "content": "{\"text\": \"他的问题就是他\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6ce2969c-b8cd-4713-8949-dd41c8ab191b",
+        "content": "{\"text\": \"他觉得他的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "76966b51-cfd8-48e6-bb05-768586515201",
+        "content": "{\"text\": \"他和他经营一理婚姻的时候\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "99bde957-fa7e-4571-845e-616f60e5680d",
+        "content": "{\"text\": \"他老公每次回来说\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "289482e5-072a-4f61-b130-cc27cfbba892",
+        "content": "{\"text\": \"叫我平凡\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5c30f8dd-b51d-4e4c-a57f-8e8e532ed164",
+        "content": "{\"text\": \"然后他感受到很大的压力和不适感\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7977e4a1-035e-43b1-82d2-e0de263583c0",
+        "content": "{\"text\": \"解门说的是实话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "11e16116-8643-4fef-885a-46abf0b7b1b8",
+        "content": "{\"text\": \"这是一件幸运的事了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7b8eb734-6c71-4a6a-b99a-cd7bec62e0b8",
+        "content": "{\"text\": \"如果他回来之后\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "57d5b359-d2ce-4201-b991-99a85a2d34dc",
+        "content": "{\"text\": \"对这东西\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6743697e-bd76-48fc-b081-17bbf4fb9766",
+        "content": "{\"text\": \"其实并不感冒的情况\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "46143d1f-643e-4b4d-aa11-9c8fe4a9732e",
+        "content": "{\"text\": \"反而说明他在外面可能吃了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b2f06e09-033c-4d47-b449-a24fed06687e",
+        "content": "{\"text\": \"可能吃饱了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "66e729fb-c3a3-4d88-adc1-f95f6cd71de5",
+      "type": "video",
+      "segments": [
+        {
+          "id": "c4df3046-750b-423e-804d-5fd62bc81ed2",
+          "material_id": "1e816cd7-2602-4454-a566-7d9fa286b61d",
+          "source_timerange": {
+            "start": 19000000,
+            "duration": 19500000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 19500000
+          }
+        }
+      ]
+    },
+    {
+      "id": "4b42102f-d50d-4ca9-ae97-567b3fd4b120",
+      "type": "text",
+      "segments": [
+        {
+          "id": "b69325e6-d300-4871-bfb3-608158f4c841",
+          "material_id": "3a1639b8-fb07-4587-ba57-eac1883f60a1",
+          "target_timerange": {
+            "start": 660000,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "93ab5a06-88fa-4a18-881d-5a10c10a1695",
+          "material_id": "6ce2969c-b8cd-4713-8949-dd41c8ab191b",
+          "target_timerange": {
+            "start": 2460000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "3ffef61f-55b0-41d9-bc23-8b4e034da7a4",
+          "material_id": "76966b51-cfd8-48e6-bb05-768586515201",
+          "target_timerange": {
+            "start": 3460000,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "7d362aa7-6ca8-4e58-886a-757ba61d1c0f",
+          "material_id": "99bde957-fa7e-4571-845e-616f60e5680d",
+          "target_timerange": {
+            "start": 5260000,
+            "duration": 1199999
+          }
+        },
+        {
+          "id": "dfca13c3-8ed2-4f15-a9d6-18ecd3729b2b",
+          "material_id": "289482e5-072a-4f61-b130-cc27cfbba892",
+          "target_timerange": {
+            "start": 6460000,
+            "duration": 599999
+          }
+        },
+        {
+          "id": "286523a1-2a70-4ca0-ae54-356c89a162aa",
+          "material_id": "5c30f8dd-b51d-4e4c-a57f-8e8e532ed164",
+          "target_timerange": {
+            "start": 7059999,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "9a5da2ad-2821-455b-9ad7-6f06381d1b41",
+          "material_id": "7977e4a1-035e-43b1-82d2-e0de263583c0",
+          "target_timerange": {
+            "start": 10660000,
+            "duration": 800000
+          }
+        },
+        {
+          "id": "00e047a8-ee47-4467-9471-15869e8b3bd6",
+          "material_id": "11e16116-8643-4fef-885a-46abf0b7b1b8",
+          "target_timerange": {
+            "start": 11460000,
+            "duration": 1199999
+          }
+        },
+        {
+          "id": "952b4512-4aab-416a-ba61-6bf156d223d1",
+          "material_id": "7b8eb734-6c71-4a6a-b99a-cd7bec62e0b8",
+          "target_timerange": {
+            "start": 12660000,
+            "duration": 999999
+          }
+        },
+        {
+          "id": "b59ab945-d322-469a-938f-bb7e03bfabda",
+          "material_id": "57d5b359-d2ce-4201-b991-99a85a2d34dc",
+          "target_timerange": {
+            "start": 13659999,
+            "duration": 600000
+          }
+        },
+        {
+          "id": "5094519a-358c-4ab4-9358-8442bf7b6a50",
+          "material_id": "6743697e-bd76-48fc-b081-17bbf4fb9766",
+          "target_timerange": {
+            "start": 14259999,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "74f5d280-3baa-4451-a240-675ca1045070",
+          "material_id": "46143d1f-643e-4b4d-aa11-9c8fe4a9732e",
+          "target_timerange": {
+            "start": 15460000,
+            "duration": 2799999
+          }
+        },
+        {
+          "id": "e17ba850-2ba4-47ab-9041-e9344c92c5e3",
+          "material_id": "b2f06e09-033c-4d47-b449-a24fed06687e",
+          "target_timerange": {
+            "start": 18259999,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

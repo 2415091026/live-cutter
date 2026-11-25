@@ -1,0 +1,222 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 19040000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "2b357bd5-3a7c-43f6-a201-bdb914e8474d",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-41-54_东方甄选_p021.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "0f9a1d53-0f4e-437a-987c-90fa5a216f1a",
+        "content": "{\"text\": \"然后像北京这边 现在交区都已经四度了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "91f3abc0-d253-4bbe-9cb7-7250b3c836bc",
+        "content": "{\"text\": \"哈尔兵已经领下了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "da2cf028-1f45-49e0-8719-a5ff2fc1397e",
+        "content": "{\"text\": \"特别冷啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "67a40681-aa14-4c9c-8909-20e960acdb11",
+        "content": "{\"text\": \"我们今天看那个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "afcc5fe3-e9d8-426f-bb20-f5053d40a791",
+        "content": "{\"text\": \"活好特 将闻几五度\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "58a50534-2af4-4c11-821b-4cb16fbd7a52",
+        "content": "{\"text\": \"而且我跟你说 不光是北方地区\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "57b0d54d-8bdc-4b7f-9d04-46207d3fbb83",
+        "content": "{\"text\": \"南方 我这时间最近已经出差一多\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c2d65e51-55cc-44e7-a992-b3b4efa51430",
+        "content": "{\"text\": \"感受过南方的冬天来真冷\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fef5ba76-1616-4769-b9df-2e6c6cafd07a",
+        "content": "{\"text\": \"真冷\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f6a2240a-c33d-452a-a3fe-9b6e20231d0a",
+        "content": "{\"text\": \"南方地区 你就算物理开空调\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "261cc58c-f096-4c67-aa6d-c70ed4e30349",
+      "type": "video",
+      "segments": [
+        {
+          "id": "8d7c1584-83f8-4e63-9eff-59739f424928",
+          "material_id": "2b357bd5-3a7c-43f6-a201-bdb914e8474d",
+          "source_timerange": {
+            "start": 18320000,
+            "duration": 19040000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 19040000
+          }
+        }
+      ]
+    },
+    {
+      "id": "c2405516-91d0-4d9f-9ba1-0d7a61d26b03",
+      "type": "text",
+      "segments": [
+        {
+          "id": "cf406c45-f25e-4598-9ef7-f7371a8bc205",
+          "material_id": "0f9a1d53-0f4e-437a-987c-90fa5a216f1a",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3039999
+          }
+        },
+        {
+          "id": "cdc24173-89eb-491d-8175-146c11855afb",
+          "material_id": "91f3abc0-d253-4bbe-9cb7-7250b3c836bc",
+          "target_timerange": {
+            "start": 3039999,
+            "duration": 1440000
+          }
+        },
+        {
+          "id": "d1225ee9-a94c-4d71-a9ba-bd32301949aa",
+          "material_id": "da2cf028-1f45-49e0-8719-a5ff2fc1397e",
+          "target_timerange": {
+            "start": 4480000,
+            "duration": 559999
+          }
+        },
+        {
+          "id": "70ebe006-8fa3-4d65-b540-bfe46cf25d0a",
+          "material_id": "67a40681-aa14-4c9c-8909-20e960acdb11",
+          "target_timerange": {
+            "start": 5039999,
+            "duration": 960000
+          }
+        },
+        {
+          "id": "4a13ffbb-8585-4348-a1b2-584e7d7b33df",
+          "material_id": "afcc5fe3-e9d8-426f-bb20-f5053d40a791",
+          "target_timerange": {
+            "start": 6000000,
+            "duration": 2079999
+          }
+        },
+        {
+          "id": "2037f7d3-87f0-4756-b20f-8cad3e27e3ba",
+          "material_id": "58a50534-2af4-4c11-821b-4cb16fbd7a52",
+          "target_timerange": {
+            "start": 8079999,
+            "duration": 2400000
+          }
+        },
+        {
+          "id": "919cf77f-88ad-42c7-9575-ed7d311687c3",
+          "material_id": "57b0d54d-8bdc-4b7f-9d04-46207d3fbb83",
+          "target_timerange": {
+            "start": 10480000,
+            "duration": 2800000
+          }
+        },
+        {
+          "id": "a92e7f71-e385-4e98-b6bc-8e7cb67e69ab",
+          "material_id": "c2d65e51-55cc-44e7-a992-b3b4efa51430",
+          "target_timerange": {
+            "start": 13280000,
+            "duration": 2240000
+          }
+        },
+        {
+          "id": "f10af7d6-9f00-4251-947e-550017da1ab1",
+          "material_id": "fef5ba76-1616-4769-b9df-2e6c6cafd07a",
+          "target_timerange": {
+            "start": 15520000,
+            "duration": 1039999
+          }
+        },
+        {
+          "id": "2bd95c88-dafd-440b-86c8-affba7fa7b34",
+          "material_id": "f6a2240a-c33d-452a-a3fe-9b6e20231d0a",
+          "target_timerange": {
+            "start": 16560000,
+            "duration": 2479999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

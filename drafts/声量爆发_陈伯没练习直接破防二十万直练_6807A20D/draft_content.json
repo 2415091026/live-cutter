@@ -1,0 +1,256 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 19480000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "7b672a07-5713-499c-9dd7-d69771cab99d",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\23-15-22_陈伯(全能王)_p009.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "7fa1fcce-f66c-494c-a547-b88bbf38635e",
+        "content": "{\"text\": \"需要解釋關注\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d65f80a0-5985-46b9-a989-42f8cc34bc0a",
+        "content": "{\"text\": \"解釋關注中獎給力量評估是吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "69ab77f8-b5db-4241-8bb6-f8306417b14f",
+        "content": "{\"text\": \"是吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2ff5f6a5-f552-4238-8b3f-648dbcbd8f64",
+        "content": "{\"text\": \"是吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "649e3fbd-6146-4bc6-98c3-6c5450546487",
+        "content": "{\"text\": \"解釋關注中獎拿著一台評估是吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bc80db55-a296-4396-a54a-08bd6ca81cc2",
+        "content": "{\"text\": \"沒練習關注什麼都沒有啊\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f0bfc32b-3692-455a-a449-30d8fe669439",
+        "content": "{\"text\": \"一定要解釋關注是甚麼\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "daeefb06-547f-47d2-a3ca-91672084dcbe",
+        "content": "{\"text\": \"解釋關注是甚麼\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e6831c0e-0d07-4cfa-ba62-0ae939859a3c",
+        "content": "{\"text\": \"我們這邊要是拿關注的話\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "98df6edf-c74f-4443-ae43-2a91fe96bddf",
+        "content": "{\"text\": \"二十萬直練發來直播盡了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b9595ab5-a1c5-42d2-814b-37d43f8bbdde",
+        "content": "{\"text\": \"但是守住的話\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "be18ed90-9371-423b-8ecb-c76bd858f5c7",
+        "content": "{\"text\": \"我們是六打吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "e3b2ef4c-c1da-4a74-b80f-0ce4b77c1509",
+      "type": "video",
+      "segments": [
+        {
+          "id": "8cfa945f-6457-4cca-b12f-bdfb2f553366",
+          "material_id": "7b672a07-5713-499c-9dd7-d69771cab99d",
+          "source_timerange": {
+            "start": 0,
+            "duration": 19480000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 19480000
+          }
+        }
+      ]
+    },
+    {
+      "id": "a9baec0c-cc46-4359-869c-9e85f97be7f1",
+      "type": "text",
+      "segments": [
+        {
+          "id": "2897e94b-91b7-4533-8b30-de1a2df7292d",
+          "material_id": "7fa1fcce-f66c-494c-a547-b88bbf38635e",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1240000
+          }
+        },
+        {
+          "id": "2f873b07-9a28-4e2b-b98c-1acc5121fed9",
+          "material_id": "d65f80a0-5985-46b9-a989-42f8cc34bc0a",
+          "target_timerange": {
+            "start": 1240000,
+            "duration": 2320000
+          }
+        },
+        {
+          "id": "ca2cb5e6-a92e-413a-b650-423b7186f905",
+          "material_id": "69ab77f8-b5db-4241-8bb6-f8306417b14f",
+          "target_timerange": {
+            "start": 3560000,
+            "duration": 999999
+          }
+        },
+        {
+          "id": "d8df7540-400c-40ef-9f2f-f56d77d192b0",
+          "material_id": "2ff5f6a5-f552-4238-8b3f-648dbcbd8f64",
+          "target_timerange": {
+            "start": 4560000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "6beb86d2-d32b-4ee2-8133-a4379639f172",
+          "material_id": "649e3fbd-6146-4bc6-98c3-6c5450546487",
+          "target_timerange": {
+            "start": 5560000,
+            "duration": 2280000
+          }
+        },
+        {
+          "id": "98fd9847-911d-4087-a3a4-69d5aea0e02b",
+          "material_id": "bc80db55-a296-4396-a54a-08bd6ca81cc2",
+          "target_timerange": {
+            "start": 7840000,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "40604aea-6533-4a7a-97fc-9b5f4c5f9729",
+          "material_id": "f0bfc32b-3692-455a-a449-30d8fe669439",
+          "target_timerange": {
+            "start": 9240000,
+            "duration": 1599999
+          }
+        },
+        {
+          "id": "e444f261-51ed-451d-bc6e-fc35654982de",
+          "material_id": "daeefb06-547f-47d2-a3ca-91672084dcbe",
+          "target_timerange": {
+            "start": 10840000,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "dce1104f-8532-4cdc-91f7-21e1988b4adc",
+          "material_id": "e6831c0e-0d07-4cfa-ba62-0ae939859a3c",
+          "target_timerange": {
+            "start": 12160000,
+            "duration": 2160000
+          }
+        },
+        {
+          "id": "58282e7b-e0cc-40cc-8a84-68d333344fc1",
+          "material_id": "98df6edf-c74f-4443-ae43-2a91fe96bddf",
+          "target_timerange": {
+            "start": 14320000,
+            "duration": 1719999
+          }
+        },
+        {
+          "id": "42dfb256-6283-4a9f-a460-3b4437cb7244",
+          "material_id": "b9595ab5-a1c5-42d2-814b-37d43f8bbdde",
+          "target_timerange": {
+            "start": 16040000,
+            "duration": 2440000
+          }
+        },
+        {
+          "id": "52b36635-4e35-4237-bd0e-d7600b21ce7f",
+          "material_id": "be18ed90-9371-423b-8ecb-c76bd858f5c7",
+          "target_timerange": {
+            "start": 18480000,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

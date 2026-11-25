@@ -1,0 +1,205 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 16380000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "5b17b106-8779-4cee-a315-df49c9ab55f2",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-28-56_东方甄选_p016.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "e2f4b4a2-b9f8-4896-8c0a-2d57397814fc",
+        "content": "{\"text\": \"這樣的話你要買雙人款的1.5億米八的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dd95ce74-4d0a-48ad-8ffc-d6a3a2e0e9de",
+        "content": "{\"text\": \"就是兩邊都可以分別調溫度\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fcb093dc-d98c-49bc-a6b4-70ee2a127464",
+        "content": "{\"text\": \"你比如說我左邊想要這個低的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "24cf02d4-5826-4c15-867b-083bb8b79e8a",
+        "content": "{\"text\": \"那你要按兩下就變成低的了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dc25261f-87c2-437e-ba82-709ad91325d0",
+        "content": "{\"text\": \"再按一下又回到高了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ba2b3549-be49-4832-acf3-197c04890cbf",
+        "content": "{\"text\": \"就再按一下就關了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a26acb7f-0ec0-42f8-bdb4-668562cb2d31",
+        "content": "{\"text\": \"再按就又循環既然就按私下\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "89355ec7-60cb-479c-83c9-f3eaeed1bb29",
+        "content": "{\"text\": \"它就能循環\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "26b4b4b7-44c9-4698-bf99-41babd7bda0d",
+        "content": "{\"text\": \"然後上面有一個儲滿劑\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "c4bbb976-b8b7-49d8-863e-bbadf5e4b775",
+      "type": "video",
+      "segments": [
+        {
+          "id": "4f0cf7c9-abff-40c6-a810-9edf6bd6531c",
+          "material_id": "5b17b106-8779-4cee-a315-df49c9ab55f2",
+          "source_timerange": {
+            "start": 43160000,
+            "duration": 16380000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 16380000
+          }
+        }
+      ]
+    },
+    {
+      "id": "7f2b9360-de24-4937-805c-ea0e72a9acdb",
+      "type": "text",
+      "segments": [
+        {
+          "id": "30b9b621-c79a-4bc7-9115-c2c9b7ddbc7b",
+          "material_id": "e2f4b4a2-b9f8-4896-8c0a-2d57397814fc",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3060000
+          }
+        },
+        {
+          "id": "94b6bf9d-891e-46c7-aaab-f8051b89f893",
+          "material_id": "dd95ce74-4d0a-48ad-8ffc-d6a3a2e0e9de",
+          "target_timerange": {
+            "start": 3060000,
+            "duration": 2060000
+          }
+        },
+        {
+          "id": "b997e693-b104-446c-9fb6-5423c3f40721",
+          "material_id": "fcb093dc-d98c-49bc-a6b4-70ee2a127464",
+          "target_timerange": {
+            "start": 5120000,
+            "duration": 2039999
+          }
+        },
+        {
+          "id": "2cf3a9c9-6072-465e-b1bf-f51a12fb7336",
+          "material_id": "24cf02d4-5826-4c15-867b-083bb8b79e8a",
+          "target_timerange": {
+            "start": 7160000,
+            "duration": 1799999
+          }
+        },
+        {
+          "id": "080af2ce-6d1b-41b0-a10c-7a906b152236",
+          "material_id": "dc25261f-87c2-437e-ba82-709ad91325d0",
+          "target_timerange": {
+            "start": 8960000,
+            "duration": 1280000
+          }
+        },
+        {
+          "id": "8fd01695-87d4-49d6-985c-f75ddc263d5f",
+          "material_id": "ba2b3549-be49-4832-acf3-197c04890cbf",
+          "target_timerange": {
+            "start": 10240000,
+            "duration": 1280000
+          }
+        },
+        {
+          "id": "f10e1041-e29a-4131-8cca-92522d481424",
+          "material_id": "a26acb7f-0ec0-42f8-bdb4-668562cb2d31",
+          "target_timerange": {
+            "start": 11520000,
+            "duration": 2039999
+          }
+        },
+        {
+          "id": "bc098b56-1c89-4e05-9c7e-a580fd872b5d",
+          "material_id": "89355ec7-60cb-479c-83c9-f3eaeed1bb29",
+          "target_timerange": {
+            "start": 13560000,
+            "duration": 1020000
+          }
+        },
+        {
+          "id": "889c6369-3c57-4717-b1b5-c307ec0f290c",
+          "material_id": "26b4b4b7-44c9-4698-bf99-41babd7bda0d",
+          "target_timerange": {
+            "start": 14580000,
+            "duration": 1799999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

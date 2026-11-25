@@ -1,0 +1,188 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18040000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "70fd73ac-539e-4946-b2dd-f48d41a11ed6",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-24-35_东方甄选_p014.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "71fd101f-df8a-445d-a72e-96289885627e",
+        "content": "{\"text\": \"真的是大品牌要朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "503bf4bd-fe76-4944-ba5b-ef9fe312a773",
+        "content": "{\"text\": \"然后咱们这个彩虹也是国货的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b1d5d3db-65fc-4460-9bd2-1ee210b6384b",
+        "content": "{\"text\": \"这么一个龙头老大哥的味着\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3a851d2b-5f51-43fd-9e9e-91558f076de7",
+        "content": "{\"text\": \"而且的话是行业的这个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4a492b49-260b-417d-84a5-4c34705c7251",
+        "content": "{\"text\": \"在国标维度的制定者之一\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bf1e1e88-5f23-45e4-8d4d-c8e50f5168c1",
+        "content": "{\"text\": \"真的是很硬和的一个大品牌\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ff46304c-f152-4c28-ac7b-5673cfb1afa8",
+        "content": "{\"text\": \"所以各位之所以很多人\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "feac92ed-9dbc-4d05-a97a-1b0128ef5825",
+        "content": "{\"text\": \"不敢用电扰谈的原因\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "112299aa-7294-4601-ad5a-c8dfff8e1ef1",
+      "type": "video",
+      "segments": [
+        {
+          "id": "f0ce9c2e-d9c6-4343-bd54-673a171bb36f",
+          "material_id": "70fd73ac-539e-4946-b2dd-f48d41a11ed6",
+          "source_timerange": {
+            "start": 0,
+            "duration": 18040000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18040000
+          }
+        }
+      ]
+    },
+    {
+      "id": "9f22903c-d020-4c90-980a-dcc7ec238136",
+      "type": "text",
+      "segments": [
+        {
+          "id": "3273456d-96fd-4b1a-a13f-2b56e4edf172",
+          "material_id": "71fd101f-df8a-445d-a72e-96289885627e",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1680000
+          }
+        },
+        {
+          "id": "5ecbbd6e-e05a-43e5-8283-5d9f45d5f956",
+          "material_id": "503bf4bd-fe76-4944-ba5b-ef9fe312a773",
+          "target_timerange": {
+            "start": 1680000,
+            "duration": 3360000
+          }
+        },
+        {
+          "id": "37089174-572e-4730-a28c-ec6e0fd06293",
+          "material_id": "b1d5d3db-65fc-4460-9bd2-1ee210b6384b",
+          "target_timerange": {
+            "start": 5040000,
+            "duration": 2200000
+          }
+        },
+        {
+          "id": "173db671-62c5-4bb5-a568-b4bace7d48c8",
+          "material_id": "3a851d2b-5f51-43fd-9e9e-91558f076de7",
+          "target_timerange": {
+            "start": 7240000,
+            "duration": 2679999
+          }
+        },
+        {
+          "id": "d087d7c2-2cd8-4a09-95c8-0a7965d75595",
+          "material_id": "4a492b49-260b-417d-84a5-4c34705c7251",
+          "target_timerange": {
+            "start": 9920000,
+            "duration": 2160000
+          }
+        },
+        {
+          "id": "3791a696-9d49-45d8-bba3-d4baec2102bc",
+          "material_id": "bf1e1e88-5f23-45e4-8d4d-c8e50f5168c1",
+          "target_timerange": {
+            "start": 12080000,
+            "duration": 2279999
+          }
+        },
+        {
+          "id": "872f9d17-4de8-4754-b9c0-28cf87500ec7",
+          "material_id": "ff46304c-f152-4c28-ac7b-5673cfb1afa8",
+          "target_timerange": {
+            "start": 14360000,
+            "duration": 1719999
+          }
+        },
+        {
+          "id": "b96679a1-1631-4a9c-b95b-1d08a30ea1a7",
+          "material_id": "feac92ed-9dbc-4d05-a97a-1b0128ef5825",
+          "target_timerange": {
+            "start": 16079999,
+            "duration": 1960000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

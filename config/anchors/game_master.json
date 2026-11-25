@@ -1,0 +1,19 @@
+{
+  "anchor_id": "game_master",
+  "anchor_name": "竞技游戏主播 (通用模版)",
+  "web_rid": "",
+  "category": "电竞/游戏爆笑",
+  "layout_template": "split_screen_game",
+  "exclusive_keywords": [
+    "破防",
+    "下饭",
+    "退钱",
+    "666",
+    "卧槽",
+    "神操作",
+    "单杀",
+    "翻车"
+  ],
+  "heat_sensitivity": 0.85,
+  "persona_prompt": "该主播以极限操作、被反杀破防、吹牛被打脸为主要笑点。重点在主播大声咆哮、自夸后光速翻车的剧情转折处进行切片。"
+}

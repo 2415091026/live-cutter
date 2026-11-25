@@ -1,0 +1,171 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 19320000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "246344cc-3926-44ce-ac4f-705585b53abf",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\16-15-39_单良¹⁰³_p003.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "c81a9744-1d5c-4005-a78f-d3c3bf16a074",
+        "content": "{\"text\": \"那你其實你在這個房裡面 你也不開心\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4c61b712-e383-4510-979c-b3449b62c6a9",
+        "content": "{\"text\": \"所以我現在就很不開心啊 因為\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3ea7890c-1e87-48c6-b5f7-0de0ab677d40",
+        "content": "{\"text\": \"你方便就像就像我兩個你說的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b4bb316c-0baf-4da9-8e9b-920330058a5a",
+        "content": "{\"text\": \"我覺得冷戰很難受\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "32129d81-24dc-473c-a5b5-66971140314b",
+        "content": "{\"text\": \"是的啊 我心想並不開心\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4a52c87d-67b8-402c-8478-1e26494cc2f1",
+        "content": "{\"text\": \"特別的開心也並沒有舒服\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "affa722e-4bee-44ce-aa54-c3cd34f1b588",
+        "content": "{\"text\": \"所以說冷戰就對你也是一種懲罰\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "3d69da80-e4c8-43c1-a82c-15c58b798575",
+      "type": "video",
+      "segments": [
+        {
+          "id": "459e3dd2-a43b-4ec1-893c-042fe812f9a0",
+          "material_id": "246344cc-3926-44ce-ac4f-705585b53abf",
+          "source_timerange": {
+            "start": 3700000,
+            "duration": 19320000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 19320000
+          }
+        }
+      ]
+    },
+    {
+      "id": "537258be-4313-4b13-863e-894a7a641356",
+      "type": "text",
+      "segments": [
+        {
+          "id": "c15915aa-5b09-4b3f-843b-70e7a1340155",
+          "material_id": "c81a9744-1d5c-4005-a78f-d3c3bf16a074",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2120000
+          }
+        },
+        {
+          "id": "19383737-3fb1-4e22-9413-c0c63d50ea37",
+          "material_id": "4c61b712-e383-4510-979c-b3449b62c6a9",
+          "target_timerange": {
+            "start": 3120000,
+            "duration": 3199999
+          }
+        },
+        {
+          "id": "1bbc6086-1d55-40dc-800a-dc2552e0d5ae",
+          "material_id": "3ea7890c-1e87-48c6-b5f7-0de0ab677d40",
+          "target_timerange": {
+            "start": 6319999,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "f11be40e-932e-40b3-80b2-625ba87960fb",
+          "material_id": "b4bb316c-0baf-4da9-8e9b-920330058a5a",
+          "target_timerange": {
+            "start": 10919999,
+            "duration": 2200000
+          }
+        },
+        {
+          "id": "2f5e791a-6020-4cf8-b025-ce424515e2fb",
+          "material_id": "32129d81-24dc-473c-a5b5-66971140314b",
+          "target_timerange": {
+            "start": 13120000,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "aae1d444-3f13-458b-833d-ab16cd04acc3",
+          "material_id": "4a52c87d-67b8-402c-8478-1e26494cc2f1",
+          "target_timerange": {
+            "start": 14920000,
+            "duration": 2399999
+          }
+        },
+        {
+          "id": "de040803-f49a-4b94-9620-bd25fc753a98",
+          "material_id": "affa722e-4bee-44ce-aa54-c3cd34f1b588",
+          "target_timerange": {
+            "start": 17320000,
+            "duration": 2000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

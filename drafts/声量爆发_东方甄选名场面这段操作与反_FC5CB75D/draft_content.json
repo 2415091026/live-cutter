@@ -1,0 +1,681 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 59960000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "9171618d-d0ad-43a6-b2fe-5b1622eea32c",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-00-43_东方甄选_p033.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "8b628b95-9c7d-42a7-b7c6-ed2cd5f6efe3",
+        "content": "{\"text\": \"可以折敌 但上面别压重物就行\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a23de5c9-cc07-40df-9dd3-fcbdf22f18eb",
+        "content": "{\"text\": \"咱们这个1,5,4的那个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "55e356b6-8e23-4ee2-8ab1-ed5a427e45dd",
+        "content": "{\"text\": \"就是那个湾折实验\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ca2ab7da-2394-45a8-aae9-bcdb7cd60421",
+        "content": "{\"text\": \"那两万多次的一万五千多次的耐压实验\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6dfa3e91-f55c-4a9d-9c8e-fa1653052977",
+        "content": "{\"text\": \"然后两万那个5,4的这个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4cd9db3f-d262-483f-abd3-acbcafb008ab",
+        "content": "{\"text\": \"三折实验\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fff354d6-bbfd-460c-979e-c4fee42bdc1c",
+        "content": "{\"text\": \"湾折实验\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4ff7946b-0c43-478c-bca2-cc7db342d0ea",
+        "content": "{\"text\": \"都是没有问题的朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6bebc7a2-5dee-4d9a-ab1e-cb81cce4b41a",
+        "content": "{\"text\": \"而且是每一个品都要检测\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4c88d947-1764-4f28-a1f8-9d4c1caf408c",
+        "content": "{\"text\": \"而不是抽简\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "695d191f-8152-4278-bf71-1d8bb4523186",
+        "content": "{\"text\": \"最后有抽简\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6c5eed89-f869-4179-aba8-77f2eaac3eb8",
+        "content": "{\"text\": \"但是每一个都要先全剪一遍\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9db8c4aa-976f-4926-bb13-736a890c721c",
+        "content": "{\"text\": \"就是我们昨天参观过程工厂是这样的朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5b6f513d-6811-46d9-a2c1-61c814e5c4b3",
+        "content": "{\"text\": \"来吧朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4c46329d-93bb-425b-9b2c-374b3e8098a8",
+        "content": "{\"text\": \"现在这个冷不冷热不热朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f4ec8f66-f09b-4446-a1eb-7db6cdce39b9",
+        "content": "{\"text\": \"咱自己肯定感受到吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "71b561ce-147d-4e1d-bef8-e4f05617dc76",
+        "content": "{\"text\": \"今天我们从后台看\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8d857119-a183-4a5d-8c3b-75ebcf86beb7",
+        "content": "{\"text\": \"江苏地区买责电视塔的人\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8ed80f88-7d48-4158-9af6-ec73ac02e607",
+        "content": "{\"text\": \"特别多\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e9f84fc8-7d2d-4425-9e1d-87cfc310f3a0",
+        "content": "{\"text\": \"为什么多呀\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "24770f20-8b63-433f-bdc1-398829bab763",
+        "content": "{\"text\": \"我估计肯定是最近的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4e3000a4-9f0f-493a-bbbb-4a793a951a78",
+        "content": "{\"text\": \"比较冷吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "33c21d28-04ce-40ff-9439-a9975bb4b7cf",
+        "content": "{\"text\": \"所以咱早拍早发货吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6be6d085-3b23-483d-8544-3a3c3b8a00d0",
+        "content": "{\"text\": \"真的别等别犹豫\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "078a60af-0c12-4d25-8f3f-d2cb3b9ecf52",
+        "content": "{\"text\": \"然后我们这边跟大家说\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8de984bb-588e-4c3c-bb8e-b5405d37dc98",
+        "content": "{\"text\": \"现在像你家里边\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "86356303-884c-4810-bd6d-cafc891ac5f5",
+        "content": "{\"text\": \"比如说您看那个汽小线\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c28e9de2-36c6-4745-8a6b-d26ae0dc20f6",
+        "content": "{\"text\": \"你看那个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e82d1d26-b57c-4180-948e-614a14bbf34f",
+        "content": "{\"text\": \"什么那个那个所谓的电的那种东西\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d07ffce3-91fe-484f-8dec-5784979ab1ca",
+        "content": "{\"text\": \"就是什么那个小太阳\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "587e9f29-681e-4dbe-ad7d-54abbfb367b0",
+        "content": "{\"text\": \"我去乎条\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "73aa9bae-46e7-4093-8b8d-ac1ea02f67de",
+        "content": "{\"text\": \"解决不了一件事\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2fe9adce-2466-4e46-85e5-645bcd5eb576",
+        "content": "{\"text\": \"就是你被握床单的吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5cd53908-b44a-442b-b699-03041b3733d8",
+        "content": "{\"text\": \"整头背子\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c1793de4-f776-4239-8dc8-dc5aa663487d",
+        "content": "{\"text\": \"如果要是冷凉\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f0384a6b-5767-454b-b691-10d18fbcf133",
+        "content": "{\"text\": \"好 怎么办\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "07be9723-e5f1-4563-93b8-0d0f795f6af5",
+        "content": "{\"text\": \"对吧朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "e62f6469-4c27-46cf-89b6-1454a76d19ab",
+      "type": "video",
+      "segments": [
+        {
+          "id": "73679b5b-65ac-4fa5-887e-2eca5c55cfaa",
+          "material_id": "9171618d-d0ad-43a6-b2fe-5b1622eea32c",
+          "source_timerange": {
+            "start": 0,
+            "duration": 59960000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 59960000
+          }
+        }
+      ]
+    },
+    {
+      "id": "8c12a9aa-8a17-4d9f-b827-851b97c555fc",
+      "type": "text",
+      "segments": [
+        {
+          "id": "43b32914-8dfa-4739-acef-1bf890efa086",
+          "material_id": "8b628b95-9c7d-42a7-b7c6-ed2cd5f6efe3",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3160000
+          }
+        },
+        {
+          "id": "9fb909d3-9ea0-44f1-a3ae-6f275eed2202",
+          "material_id": "a23de5c9-cc07-40df-9dd3-fcbdf22f18eb",
+          "target_timerange": {
+            "start": 3160000,
+            "duration": 2399999
+          }
+        },
+        {
+          "id": "6c7ec19d-e127-45b4-a063-00915325bc93",
+          "material_id": "55e356b6-8e23-4ee2-8ab1-ed5a427e45dd",
+          "target_timerange": {
+            "start": 5560000,
+            "duration": 1240000
+          }
+        },
+        {
+          "id": "4184bb7c-221e-407c-a9da-c7e429aaa67c",
+          "material_id": "ca2ab7da-2394-45a8-aae9-bcdb7cd60421",
+          "target_timerange": {
+            "start": 6800000,
+            "duration": 3440000
+          }
+        },
+        {
+          "id": "315bd26b-4654-486d-9377-c7e42016e6d6",
+          "material_id": "6dfa3e91-f55c-4a9d-9c8e-fa1653052977",
+          "target_timerange": {
+            "start": 10240000,
+            "duration": 2879999
+          }
+        },
+        {
+          "id": "fa872b07-3f08-4b80-84af-ee74047a1cb3",
+          "material_id": "4cd9db3f-d262-483f-abd3-acbcafb008ab",
+          "target_timerange": {
+            "start": 13120000,
+            "duration": 760000
+          }
+        },
+        {
+          "id": "ecd9b81b-6858-4618-a21f-314052617640",
+          "material_id": "fff354d6-bbfd-460c-979e-c4fee42bdc1c",
+          "target_timerange": {
+            "start": 13880000,
+            "duration": 559999
+          }
+        },
+        {
+          "id": "eb12b150-dd03-4449-a0bd-7914038ff8de",
+          "material_id": "4ff7946b-0c43-478c-bca2-cc7db342d0ea",
+          "target_timerange": {
+            "start": 14440000,
+            "duration": 1160000
+          }
+        },
+        {
+          "id": "8d6ee7fe-305c-451f-ac19-6a2d53d725e0",
+          "material_id": "6bebc7a2-5dee-4d9a-ab1e-cb81cce4b41a",
+          "target_timerange": {
+            "start": 15600000,
+            "duration": 2320000
+          }
+        },
+        {
+          "id": "abca14de-645d-4209-8a86-6ec2bd87bc63",
+          "material_id": "4c88d947-1764-4f28-a1f8-9d4c1caf408c",
+          "target_timerange": {
+            "start": 17920000,
+            "duration": 879999
+          }
+        },
+        {
+          "id": "9ef9d348-48ee-4516-a790-25997740368c",
+          "material_id": "695d191f-8152-4278-bf71-1d8bb4523186",
+          "target_timerange": {
+            "start": 18800000,
+            "duration": 719999
+          }
+        },
+        {
+          "id": "b0a88449-0b31-4ae7-98a1-54f34f058e26",
+          "material_id": "6c5eed89-f869-4179-aba8-77f2eaac3eb8",
+          "target_timerange": {
+            "start": 19520000,
+            "duration": 2400000
+          }
+        },
+        {
+          "id": "fa4046fc-d1e0-428f-b107-b7fcc5780891",
+          "material_id": "9db8c4aa-976f-4926-bb13-736a890c721c",
+          "target_timerange": {
+            "start": 21920000,
+            "duration": 2879999
+          }
+        },
+        {
+          "id": "4052b09d-85b6-4bcf-90f4-62cbdccb6229",
+          "material_id": "5b6f513d-6811-46d9-a2c1-61c814e5c4b3",
+          "target_timerange": {
+            "start": 24800000,
+            "duration": 719999
+          }
+        },
+        {
+          "id": "cee73a27-df9d-4416-ae4d-0f44416dfa49",
+          "material_id": "4c46329d-93bb-425b-9b2c-374b3e8098a8",
+          "target_timerange": {
+            "start": 25520000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "e7a985b8-a18f-410c-a573-376593196a45",
+          "material_id": "f4ec8f66-f09b-4446-a1eb-7db6cdce39b9",
+          "target_timerange": {
+            "start": 27520000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "37c9a7f8-887e-4287-adcb-1c617e979f4c",
+          "material_id": "71b561ce-147d-4e1d-bef8-e4f05617dc76",
+          "target_timerange": {
+            "start": 29120000,
+            "duration": 1480000
+          }
+        },
+        {
+          "id": "914d6f18-0605-4978-b186-f5b3935b4ae2",
+          "material_id": "8d857119-a183-4a5d-8c3b-75ebcf86beb7",
+          "target_timerange": {
+            "start": 30600000,
+            "duration": 2119999
+          }
+        },
+        {
+          "id": "32ae8e71-2329-4709-800c-09241b135fa4",
+          "material_id": "8ed80f88-7d48-4158-9af6-ec73ac02e607",
+          "target_timerange": {
+            "start": 32720000,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "297147eb-5dc6-4664-97f3-bdc8cc8e11e1",
+          "material_id": "e9f84fc8-7d2d-4425-9e1d-87cfc310f3a0",
+          "target_timerange": {
+            "start": 33920000,
+            "duration": 759999
+          }
+        },
+        {
+          "id": "0a7be162-1611-49cd-8f01-6952d11f38c6",
+          "material_id": "24770f20-8b63-433f-bdc1-398829bab763",
+          "target_timerange": {
+            "start": 34680000,
+            "duration": 1840000
+          }
+        },
+        {
+          "id": "8e4d3c9e-8df5-44a6-b870-70f5aad3260b",
+          "material_id": "4e3000a4-9f0f-493a-bbbb-4a793a951a78",
+          "target_timerange": {
+            "start": 36520000,
+            "duration": 839999
+          }
+        },
+        {
+          "id": "c99f9f31-5284-42b1-8c2e-bee65e788581",
+          "material_id": "33c21d28-04ce-40ff-9439-a9975bb4b7cf",
+          "target_timerange": {
+            "start": 37360000,
+            "duration": 1799999
+          }
+        },
+        {
+          "id": "05dc31ad-426a-4639-ab23-4f656b2d7f43",
+          "material_id": "6be6d085-3b23-483d-8544-3a3c3b8a00d0",
+          "target_timerange": {
+            "start": 39160000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "8659466d-453a-4239-8196-168a59dc539c",
+          "material_id": "078a60af-0c12-4d25-8f3f-d2cb3b9ecf52",
+          "target_timerange": {
+            "start": 40760000,
+            "duration": 2039999
+          }
+        },
+        {
+          "id": "1c0ced70-8b52-443f-962d-179d045ef6e3",
+          "material_id": "8de984bb-588e-4c3c-bb8e-b5405d37dc98",
+          "target_timerange": {
+            "start": 42800000,
+            "duration": 1440000
+          }
+        },
+        {
+          "id": "096a5065-fba7-4c30-904e-dda0aa3e3164",
+          "material_id": "86356303-884c-4810-bd6d-cafc891ac5f5",
+          "target_timerange": {
+            "start": 44240000,
+            "duration": 1679999
+          }
+        },
+        {
+          "id": "1d7a8721-5cd9-4aff-a958-973794ecacf6",
+          "material_id": "c28e9de2-36c6-4745-8a6b-d26ae0dc20f6",
+          "target_timerange": {
+            "start": 45920000,
+            "duration": 1119999
+          }
+        },
+        {
+          "id": "a6837562-c983-44a5-85e8-5f7e957e41d7",
+          "material_id": "e82d1d26-b57c-4180-948e-614a14bbf34f",
+          "target_timerange": {
+            "start": 47040000,
+            "duration": 2399999
+          }
+        },
+        {
+          "id": "697b14b0-a3f0-435a-a46e-3cbfe1e4f386",
+          "material_id": "d07ffce3-91fe-484f-8dec-5784979ab1ca",
+          "target_timerange": {
+            "start": 49440000,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "83ec00ad-a5ab-44da-a650-a8d721e7a1d3",
+          "material_id": "587e9f29-681e-4dbe-ad7d-54abbfb367b0",
+          "target_timerange": {
+            "start": 50640000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "6e269147-daec-4d00-a367-f99c28269729",
+          "material_id": "73aa9bae-46e7-4093-8b8d-ac1ea02f67de",
+          "target_timerange": {
+            "start": 51640000,
+            "duration": 1439999
+          }
+        },
+        {
+          "id": "2b61f4be-9003-4e4f-b66d-c7bd1e6d9e6c",
+          "material_id": "2fe9adce-2466-4e46-85e5-645bcd5eb576",
+          "target_timerange": {
+            "start": 53080000,
+            "duration": 2039999
+          }
+        },
+        {
+          "id": "43dbec14-045b-4931-9cfe-cb149c254ee6",
+          "material_id": "5cd53908-b44a-442b-b699-03041b3733d8",
+          "target_timerange": {
+            "start": 55120000,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "c50e375e-93fc-4329-9f34-6ba24d0f0813",
+          "material_id": "c1793de4-f776-4239-8dc8-dc5aa663487d",
+          "target_timerange": {
+            "start": 56440000,
+            "duration": 1880000
+          }
+        },
+        {
+          "id": "be0ead81-2aeb-468f-a818-8e7f3ffaa6f3",
+          "material_id": "f0384a6b-5767-454b-b691-10d18fbcf133",
+          "target_timerange": {
+            "start": 58360000,
+            "duration": 960000
+          }
+        },
+        {
+          "id": "59e9561b-0e7b-493d-9485-39e7fa50bfa7",
+          "material_id": "07be9723-e5f1-4563-93b8-0d0f795f6af5",
+          "target_timerange": {
+            "start": 59320000,
+            "duration": 640000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

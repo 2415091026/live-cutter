@@ -1,0 +1,154 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 17170000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "8475ef6c-a880-4993-a7fe-3c92949a2e69",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\16-10-14_单良¹⁰³_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "dda5f02f-305d-48a6-ae47-2c71416ef646",
+        "content": "{\"text\": \"但是我觉得不知道的问题\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "03fa0ad1-e168-4fb7-a656-7b85989db740",
+        "content": "{\"text\": \"就是他一对这个事情一一\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4b6f8857-9d4d-4e07-8207-d7cda3090cee",
+        "content": "{\"text\": \"姐妹我们必须跟你说\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e0a926d8-c23d-479d-a46e-d297a544d5de",
+        "content": "{\"text\": \"到底是你的两星关系的问题\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bec89521-bba2-4b47-b6d9-41ae691d0f33",
+        "content": "{\"text\": \"还说你和对方相处的问题\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ecbdbcb3-ca14-4172-b2a0-e9d70bc90d48",
+        "content": "{\"text\": \"和就是生活中相处\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "2fa9eda5-3d7b-47f9-873d-39dea5786846",
+      "type": "video",
+      "segments": [
+        {
+          "id": "60da3864-49ed-490c-a7d3-39169e3bde2d",
+          "material_id": "8475ef6c-a880-4993-a7fe-3c92949a2e69",
+          "source_timerange": {
+            "start": 36900000,
+            "duration": 17170000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 17170000
+          }
+        }
+      ]
+    },
+    {
+      "id": "ffdbde14-5613-4a1d-a70d-5fab3f40d9f2",
+      "type": "text",
+      "segments": [
+        {
+          "id": "ca629e54-4daa-414b-9075-f681b9f000b8",
+          "material_id": "dda5f02f-305d-48a6-ae47-2c71416ef646",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "6407433a-4535-4784-bf0c-c70cab25770d",
+          "material_id": "03fa0ad1-e168-4fb7-a656-7b85989db740",
+          "target_timerange": {
+            "start": 3000000,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "be8abb3b-0ca7-49ec-a861-3861bf9a7c58",
+          "material_id": "4b6f8857-9d4d-4e07-8207-d7cda3090cee",
+          "target_timerange": {
+            "start": 6000000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "ea6f78a3-377b-42e6-9922-c2ba194103b5",
+          "material_id": "e0a926d8-c23d-479d-a46e-d297a544d5de",
+          "target_timerange": {
+            "start": 8000000,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "bb8e8c3b-1db9-49d0-a406-2a69f1af1b54",
+          "material_id": "bec89521-bba2-4b47-b6d9-41ae691d0f33",
+          "target_timerange": {
+            "start": 11000000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "96db1a6f-8f0f-4038-996d-71b0cd94a3d6",
+          "material_id": "ecbdbcb3-ca14-4172-b2a0-e9d70bc90d48",
+          "target_timerange": {
+            "start": 13000000,
+            "duration": 4170000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

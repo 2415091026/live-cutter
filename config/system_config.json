@@ -1,0 +1,10 @@
+{
+  "segment_duration": 60,
+  "default_record_duration": 20,
+  "target_slice_min": 15,
+  "target_slice_max": 35,
+  "intensity_threshold": 1.3,
+  "min_energy": 180,
+  "auto_short_enabled": true,
+  "auto_draft_enabled": true
+}

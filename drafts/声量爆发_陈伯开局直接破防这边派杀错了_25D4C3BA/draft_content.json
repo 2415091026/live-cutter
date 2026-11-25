@@ -1,0 +1,154 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 20260000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "0b140177-b3e2-4e4d-9549-cca562205e61",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\23-32-39_陈伯(全能王)_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "6d83aec5-4b5e-4f51-b5db-f3f489df21fd",
+        "content": "{\"text\": \"共来的五个家里华\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ce6449e2-bc43-493f-a055-cf173c7a9c5d",
+        "content": "{\"text\": \"赶紧各赶紧各赶紧各赶紧各\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bc3a695c-41ec-4ef3-972f-94b32897ff9e",
+        "content": "{\"text\": \"这边派杀错了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "928bde46-e80e-4435-bad0-e6a89725f6e4",
+        "content": "{\"text\": \"一份项目\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3a624219-7a3a-4dd8-b095-cffe86d482e3",
+        "content": "{\"text\": \"我们这还有四个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1c002a56-bb4a-4f3d-bef0-778005adb025",
+        "content": "{\"text\": \"优势来的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "4aa25933-7fe4-4d78-b448-03af09d0e4ef",
+      "type": "video",
+      "segments": [
+        {
+          "id": "4e2d278b-09b9-4aa3-b858-54062045f498",
+          "material_id": "0b140177-b3e2-4e4d-9549-cca562205e61",
+          "source_timerange": {
+            "start": 0,
+            "duration": 20260000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 20260000
+          }
+        }
+      ]
+    },
+    {
+      "id": "d3d3368b-f67f-43e1-b13c-c32be74f6b97",
+      "type": "text",
+      "segments": [
+        {
+          "id": "5a330be5-ad52-4c93-896d-49ae7537827f",
+          "material_id": "6d83aec5-4b5e-4f51-b5db-f3f489df21fd",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "35e3c61d-c74a-4093-bc18-88f8544b0541",
+          "material_id": "ce6449e2-bc43-493f-a055-cf173c7a9c5d",
+          "target_timerange": {
+            "start": 1800000,
+            "duration": 4230000
+          }
+        },
+        {
+          "id": "68a9c982-848e-41cc-9317-3eedba30c6eb",
+          "material_id": "bc3a695c-41ec-4ef3-972f-94b32897ff9e",
+          "target_timerange": {
+            "start": 6030000,
+            "duration": 3969999
+          }
+        },
+        {
+          "id": "4f42af83-f365-48d5-9fb3-7d2d54868b6b",
+          "material_id": "928bde46-e80e-4435-bad0-e6a89725f6e4",
+          "target_timerange": {
+            "start": 10000000,
+            "duration": 8059999
+          }
+        },
+        {
+          "id": "42ace7e9-adea-4fb9-90c7-642768aa01c4",
+          "material_id": "3a624219-7a3a-4dd8-b095-cffe86d482e3",
+          "target_timerange": {
+            "start": 18060000,
+            "duration": 1240000
+          }
+        },
+        {
+          "id": "a1db87b1-eca5-4942-b3b6-e355522eb147",
+          "material_id": "1c002a56-bb4a-4f3d-bef0-778005adb025",
+          "target_timerange": {
+            "start": 19300000,
+            "duration": 960000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

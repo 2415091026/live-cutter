@@ -1,0 +1,50 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18500000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "337c1aa7-0fc1-4158-a6d9-88dde16418ac",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\23-27-16_陈伯(全能王)_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "97edccc0-0d4b-4ee1-b79b-3a74e9016a67",
+      "type": "video",
+      "segments": [
+        {
+          "id": "f8c83d9c-57d5-4438-86d0-d504bcaff8df",
+          "material_id": "337c1aa7-0fc1-4158-a6d9-88dde16418ac",
+          "source_timerange": {
+            "start": 37500000,
+            "duration": 18500000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18500000
+          }
+        }
+      ]
+    },
+    {
+      "id": "2e629cb5-6ed8-4f46-a3da-08a1ada0f14d",
+      "type": "text",
+      "segments": []
+    }
+  ],
+  "version": 3000000
+}

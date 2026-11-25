@@ -1,0 +1,205 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18500000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "150ab0a4-615a-49ff-8e7c-a10541c1564e",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-21-47_东方甄选_p013.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "ed694022-e076-4a25-89c7-8e95d0efd4d4",
+        "content": "{\"text\": \"柔度呢,我们家现在这边还干嘛还穿短袖呢?\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3a3bbb21-8f46-49be-83ed-2cdfc13a57d6",
+        "content": "{\"text\": \"我就不信你那边一直不冷,除非很难,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ed0297cf-4159-4f44-b4c4-3e038c38cb86",
+        "content": "{\"text\": \"行了,你不信一直不冷,是不是?\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a93cf7db-acbb-4799-893d-a14ea27a7042",
+        "content": "{\"text\": \"所以的话,咱们没必要说让自己那个刀真的冷起来了,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4a27dc94-e2d4-4e9e-974c-56f0d7eb7095",
+        "content": "{\"text\": \"然后再来买,这机制可就没了,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a5464fdb-2ed6-4b9c-b552-8765e0f3f597",
+        "content": "{\"text\": \"而且外家就说,你现在买那笔,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5466c344-3520-4548-a8e2-920744ef41c7",
+        "content": "{\"text\": \"比过这过回时候再买可能能便几十块钱,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "26fd59f5-0e60-449c-8cf7-897a276f7e59",
+        "content": "{\"text\": \"咱干嘛不现在买,对不对?\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dbfbe5b1-4f13-42d8-b5da-83e859fe7539",
+        "content": "{\"text\": \"而且的话,如果已经冷起来的话,\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "c4e55bea-71f2-47e5-b77a-91b493d7ac91",
+      "type": "video",
+      "segments": [
+        {
+          "id": "5fe4c2e0-48fb-4fdd-bcee-284edc2a0a04",
+          "material_id": "150ab0a4-615a-49ff-8e7c-a10541c1564e",
+          "source_timerange": {
+            "start": 1000000,
+            "duration": 18500000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18500000
+          }
+        }
+      ]
+    },
+    {
+      "id": "5271f8a6-84f9-4a99-aecc-e4113a0e5e4b",
+      "type": "text",
+      "segments": [
+        {
+          "id": "ea1a89f9-9081-4fe2-8349-26b8d194f393",
+          "material_id": "ed694022-e076-4a25-89c7-8e95d0efd4d4",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1279999
+          }
+        },
+        {
+          "id": "ecbedbd0-a8e4-4e63-9630-bd320f4fd090",
+          "material_id": "3a3bbb21-8f46-49be-83ed-2cdfc13a57d6",
+          "target_timerange": {
+            "start": 1279999,
+            "duration": 2360000
+          }
+        },
+        {
+          "id": "f13d5c51-9726-41fb-bb93-4650e5d57e7d",
+          "material_id": "ed0297cf-4159-4f44-b4c4-3e038c38cb86",
+          "target_timerange": {
+            "start": 3639999,
+            "duration": 2320000
+          }
+        },
+        {
+          "id": "65982014-7233-4ad5-b83d-bbf210dfb9cf",
+          "material_id": "a93cf7db-acbb-4799-893d-a14ea27a7042",
+          "target_timerange": {
+            "start": 5960000,
+            "duration": 3120000
+          }
+        },
+        {
+          "id": "411f57f2-bdc1-4342-af36-62a550f12fd2",
+          "material_id": "4a27dc94-e2d4-4e9e-974c-56f0d7eb7095",
+          "target_timerange": {
+            "start": 9080000,
+            "duration": 2080000
+          }
+        },
+        {
+          "id": "54a0078b-8204-4bf7-a4f1-def7fa2c3597",
+          "material_id": "a5464fdb-2ed6-4b9c-b552-8765e0f3f597",
+          "target_timerange": {
+            "start": 11160000,
+            "duration": 2279999
+          }
+        },
+        {
+          "id": "da17a769-7b97-4041-889d-fcf24ebd6e16",
+          "material_id": "5466c344-3520-4548-a8e2-920744ef41c7",
+          "target_timerange": {
+            "start": 13440000,
+            "duration": 3160000
+          }
+        },
+        {
+          "id": "339ce51b-a8a3-4504-b88f-f1eee3229668",
+          "material_id": "26fd59f5-0e60-449c-8cf7-897a276f7e59",
+          "target_timerange": {
+            "start": 16600000,
+            "duration": 1519999
+          }
+        },
+        {
+          "id": "bff9b5da-763d-4d33-bfef-0caf1d539864",
+          "material_id": "dbfbe5b1-4f13-42d8-b5da-83e859fe7539",
+          "target_timerange": {
+            "start": 18120000,
+            "duration": 379999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

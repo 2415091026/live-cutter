@@ -1,0 +1,256 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 17360000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "774a1940-3fa1-4194-a891-529c76cad4d2",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-25-13_观音桥毕加索_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "8805b3b0-f754-4f33-a439-5cfaf422c79e",
+        "content": "{\"text\": \"没有偷的忙碌\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bf8378a1-1e4e-4bf9-b1ab-5fe136944fb7",
+        "content": "{\"text\": \"让人说好事了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0758c825-9de7-486d-a7ae-8e10aa94c46e",
+        "content": "{\"text\": \"给我去一个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "22377f98-f31f-4a11-a683-5c1a5639043e",
+        "content": "{\"text\": \"我弄副果园\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ed6ed035-f3f4-4c0a-b788-af0dc4456e4a",
+        "content": "{\"text\": \"好吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "42ba9468-ebf4-4e35-9fb7-d95ce7640c38",
+        "content": "{\"text\": \"那怎么 怎么脆几个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "843ff899-0503-4c9c-928a-a98d8353fd5e",
+        "content": "{\"text\": \"我给你脆几个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "58345dbf-f489-4257-9965-811d9de66957",
+        "content": "{\"text\": \"就是约线老家\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9273aa31-b74f-4e98-85ca-1875fe8b6ffd",
+        "content": "{\"text\": \"那还怎么呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d7e7a22c-9190-4847-8ef1-fe40eeb2874a",
+        "content": "{\"text\": \"什么\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fac270f8-98c8-4593-859e-169e4dc09dc9",
+        "content": "{\"text\": \"我给你脆几个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3025b33a-8356-4457-82ce-962550dd7845",
+        "content": "{\"text\": \"你先去约线老家的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "ab0dd443-222f-455d-bd78-f518781b207a",
+      "type": "video",
+      "segments": [
+        {
+          "id": "4cfc1c1b-6e53-4385-9a12-a15bd7b8276f",
+          "material_id": "774a1940-3fa1-4194-a891-529c76cad4d2",
+          "source_timerange": {
+            "start": 5400000,
+            "duration": 17360000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 17360000
+          }
+        }
+      ]
+    },
+    {
+      "id": "3f1e2d22-0260-434a-98f3-4f70b2d24857",
+      "type": "text",
+      "segments": [
+        {
+          "id": "6e682000-d2b6-4a6c-a2ee-1d6763b11e8b",
+          "material_id": "8805b3b0-f754-4f33-a439-5cfaf422c79e",
+          "target_timerange": {
+            "start": 0,
+            "duration": 839999
+          }
+        },
+        {
+          "id": "c35c6bca-5c33-4fce-b8de-f364708ef3c9",
+          "material_id": "bf8378a1-1e4e-4bf9-b1ab-5fe136944fb7",
+          "target_timerange": {
+            "start": 839999,
+            "duration": 719999
+          }
+        },
+        {
+          "id": "9a1e613a-67d4-4ca8-bb12-f29f75b0921e",
+          "material_id": "0758c825-9de7-486d-a7ae-8e10aa94c46e",
+          "target_timerange": {
+            "start": 1559999,
+            "duration": 799999
+          }
+        },
+        {
+          "id": "d692514d-be30-440b-91b1-a2d360c900ed",
+          "material_id": "22377f98-f31f-4a11-a683-5c1a5639043e",
+          "target_timerange": {
+            "start": 3599999,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "863c3742-a4a6-4bf1-b221-686724fe7cb1",
+          "material_id": "ed6ed035-f3f4-4c0a-b788-af0dc4456e4a",
+          "target_timerange": {
+            "start": 9560000,
+            "duration": 599999
+          }
+        },
+        {
+          "id": "a189796c-ef47-4b1d-be20-f80370c3499f",
+          "material_id": "42ba9468-ebf4-4e35-9fb7-d95ce7640c38",
+          "target_timerange": {
+            "start": 10639999,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "0abcba41-8ce4-4e59-8439-43cb9321c689",
+          "material_id": "843ff899-0503-4c9c-928a-a98d8353fd5e",
+          "target_timerange": {
+            "start": 11960000,
+            "duration": 719999
+          }
+        },
+        {
+          "id": "fd92adb9-ff7e-45be-9ca2-5009091e886a",
+          "material_id": "58345dbf-f489-4257-9965-811d9de66957",
+          "target_timerange": {
+            "start": 12679999,
+            "duration": 920000
+          }
+        },
+        {
+          "id": "3aa61179-597e-4599-b84f-4b5beb0f75f5",
+          "material_id": "9273aa31-b74f-4e98-85ca-1875fe8b6ffd",
+          "target_timerange": {
+            "start": 13600000,
+            "duration": 800000
+          }
+        },
+        {
+          "id": "4c54e57d-e87e-4920-8c5b-4ff13e8b32ad",
+          "material_id": "d7e7a22c-9190-4847-8ef1-fe40eeb2874a",
+          "target_timerange": {
+            "start": 14920000,
+            "duration": 640000
+          }
+        },
+        {
+          "id": "4aa281e0-4471-461d-ac05-c4bc438dfe96",
+          "material_id": "fac270f8-98c8-4593-859e-169e4dc09dc9",
+          "target_timerange": {
+            "start": 15839999,
+            "duration": 520000
+          }
+        },
+        {
+          "id": "592c9749-ee00-4224-bb73-62fc4535c46e",
+          "material_id": "3025b33a-8356-4457-82ce-962550dd7845",
+          "target_timerange": {
+            "start": 16360000,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

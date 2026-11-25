@@ -1,0 +1,528 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 60000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "92e5c346-850f-48fa-b670-88412b8be678",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\20-52-26_东方甄选_p027.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "81987dd3-1fd4-453d-acaa-12b1d8104052",
+        "content": "{\"text\": \"廣西今年的北京都還在出現電熱彈\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "85fd5819-f16f-44d0-a214-fe31c52f4d0f",
+        "content": "{\"text\": \"出事的問題以及直接把臥勢考招了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e31b3da5-616f-4dbb-bfcb-1b7cc865e592",
+        "content": "{\"text\": \"臥勢收招了朋友們多嚇人\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "20214dec-f64c-4025-b197-54b8db2fe25b",
+        "content": "{\"text\": \"開酒店也是有些那種咖民素\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bded6c27-4e3b-4e67-8412-fcd661d3b317",
+        "content": "{\"text\": \"在山區是不是對吧很冷\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "589ac260-e5f9-4337-9be2-249559342682",
+        "content": "{\"text\": \"又是靠著江邊湖邊海邊的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f9fe693c-f699-42f1-a702-7526ead787e9",
+        "content": "{\"text\": \"以及給你的床考個大酷露\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a169b97f-28e5-4be6-a589-66c0fef4145e",
+        "content": "{\"text\": \"真的挺嚇人的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "357d0ae8-74e7-48eb-9d0d-f6a41fb0c9ed",
+        "content": "{\"text\": \"打扮你鋪面了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "da2e0d36-e4b5-4387-989b-25e155d3b26d",
+        "content": "{\"text\": \"你肯定也後怕\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a0b31a4f-5cea-4cb6-b08b-f639020fa043",
+        "content": "{\"text\": \"這東西可能你再也不敢用了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f1b566f1-40bf-463e-ade5-b36c0b39f1e2",
+        "content": "{\"text\": \"但我跟大家說\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2a2c96e0-ecad-4d62-9a5c-3c61df035677",
+        "content": "{\"text\": \"這個電熱彈到底怎麼知道\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6159d069-a63d-4217-8645-a212a522e6f3",
+        "content": "{\"text\": \"叫好為什麼那些會出現火情\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bcdf56f9-fe90-47a9-b256-bbf81a5bfe4f",
+        "content": "{\"text\": \"給大家把原理講明白\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0ec68732-49d9-485c-967a-0e12d0fdbe72",
+        "content": "{\"text\": \"來看看傳統的電熱彈是怎麼個原理\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "99c47f1e-5543-4722-91d2-fae1e0981407",
+        "content": "{\"text\": \"中間不就靠這個發熱絲\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e8cb9b86-61b4-4a32-868b-c93ba805de95",
+        "content": "{\"text\": \"你看它中間是這樣的一個\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9341529c-4229-4124-a9b4-34ddce797b55",
+        "content": "{\"text\": \"一股神在這股神的外表\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "10ee0967-af0d-4a2c-8144-8033aaee0f36",
+        "content": "{\"text\": \"這樣螺旋狀的混燃發熱絲\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f7ad39b6-af01-4527-9eee-c686f657587b",
+        "content": "{\"text\": \"然後在外表在加這個香蕉絕援的結人香蕉\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "aa2bbde2-41ca-4465-92f5-5cf1eb5d1498",
+        "content": "{\"text\": \"就是一個設計\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0c8aebd8-5841-4af8-bb95-e8c2974ae615",
+        "content": "{\"text\": \"這種情況之下\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "92dcd376-a79e-4c6d-9eef-d215b4d9ba03",
+        "content": "{\"text\": \"朋友們您可以看\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b8dd37cb-fe57-4bf6-a5cd-4e44c9163577",
+        "content": "{\"text\": \"如果這個發熱絲\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "58276047-f420-4011-bc82-4310ae76bf09",
+        "content": "{\"text\": \"它要是過於熱了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "46c0c1c9-e1db-416b-992f-9c0bbffc275f",
+        "content": "{\"text\": \"是不是就容易把這個香蕉給考慮了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "36b5574b-f313-4a7d-ab5a-20c9d15911a0",
+        "content": "{\"text\": \"考畫熱打扮就考畫了一點點\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "2309993d-eb94-49dc-bcc6-788cf0abe81e",
+      "type": "video",
+      "segments": [
+        {
+          "id": "964f0fea-490b-4543-a9da-a3e450e2ec91",
+          "material_id": "92e5c346-850f-48fa-b670-88412b8be678",
+          "source_timerange": {
+            "start": 0,
+            "duration": 60000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 60000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "482008b7-52ca-491a-94de-b0b6328266b5",
+      "type": "text",
+      "segments": [
+        {
+          "id": "66b9bebb-c831-405a-9aa5-838b70585ed7",
+          "material_id": "81987dd3-1fd4-453d-acaa-12b1d8104052",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3680000
+          }
+        },
+        {
+          "id": "848fd5a5-18ca-4866-90d3-86b991aea669",
+          "material_id": "85fd5819-f16f-44d0-a214-fe31c52f4d0f",
+          "target_timerange": {
+            "start": 3680000,
+            "duration": 3839999
+          }
+        },
+        {
+          "id": "031ce2cb-0f44-48f0-909d-64444340163d",
+          "material_id": "e31b3da5-616f-4dbb-bfcb-1b7cc865e592",
+          "target_timerange": {
+            "start": 7520000,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "639e5eaf-667f-4f6a-a7ea-a2c4ea9c6a5f",
+          "material_id": "20214dec-f64c-4025-b197-54b8db2fe25b",
+          "target_timerange": {
+            "start": 10520000,
+            "duration": 2840000
+          }
+        },
+        {
+          "id": "f05f229e-ae45-4b10-99df-92600e83f554",
+          "material_id": "bded6c27-4e3b-4e67-8412-fcd661d3b317",
+          "target_timerange": {
+            "start": 13360000,
+            "duration": 2640000
+          }
+        },
+        {
+          "id": "ce4a7592-792c-4a64-8510-af7f0b307582",
+          "material_id": "589ac260-e5f9-4337-9be2-249559342682",
+          "target_timerange": {
+            "start": 16000000,
+            "duration": 2079999
+          }
+        },
+        {
+          "id": "66260d4c-96cf-4ba1-b583-fbc27971b466",
+          "material_id": "f9fe693c-f699-42f1-a702-7526ead787e9",
+          "target_timerange": {
+            "start": 18080000,
+            "duration": 1920000
+          }
+        },
+        {
+          "id": "bf5ddd25-2e66-49f5-be00-638792c5471a",
+          "material_id": "a169b97f-28e5-4be6-a589-66c0fef4145e",
+          "target_timerange": {
+            "start": 20000000,
+            "duration": 1160000
+          }
+        },
+        {
+          "id": "32f22d49-5d65-4cc4-8850-75f968a42a96",
+          "material_id": "357d0ae8-74e7-48eb-9d0d-f6a41fb0c9ed",
+          "target_timerange": {
+            "start": 21160000,
+            "duration": 919999
+          }
+        },
+        {
+          "id": "b6cb3cfe-bb10-4698-92eb-fde6df8f98fc",
+          "material_id": "da2e0d36-e4b5-4387-989b-25e155d3b26d",
+          "target_timerange": {
+            "start": 22080000,
+            "duration": 920000
+          }
+        },
+        {
+          "id": "e07c07d3-ba73-4338-b85e-5d46a66a88cd",
+          "material_id": "a0b31a4f-5cea-4cb6-b08b-f639020fa043",
+          "target_timerange": {
+            "start": 23000000,
+            "duration": 1679999
+          }
+        },
+        {
+          "id": "dde8ecc3-be7f-4d00-9490-303a05a61ed8",
+          "material_id": "f1b566f1-40bf-463e-ade5-b36c0b39f1e2",
+          "target_timerange": {
+            "start": 24680000,
+            "duration": 1280000
+          }
+        },
+        {
+          "id": "960b98e0-e6be-4838-89bf-2c4139e7776b",
+          "material_id": "2a2c96e0-ecad-4d62-9a5c-3c61df035677",
+          "target_timerange": {
+            "start": 25960000,
+            "duration": 2119999
+          }
+        },
+        {
+          "id": "6ea0f385-ee99-4e90-a204-b4e947369039",
+          "material_id": "6159d069-a63d-4217-8645-a212a522e6f3",
+          "target_timerange": {
+            "start": 28080000,
+            "duration": 2840000
+          }
+        },
+        {
+          "id": "e11c7596-94bd-4b41-b673-1226c15eb5bf",
+          "material_id": "bcdf56f9-fe90-47a9-b256-bbf81a5bfe4f",
+          "target_timerange": {
+            "start": 30920000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "d80f2e04-8161-4d1b-b84b-d40ab1f7dc22",
+          "material_id": "0ec68732-49d9-485c-967a-0e12d0fdbe72",
+          "target_timerange": {
+            "start": 32920000,
+            "duration": 3439999
+          }
+        },
+        {
+          "id": "82d35b80-3097-44ac-82cc-e04c8b72416d",
+          "material_id": "99c47f1e-5543-4722-91d2-fae1e0981407",
+          "target_timerange": {
+            "start": 36360000,
+            "duration": 1960000
+          }
+        },
+        {
+          "id": "f45e7e25-7878-42a8-8ebf-b2d6dfd7af6b",
+          "material_id": "e8cb9b86-61b4-4a32-868b-c93ba805de95",
+          "target_timerange": {
+            "start": 38320000,
+            "duration": 2560000
+          }
+        },
+        {
+          "id": "21819474-491c-4971-8e97-022fd5d19174",
+          "material_id": "9341529c-4229-4124-a9b4-34ddce797b55",
+          "target_timerange": {
+            "start": 40880000,
+            "duration": 2679999
+          }
+        },
+        {
+          "id": "6da224dd-bde6-40d5-95e2-d8b0d65c694e",
+          "material_id": "10ee0967-af0d-4a2c-8144-8033aaee0f36",
+          "target_timerange": {
+            "start": 43560000,
+            "duration": 3079999
+          }
+        },
+        {
+          "id": "b2132ec9-214d-488e-be34-34a3df216562",
+          "material_id": "f7ad39b6-af01-4527-9eee-c686f657587b",
+          "target_timerange": {
+            "start": 46640000,
+            "duration": 3519999
+          }
+        },
+        {
+          "id": "302d5130-27d7-4f19-89cb-7f597606be10",
+          "material_id": "aa2bbde2-41ca-4465-92f5-5cf1eb5d1498",
+          "target_timerange": {
+            "start": 50160000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "7097bd50-d75c-4595-ac44-dab955fc2829",
+          "material_id": "0c8aebd8-5841-4af8-bb95-e8c2974ae615",
+          "target_timerange": {
+            "start": 51160000,
+            "duration": 1080000
+          }
+        },
+        {
+          "id": "40979dc6-a083-4bfa-a4c3-0e199f190904",
+          "material_id": "92dcd376-a79e-4c6d-9eef-d215b4d9ba03",
+          "target_timerange": {
+            "start": 52240000,
+            "duration": 1119999
+          }
+        },
+        {
+          "id": "502667ec-1c96-4e36-8d39-f9ebf5f510cd",
+          "material_id": "b8dd37cb-fe57-4bf6-a5cd-4e44c9163577",
+          "target_timerange": {
+            "start": 53360000,
+            "duration": 1039999
+          }
+        },
+        {
+          "id": "f966374b-7c28-4296-91d3-8bf43edf18e9",
+          "material_id": "58276047-f420-4011-bc82-4310ae76bf09",
+          "target_timerange": {
+            "start": 54400000,
+            "duration": 1440000
+          }
+        },
+        {
+          "id": "f22b00eb-8de1-4132-8153-a606734c75e6",
+          "material_id": "46c0c1c9-e1db-416b-992f-9c0bbffc275f",
+          "target_timerange": {
+            "start": 55840000,
+            "duration": 2199999
+          }
+        },
+        {
+          "id": "b59a1c50-ea9f-4bf8-b59f-4a5d3dcb985a",
+          "material_id": "36b5574b-f313-4a7d-ab5a-20c9d15911a0",
+          "target_timerange": {
+            "start": 58040000,
+            "duration": 1960000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

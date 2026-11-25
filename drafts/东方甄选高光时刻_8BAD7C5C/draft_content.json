@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 4000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "a048229a-6542-4224-9f86-21d696785321",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_80017709309_20261102_171325_5s.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "ac7262fa-0dd7-441b-896c-0300007dea97",
+        "content": "{\"text\": \"就下不喜欢花我们都可以直接去把它给售货掉的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "341df1b4-6003-4fda-b91f-cb958255d117",
+        "content": "{\"text\": \"就这么牛就这么\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "c2b1a653-1501-4dae-8eb3-ccc75b0d59ab",
+      "type": "video",
+      "segments": [
+        {
+          "id": "d1404506-8b2c-41be-bf8a-800b9719160c",
+          "material_id": "a048229a-6542-4224-9f86-21d696785321",
+          "source_timerange": {
+            "start": 0,
+            "duration": 4000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 4000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "8251d31f-92f5-493b-b670-eea0e7606b61",
+      "type": "text",
+      "segments": [
+        {
+          "id": "dd6c08f2-c634-4c79-bf49-907f5f6db6f7",
+          "material_id": "ac7262fa-0dd7-441b-896c-0300007dea97",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2820000
+          }
+        },
+        {
+          "id": "4bd0e4af-a55c-4329-8926-0762892b7436",
+          "material_id": "341df1b4-6003-4fda-b91f-cb958255d117",
+          "target_timerange": {
+            "start": 2820000,
+            "duration": 1180000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

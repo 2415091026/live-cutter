@@ -1,0 +1,103 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 5920000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "e132dda1-d19b-4860-8784-76219b479eb1",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_256751986134_20261102_190623_10s.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "a3900e8d-5f2b-4864-ba86-7919df9827e9",
+        "content": "{\"text\": \"原本29的價格\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8e85c251-2338-4d9a-94ed-43140273e6a7",
+        "content": "{\"text\": \"然後打了850之後你再去拍一段話\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "56051176-3b15-4f1c-a1db-22580186c89d",
+        "content": "{\"text\": \"只傷害到21塊多\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "05f6b980-cbde-4cd6-8613-034c2cacb342",
+      "type": "video",
+      "segments": [
+        {
+          "id": "776270a3-e233-463c-af40-6cde93646bde",
+          "material_id": "e132dda1-d19b-4860-8784-76219b479eb1",
+          "source_timerange": {
+            "start": 2000000,
+            "duration": 5920000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 5920000
+          }
+        }
+      ]
+    },
+    {
+      "id": "f455eefb-4c08-4d23-b845-156b7331fd19",
+      "type": "text",
+      "segments": [
+        {
+          "id": "cab4f380-5d3a-46f2-a959-b0b7409af990",
+          "material_id": "a3900e8d-5f2b-4864-ba86-7919df9827e9",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1520000
+          }
+        },
+        {
+          "id": "36961630-aa36-48ac-89ae-5176a87a749b",
+          "material_id": "8e85c251-2338-4d9a-94ed-43140273e6a7",
+          "target_timerange": {
+            "start": 1520000,
+            "duration": 2600000
+          }
+        },
+        {
+          "id": "74be145f-d064-4899-969a-1ce94ff78200",
+          "material_id": "56051176-3b15-4f1c-a1db-22580186c89d",
+          "target_timerange": {
+            "start": 4120000,
+            "duration": 1799999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

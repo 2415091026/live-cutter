@@ -1,0 +1,69 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 1000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "ae5a998e-007d-4a87-9c55-9a1f5b68e305",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\23-24-36_陈伯(全能王)_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "fde13c3b-46fd-4db9-81a4-d745452d17ed",
+        "content": "{\"text\": \"他輸了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "d494550c-e010-45da-aa55-a3b2da729864",
+      "type": "video",
+      "segments": [
+        {
+          "id": "88c35c9b-bb79-4c94-8ab0-5228070d8747",
+          "material_id": "ae5a998e-007d-4a87-9c55-9a1f5b68e305",
+          "source_timerange": {
+            "start": 8109999,
+            "duration": 1000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 1000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "ff0fe85b-3e45-4e8c-ba48-7960d68d0d33",
+      "type": "text",
+      "segments": [
+        {
+          "id": "55bd9dc4-497c-4271-b6d3-a8cb4fef1e53",
+          "material_id": "fde13c3b-46fd-4db9-81a4-d745452d17ed",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

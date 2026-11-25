@@ -1,0 +1,205 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 50900000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "1012e14e-3c3d-42f6-b1e9-35eade9be2e8",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\23-10-18_陈伯(全能王)_p007.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "1e9506e0-c2de-49ff-bd16-c11e18cab291",
+        "content": "{\"text\": \"這誰 食杨女\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4c3899c3-1a18-4eef-9267-7db6b0a92227",
+        "content": "{\"text\": \"回憶 發5萬 紅貓\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "34b82dbc-7f05-4451-a898-61542f5ad754",
+        "content": "{\"text\": \"發5萬 團隊的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6870e400-e446-4f95-8a79-9333fd47a42b",
+        "content": "{\"text\": \"翻一個人氣 四個好 團隊呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "eda5d5d7-c45c-452a-bc44-6c69c5450f2f",
+        "content": "{\"text\": \"保麗目前是一打三啊 加油\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "91c8857f-1c6b-4553-a132-a5072cf2311e",
+        "content": "{\"text\": \"你再把這個人給來滅了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "47c53f36-d718-4983-ac7d-cbf14439fb0c",
+        "content": "{\"text\": \"實際的滅掉\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cfe86a90-dc1d-42c8-add1-b992ee29a19a",
+        "content": "{\"text\": \"選機場\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2b63e9a8-9030-4c07-8c02-3ac8f5a90652",
+        "content": "{\"text\": \"外嘴戰神沒有斷斷\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "49a56722-9c0d-470e-90af-2769abfc2c32",
+      "type": "video",
+      "segments": [
+        {
+          "id": "67030b6d-82d6-44fd-9c9c-de5e1ac1dc5a",
+          "material_id": "1012e14e-3c3d-42f6-b1e9-35eade9be2e8",
+          "source_timerange": {
+            "start": 2480000,
+            "duration": 50900000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 50900000
+          }
+        }
+      ]
+    },
+    {
+      "id": "7f689da9-1147-44b3-b877-f619b86e76be",
+      "type": "text",
+      "segments": [
+        {
+          "id": "4b1fc8fa-81d3-4ad2-a176-c7163a179cd7",
+          "material_id": "1e9506e0-c2de-49ff-bd16-c11e18cab291",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1960000
+          }
+        },
+        {
+          "id": "dcc3f1b9-c8fb-4dc5-b1b5-2d5ab2df6f56",
+          "material_id": "4c3899c3-1a18-4eef-9267-7db6b0a92227",
+          "target_timerange": {
+            "start": 7209999,
+            "duration": 1920000
+          }
+        },
+        {
+          "id": "8f2b9cbb-5afa-4a6b-b454-504f6e42a565",
+          "material_id": "34b82dbc-7f05-4451-a898-61542f5ad754",
+          "target_timerange": {
+            "start": 9129999,
+            "duration": 3740000
+          }
+        },
+        {
+          "id": "c80b69b8-cc11-4f9b-a2b4-898cb4e6b3eb",
+          "material_id": "6870e400-e446-4f95-8a79-9333fd47a42b",
+          "target_timerange": {
+            "start": 12870000,
+            "duration": 2200000
+          }
+        },
+        {
+          "id": "e6b02c07-84f8-4edf-b2aa-d2b4e598b434",
+          "material_id": "eda5d5d7-c45c-452a-bc44-6c69c5450f2f",
+          "target_timerange": {
+            "start": 15070000,
+            "duration": 17770000
+          }
+        },
+        {
+          "id": "c428a144-83a1-4721-9198-4f0271725ca6",
+          "material_id": "91c8857f-1c6b-4553-a132-a5072cf2311e",
+          "target_timerange": {
+            "start": 32840000,
+            "duration": 1759999
+          }
+        },
+        {
+          "id": "48306d53-1eae-44a6-b805-1265268b797b",
+          "material_id": "47c53f36-d718-4983-ac7d-cbf14439fb0c",
+          "target_timerange": {
+            "start": 34600000,
+            "duration": 3679999
+          }
+        },
+        {
+          "id": "f415a0cb-6e35-4f12-a9ee-f175b767c86f",
+          "material_id": "cfe86a90-dc1d-42c8-add1-b992ee29a19a",
+          "target_timerange": {
+            "start": 38280000,
+            "duration": 1440000
+          }
+        },
+        {
+          "id": "cb9383ce-f899-4b64-8a46-949666457241",
+          "material_id": "2b63e9a8-9030-4c07-8c02-3ac8f5a90652",
+          "target_timerange": {
+            "start": 39720000,
+            "duration": 11180000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

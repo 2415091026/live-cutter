@@ -1,0 +1,239 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 25000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "782a1d64-f009-4b58-8dd1-dc9e73659ff9",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-24-13_PANDAER_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "932a0215-1f6a-4df6-93fe-400d6f68996b",
+        "content": "{\"text\": \"我的产品 中途又出现到比方说退款\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3617818f-0f0e-4c78-96c2-91dd14b2548f",
+        "content": "{\"text\": \"退货 超市为金收 据收退回的话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "608ad311-f822-4a37-b425-ff2c86dbee55",
+        "content": "{\"text\": \"那我们这个就不一发放了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "54419bb4-f560-4f03-bd4b-3fd8d5e60618",
+        "content": "{\"text\": \"这就不一发放了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6ad0c26e-47c3-494d-a321-090fced32c43",
+        "content": "{\"text\": \"所以说到它一定是在您\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8a4bfc83-a057-4cc6-8a25-a1b1798d1478",
+        "content": "{\"text\": \"确认到产品收到货\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "21d38a46-89e8-4604-9588-d825ba5538c3",
+        "content": "{\"text\": \"不退不关的情况下\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "074c10cd-58f1-4ca1-92a8-d2e40d1ab11d",
+        "content": "{\"text\": \"以另外一个快遇的形势\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "74841821-5b0a-452c-8f48-5c36f25275c3",
+        "content": "{\"text\": \"给您安排收到的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bf727c9b-c349-4302-a388-ffe9f5ff6827",
+        "content": "{\"text\": \"给您安排收到的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5fa9e7ee-9853-4106-bf26-a877d869638d",
+        "content": "{\"text\": \"到时候大家追查收手就把这场通\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "8e86a1ba-aef1-45a1-95a6-9eca8234f2b4",
+      "type": "video",
+      "segments": [
+        {
+          "id": "0a6aa8e8-9671-4856-a2e7-7847fa192a93",
+          "material_id": "782a1d64-f009-4b58-8dd1-dc9e73659ff9",
+          "source_timerange": {
+            "start": 0,
+            "duration": 25000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 25000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "a06ee88e-5713-40fe-b286-1090751a7fb4",
+      "type": "text",
+      "segments": [
+        {
+          "id": "12a9233b-1496-4207-9556-4c83b22d976f",
+          "material_id": "932a0215-1f6a-4df6-93fe-400d6f68996b",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3520000
+          }
+        },
+        {
+          "id": "df75837c-3ecf-4ba5-9a95-67d458cb3627",
+          "material_id": "3617818f-0f0e-4c78-96c2-91dd14b2548f",
+          "target_timerange": {
+            "start": 3520000,
+            "duration": 3520000
+          }
+        },
+        {
+          "id": "a3d0b8a0-d485-4017-9b92-98cb69d34409",
+          "material_id": "608ad311-f822-4a37-b425-ff2c86dbee55",
+          "target_timerange": {
+            "start": 7040000,
+            "duration": 1960000
+          }
+        },
+        {
+          "id": "443f20b3-03a7-4688-8eea-ee6f9a560a38",
+          "material_id": "54419bb4-f560-4f03-bd4b-3fd8d5e60618",
+          "target_timerange": {
+            "start": 10000000,
+            "duration": 1480000
+          }
+        },
+        {
+          "id": "b55cf532-683f-42e6-a978-d8ea263aabce",
+          "material_id": "6ad0c26e-47c3-494d-a321-090fced32c43",
+          "target_timerange": {
+            "start": 11480000,
+            "duration": 1719999
+          }
+        },
+        {
+          "id": "c925b8b5-dc54-4c9b-beff-af1f13c87c9f",
+          "material_id": "8a4bfc83-a057-4cc6-8a25-a1b1798d1478",
+          "target_timerange": {
+            "start": 13200000,
+            "duration": 1960000
+          }
+        },
+        {
+          "id": "c6953886-675c-4f74-bc7b-9cd0e1ac7788",
+          "material_id": "21d38a46-89e8-4604-9588-d825ba5538c3",
+          "target_timerange": {
+            "start": 15160000,
+            "duration": 1679999
+          }
+        },
+        {
+          "id": "710a2535-8eaf-44a1-af6a-2c5cb1713c88",
+          "material_id": "074c10cd-58f1-4ca1-92a8-d2e40d1ab11d",
+          "target_timerange": {
+            "start": 16840000,
+            "duration": 2359999
+          }
+        },
+        {
+          "id": "6961de44-3ebb-43e6-b5fe-08a9b5309048",
+          "material_id": "74841821-5b0a-452c-8f48-5c36f25275c3",
+          "target_timerange": {
+            "start": 19200000,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "27a4e3a0-5886-405d-8e5c-68e3f479acb0",
+          "material_id": "bf727c9b-c349-4302-a388-ffe9f5ff6827",
+          "target_timerange": {
+            "start": 21000000,
+            "duration": 1480000
+          }
+        },
+        {
+          "id": "97446a76-a5da-4cb4-8a31-c2493c3a3806",
+          "material_id": "5fa9e7ee-9853-4106-bf26-a877d869638d",
+          "target_timerange": {
+            "start": 22480000,
+            "duration": 2519999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

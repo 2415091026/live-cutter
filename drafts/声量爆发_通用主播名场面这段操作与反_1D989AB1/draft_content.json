@@ -1,0 +1,137 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 30740000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "b2e3ec44-26ef-47a8-b4cb-707ea70ac058",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\18-48-11_叫我Happy（Rust-失控进化）_p003.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "b39a4504-9e00-451f-94d7-e96ea60d3c33",
+        "content": "{\"text\": \"這空虎也都拿吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0848a8c1-7b46-47bf-8470-b2e065377928",
+        "content": "{\"text\": \"不對\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c3cef13e-9ee4-4f51-9ebb-9478a7947a50",
+        "content": "{\"text\": \"打給我人打給我人打給我人\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5ed7a16e-19b2-44b9-ad8a-2b8c5f8e0fc9",
+        "content": "{\"text\": \"沒病了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "65781f6e-d1c4-43d9-9ac4-93a251170c1d",
+        "content": "{\"text\": \"我沒照片頭\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "6cbee858-e4a6-4398-98fd-939aa447ddfe",
+      "type": "video",
+      "segments": [
+        {
+          "id": "7d61bd6e-9299-4f56-ad00-803d8370bf28",
+          "material_id": "b2e3ec44-26ef-47a8-b4cb-707ea70ac058",
+          "source_timerange": {
+            "start": 13070000,
+            "duration": 30740000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 30740000
+          }
+        }
+      ]
+    },
+    {
+      "id": "f4efec5a-9c43-4af9-96a5-fa34dc793eb6",
+      "type": "text",
+      "segments": [
+        {
+          "id": "2f29f610-a136-473d-b775-7c2de3999d16",
+          "material_id": "b39a4504-9e00-451f-94d7-e96ea60d3c33",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "932359bb-3577-403b-9ca2-2b2c21354d47",
+          "material_id": "0848a8c1-7b46-47bf-8470-b2e065377928",
+          "target_timerange": {
+            "start": 2000000,
+            "duration": 19860000
+          }
+        },
+        {
+          "id": "139d4635-075c-4be4-a2a3-5d42b6005870",
+          "material_id": "c3cef13e-9ee4-4f51-9ebb-9478a7947a50",
+          "target_timerange": {
+            "start": 21860000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "02767d17-328e-4eeb-b9fe-a5bb566e513b",
+          "material_id": "5ed7a16e-19b2-44b9-ad8a-2b8c5f8e0fc9",
+          "target_timerange": {
+            "start": 23860000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "3e21292a-2780-404e-a687-3d1eb57cb096",
+          "material_id": "65781f6e-d1c4-43d9-9ac4-93a251170c1d",
+          "target_timerange": {
+            "start": 25860000,
+            "duration": 4880000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

@@ -1,0 +1,511 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 60360000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "52c933ba-baec-458e-947d-cd2e2e8d6cd6",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-17-25_东方甄选_p045.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "63a8b2fc-2781-4284-bf6c-87f4a8a6e2f2",
+        "content": "{\"text\": \"安心 又保暖 辛苦 栽心\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "35f9da04-9c36-46ad-8026-8b12fef3970e",
+        "content": "{\"text\": \"转移 抱一下胖的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2e0b311c-15fe-4a3f-b560-1a1efb815e34",
+        "content": "{\"text\": \"不用耐心 脉胖的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fde24c96-8b3b-4386-84d4-855a77c96391",
+        "content": "{\"text\": \"现在就说是你的耳梯\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "61d70781-057c-4814-b833-e2af287f8912",
+        "content": "{\"text\": \"说是你的耳梯\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "917ea2ab-8dda-40de-aaa7-61dfc41b5f34",
+        "content": "{\"text\": \"大家都是非常不熟悉的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "17b4d8f8-da84-4fcb-8533-32c96d88041a",
+        "content": "{\"text\": \"你只要在等手上\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9dee887e-3f59-4d89-a176-12f34e6b5904",
+        "content": "{\"text\": \"全部放在鲸櫃\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cb5e6274-827a-4794-8759-6481816eac98",
+        "content": "{\"text\": \"你的耳梯的人在耳梯下面\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "de6a6294-4a22-4435-bfd7-33993c2251c4",
+        "content": "{\"text\": \"就想告诉我\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c261c813-9b0b-47e4-bb85-6b7e1bfca80b",
+        "content": "{\"text\": \"不要再走吃\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "59f38a3c-1e59-48e1-83c8-d3be62a81a69",
+        "content": "{\"text\": \"会去刷家中吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c6fba98c-0d33-4d8f-8ef2-a152d16c238d",
+        "content": "{\"text\": \"是的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "db287953-3be6-4c5a-b50f-3243c422f657",
+        "content": "{\"text\": \"妈妈 来跟大家说一下怎么去用呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f12639ab-bd32-4862-bdd9-2778da01b835",
+        "content": "{\"text\": \"说不能破了还后\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3583a15a-ea5f-47a8-86dc-803ebcfb2ef9",
+        "content": "{\"text\": \"什么呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9dd0e1a0-b616-410e-ad90-8c8aff9b8074",
+        "content": "{\"text\": \"来来来来来来来 给他看一下\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "eda4bca4-c7ad-46eb-83d3-88ffab90d727",
+        "content": "{\"text\": \"来 这个的话呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e726a9d9-5427-4db2-9c1c-59db4e130092",
+        "content": "{\"text\": \"就是您正常用的时候\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "506c2bf4-3342-4ba5-835a-5519cf7a7b9a",
+        "content": "{\"text\": \"在上面撲\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1e5769ed-1368-4642-a631-59d4f1295070",
+        "content": "{\"text\": \"那个比如说那个床汭\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a1f64a58-6b31-4815-954b-43917bda700c",
+        "content": "{\"text\": \"锁鱼\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "98d34113-8e56-4236-a649-c652bd4a507d",
+        "content": "{\"text\": \"锁一个小弱子\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0b61d368-5a18-4c08-9752-551b2a4c6f49",
+        "content": "{\"text\": \"这都没问题\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f6de205c-f274-4bdb-953b-1ecd12d54cdb",
+        "content": "{\"text\": \"但是别撲什么呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6d2fcada-932c-43c2-9b10-ed9c4197c903",
+        "content": "{\"text\": \"户神\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6658a79e-03b2-4eb7-bf87-8ca27bdb9c36",
+        "content": "{\"text\": \"户\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "04f8af78-8f4c-4c53-b761-c504b45a752e",
+      "type": "video",
+      "segments": [
+        {
+          "id": "89825269-fbad-439f-a28d-68357784f8aa",
+          "material_id": "52c933ba-baec-458e-947d-cd2e2e8d6cd6",
+          "source_timerange": {
+            "start": 0,
+            "duration": 60360000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 60360000
+          }
+        }
+      ]
+    },
+    {
+      "id": "222fa08d-57df-4f11-a4d3-538800e1dd0f",
+      "type": "text",
+      "segments": [
+        {
+          "id": "bdfe64c9-6fd8-4663-8b47-8d9a823b7fd8",
+          "material_id": "63a8b2fc-2781-4284-bf6c-87f4a8a6e2f2",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2240000
+          }
+        },
+        {
+          "id": "97fe9132-366e-47ac-82f4-d7184564d6d2",
+          "material_id": "35f9da04-9c36-46ad-8026-8b12fef3970e",
+          "target_timerange": {
+            "start": 30660000,
+            "duration": 839999
+          }
+        },
+        {
+          "id": "88ea2053-f6b5-4647-a4cf-acd3ee968124",
+          "material_id": "2e0b311c-15fe-4a3f-b560-1a1efb815e34",
+          "target_timerange": {
+            "start": 31500000,
+            "duration": 1259999
+          }
+        },
+        {
+          "id": "569e6f87-6959-4fa0-b50f-7eb1c0cff303",
+          "material_id": "fde24c96-8b3b-4386-84d4-855a77c96391",
+          "target_timerange": {
+            "start": 32759999,
+            "duration": 1480000
+          }
+        },
+        {
+          "id": "84b3d767-0555-4d30-ae5a-7ab0e4a84433",
+          "material_id": "61d70781-057c-4814-b833-e2af287f8912",
+          "target_timerange": {
+            "start": 34240000,
+            "duration": 1259999
+          }
+        },
+        {
+          "id": "a7eb8ce6-b60e-4cf4-9316-292467151ed7",
+          "material_id": "917ea2ab-8dda-40de-aaa7-61dfc41b5f34",
+          "target_timerange": {
+            "start": 36000000,
+            "duration": 1719999
+          }
+        },
+        {
+          "id": "4e0ac918-59b3-4103-b08c-69a10166ebe2",
+          "material_id": "17b4d8f8-da84-4fcb-8533-32c96d88041a",
+          "target_timerange": {
+            "start": 37740000,
+            "duration": 519999
+          }
+        },
+        {
+          "id": "13f0792b-35ae-4484-b595-3219e4846c08",
+          "material_id": "9dee887e-3f59-4d89-a176-12f34e6b5904",
+          "target_timerange": {
+            "start": 38280000,
+            "duration": 1939999
+          }
+        },
+        {
+          "id": "dda9d8d6-187d-4fb4-90c8-fbfcedb10553",
+          "material_id": "cb5e6274-827a-4794-8759-6481816eac98",
+          "target_timerange": {
+            "start": 40240000,
+            "duration": 1439999
+          }
+        },
+        {
+          "id": "7b585ba6-a3cf-4af8-944c-8617a7dbbb25",
+          "material_id": "de6a6294-4a22-4435-bfd7-33993c2251c4",
+          "target_timerange": {
+            "start": 41740000,
+            "duration": 780000
+          }
+        },
+        {
+          "id": "052adbb2-05a4-47f3-960a-c1d45e6ec63f",
+          "material_id": "c261c813-9b0b-47e4-bb85-6b7e1bfca80b",
+          "target_timerange": {
+            "start": 42540000,
+            "duration": 1280000
+          }
+        },
+        {
+          "id": "cb9ff700-3757-42aa-a6b9-8abac668e50f",
+          "material_id": "59f38a3c-1e59-48e1-83c8-d3be62a81a69",
+          "target_timerange": {
+            "start": 43840000,
+            "duration": 759999
+          }
+        },
+        {
+          "id": "b80f1368-d427-4c6f-9139-5e8f8dee5ebc",
+          "material_id": "c6fba98c-0d33-4d8f-8ef2-a152d16c238d",
+          "target_timerange": {
+            "start": 45100000,
+            "duration": 539999
+          }
+        },
+        {
+          "id": "68a7eb9f-1805-4e76-8175-fb005581186e",
+          "material_id": "db287953-3be6-4c5a-b50f-3243c422f657",
+          "target_timerange": {
+            "start": 45700000,
+            "duration": 539999
+          }
+        },
+        {
+          "id": "5faa6b0f-6ac0-4703-bc3a-b4c59bf68230",
+          "material_id": "f12639ab-bd32-4862-bdd9-2778da01b835",
+          "target_timerange": {
+            "start": 46600000,
+            "duration": 939999
+          }
+        },
+        {
+          "id": "cda749ea-24bf-4914-89d5-9fe45bdbf4ee",
+          "material_id": "3583a15a-ea5f-47a8-86dc-803ebcfb2ef9",
+          "target_timerange": {
+            "start": 47580000,
+            "duration": 179999
+          }
+        },
+        {
+          "id": "a06a631b-bf54-4ec8-9a84-21f32edadbc5",
+          "material_id": "9dd0e1a0-b616-410e-ad90-8c8aff9b8074",
+          "target_timerange": {
+            "start": 47760000,
+            "duration": 1380000
+          }
+        },
+        {
+          "id": "5d9b27f7-e60c-4e8f-b728-5a629794c56f",
+          "material_id": "eda4bca4-c7ad-46eb-83d3-88ffab90d727",
+          "target_timerange": {
+            "start": 49140000,
+            "duration": 1259999
+          }
+        },
+        {
+          "id": "763b3f6f-d1ef-4a7e-a208-a0240646463e",
+          "material_id": "e726a9d9-5427-4db2-9c1c-59db4e130092",
+          "target_timerange": {
+            "start": 50460000,
+            "duration": 1699999
+          }
+        },
+        {
+          "id": "f268241a-bb35-4338-bb27-c772bf48740a",
+          "material_id": "506c2bf4-3342-4ba5-835a-5519cf7a7b9a",
+          "target_timerange": {
+            "start": 52200000,
+            "duration": 1479999
+          }
+        },
+        {
+          "id": "7d572bd1-3eeb-4198-b4db-653193860199",
+          "material_id": "1e5769ed-1368-4642-a631-59d4f1295070",
+          "target_timerange": {
+            "start": 53700000,
+            "duration": 1640000
+          }
+        },
+        {
+          "id": "53470e45-d093-4343-9692-9d10612c868f",
+          "material_id": "a1f64a58-6b31-4815-954b-43917bda700c",
+          "target_timerange": {
+            "start": 55340000,
+            "duration": 319999
+          }
+        },
+        {
+          "id": "92713948-23e0-484f-a176-34cf7a77bf76",
+          "material_id": "98d34113-8e56-4236-a649-c652bd4a507d",
+          "target_timerange": {
+            "start": 55660000,
+            "duration": 980000
+          }
+        },
+        {
+          "id": "e640014f-77a0-43c3-b54a-3d4aaebe9707",
+          "material_id": "0b61d368-5a18-4c08-9752-551b2a4c6f49",
+          "target_timerange": {
+            "start": 56660000,
+            "duration": 900000
+          }
+        },
+        {
+          "id": "1777c59e-6842-471c-b07b-46afcdea7717",
+          "material_id": "f6de205c-f274-4bdb-953b-1ecd12d54cdb",
+          "target_timerange": {
+            "start": 57640000,
+            "duration": 1679999
+          }
+        },
+        {
+          "id": "5bb051b4-6a91-484a-a5a0-a02a55d9b795",
+          "material_id": "6d2fcada-932c-43c2-9b10-ed9c4197c903",
+          "target_timerange": {
+            "start": 59320000,
+            "duration": 500000
+          }
+        },
+        {
+          "id": "2002a3b0-479c-4434-a556-9c6992ed0215",
+          "material_id": "6658a79e-03b2-4eb7-bf87-8ca27bdb9c36",
+          "target_timerange": {
+            "start": 59820000,
+            "duration": 539999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

@@ -1,0 +1,69 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 7699999,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "4a4e4ef4-d4a3-4064-9bc6-6b33d234d219",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-51-36_渡一Web前端学习频道（Ai全栈）_p013.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "d3fa1925-97a0-46db-b2ce-5708ab701025",
+        "content": "{\"text\": \"就是那些可以达不到,达不到的话,要么一人接受我这一块,我又确实,我又先放一放,不管他,要不然你就要多看几遍。\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "6cd6e00e-2a9f-40d4-a264-2140a12bc5e2",
+      "type": "video",
+      "segments": [
+        {
+          "id": "dc638173-edf4-4a6d-8805-73eea129becb",
+          "material_id": "4a4e4ef4-d4a3-4064-9bc6-6b33d234d219",
+          "source_timerange": {
+            "start": 660000,
+            "duration": 7699999
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 7699999
+          }
+        }
+      ]
+    },
+    {
+      "id": "77c1d189-edf7-48ca-875d-af85186f4c6b",
+      "type": "text",
+      "segments": [
+        {
+          "id": "1b488fb4-0831-4a5f-830f-aeccccab895f",
+          "material_id": "d3fa1925-97a0-46db-b2ce-5708ab701025",
+          "target_timerange": {
+            "start": 0,
+            "duration": 7699999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

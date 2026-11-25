@@ -1,0 +1,18 @@
+{
+  "anchor_id": "dongfang_zhenxuan",
+  "anchor_name": "东方甄选",
+  "web_rid": "80017709309",
+  "category": "电商知识/助农文化",
+  "layout_template": "vertical_9_16",
+  "exclusive_keywords": [
+    "董宇辉",
+    "俞敏洪",
+    "小黄车",
+    "上链接",
+    "太划算了",
+    "绝了",
+    "下单"
+  ],
+  "heat_sensitivity": 0.75,
+  "persona_prompt": "该主播以知识讲解、文化金句和助农带货为核心看点。重点提炼主播输出的文化哲学短句、幽默自嘲、以及商品破价上车的激烈时刻。"
+}

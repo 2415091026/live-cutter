@@ -1,0 +1,596 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 57960000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "750c7433-7d98-47af-ab3f-ac476d23fda1",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\16-49-59_蘸晨翔_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "9808e90a-178a-4f3f-b37b-5a1b7d1b29b1",
+        "content": "{\"text\": \"好, 拿一把茶\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6195c18e-f32f-4cfa-92bc-ab7330b9cac8",
+        "content": "{\"text\": \"加些董事件, 你也笑你\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c0cfe118-bd99-495a-a158-85d5d0956f70",
+        "content": "{\"text\": \"我不吃, 你听不懂吗\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "70b4c98c-7b77-45e6-9554-9d3da8da59bd",
+        "content": "{\"text\": \"这个把酒把酒把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0160cd5a-97bc-417a-8d01-fe252202a65e",
+        "content": "{\"text\": \"把酒放在那里, 把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9a5cd9dc-bd56-4db8-b308-6be32886977a",
+        "content": "{\"text\": \"对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "33a814f0-4746-43ea-b612-7fa2049fcd7f",
+        "content": "{\"text\": \"把酒放在那里, 把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a24794b9-58c9-4952-b249-ffbfd74651c5",
+        "content": "{\"text\": \"把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cf276143-aeb4-4753-8dd9-ff1bfd095e1c",
+        "content": "{\"text\": \"把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "29052699-2c50-480d-b88a-3181e796d129",
+        "content": "{\"text\": \"把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "899041c9-b556-48e4-b028-b32a3ef087fd",
+        "content": "{\"text\": \"对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "860b7a11-9b80-4084-985f-a7d37ffcdb7b",
+        "content": "{\"text\": \"它以过的能处, 它以过的能处处\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ccfc50fc-90d3-472e-a2f5-85aaa739f00e",
+        "content": "{\"text\": \"它以过的能处\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ccb8a1ab-69f2-42c8-9945-7161a64a862f",
+        "content": "{\"text\": \"你打好清的话, 然后就多了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6fb9855b-4c46-45e0-a867-3f233cae2bb2",
+        "content": "{\"text\": \"因为下过了大好清\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "65e9a9d9-587f-4d95-bee8-8ddde8d16baa",
+        "content": "{\"text\": \"打过你的法碗, 把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5af41f21-ec2c-4ec8-9df3-4750beea8dfb",
+        "content": "{\"text\": \"对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f9decd12-3a23-435a-92e1-dc38b32d3043",
+        "content": "{\"text\": \"对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bc0ba9ae-91f0-4daa-af1c-5b76d9998559",
+        "content": "{\"text\": \"把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a7c3689c-b3d4-4f38-9987-8ce4a3cc67aa",
+        "content": "{\"text\": \"把这个董事件放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8b0acd85-c6ac-41aa-8b85-14e54969485b",
+        "content": "{\"text\": \"把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1316fc47-03b2-4ffe-a86a-076a77ba0a58",
+        "content": "{\"text\": \"把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "6072f370-1356-41c3-a9fe-a116b96477f2",
+        "content": "{\"text\": \"所以说, 你们前安清卖菜是最好的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b5d3cfdf-0246-4344-b8f5-83798d1d5d07",
+        "content": "{\"text\": \"你\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c4666ad3-7c66-4321-bad3-a4949597c242",
+        "content": "{\"text\": \"别打好清卖的话, 它就\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ac218d08-a34a-4f80-92f7-d4e823edcabb",
+        "content": "{\"text\": \"它就好在\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bf140e80-1a8a-44c7-9cea-735087d494f4",
+        "content": "{\"text\": \"它骨头就下了, 它前安也看着是\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7b2ef07c-9a40-42af-928c-57748c1e7b69",
+        "content": "{\"text\": \"下方打过来就没法了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "93a18785-d30c-4bcb-a152-6f89c7eba011",
+        "content": "{\"text\": \"你不叫\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "412cd1ee-9b37-474c-99ba-a96710d59cf4",
+        "content": "{\"text\": \"你\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "93775fa6-85f7-423f-9144-b3123e4e6a44",
+        "content": "{\"text\": \"把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "40f069d8-2546-4496-9c32-a072a97ad9d3",
+        "content": "{\"text\": \"把酒放在那里\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "356db8ad-bb8b-4e56-b112-f42ef4b1e15d",
+      "type": "video",
+      "segments": [
+        {
+          "id": "7fb736f7-7f73-4ada-9adc-938dd9b1c66d",
+          "material_id": "750c7433-7d98-47af-ab3f-ac476d23fda1",
+          "source_timerange": {
+            "start": 2060000,
+            "duration": 57960000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 57960000
+          }
+        }
+      ]
+    },
+    {
+      "id": "d96afb30-cd0e-4d4e-8751-a94c30bad28d",
+      "type": "text",
+      "segments": [
+        {
+          "id": "46b66132-ec50-4b94-9da9-314fde1379ad",
+          "material_id": "9808e90a-178a-4f3f-b37b-5a1b7d1b29b1",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2800000
+          }
+        },
+        {
+          "id": "929439fe-8caa-46a1-a373-75a239445501",
+          "material_id": "6195c18e-f32f-4cfa-92bc-ab7330b9cac8",
+          "target_timerange": {
+            "start": 2800000,
+            "duration": 2039999
+          }
+        },
+        {
+          "id": "5a67a572-e9d8-4960-a757-24f9ee53f0bd",
+          "material_id": "c0cfe118-bd99-495a-a158-85d5d0956f70",
+          "target_timerange": {
+            "start": 4840000,
+            "duration": 3119999
+          }
+        },
+        {
+          "id": "e8f7377b-a992-41d0-b3e1-338c52c4cf3c",
+          "material_id": "70b4c98c-7b77-45e6-9554-9d3da8da59bd",
+          "target_timerange": {
+            "start": 7959999,
+            "duration": 4490000
+          }
+        },
+        {
+          "id": "7001ff58-93b4-4139-a87e-3935e44b07bb",
+          "material_id": "0160cd5a-97bc-417a-8d01-fe252202a65e",
+          "target_timerange": {
+            "start": 12450000,
+            "duration": 1439999
+          }
+        },
+        {
+          "id": "cdbb391c-9341-4795-81b4-a51ce5378a56",
+          "material_id": "9a5cd9dc-bd56-4db8-b308-6be32886977a",
+          "target_timerange": {
+            "start": 13889999,
+            "duration": 600000
+          }
+        },
+        {
+          "id": "b6ba4055-b155-42a7-82fb-d2c934c02843",
+          "material_id": "33a814f0-4746-43ea-b612-7fa2049fcd7f",
+          "target_timerange": {
+            "start": 14490000,
+            "duration": 3080000
+          }
+        },
+        {
+          "id": "8fe22119-06fe-4854-8256-4b18d05359fb",
+          "material_id": "a24794b9-58c9-4952-b249-ffbfd74651c5",
+          "target_timerange": {
+            "start": 17570000,
+            "duration": 440000
+          }
+        },
+        {
+          "id": "379ff656-aec0-4d98-834b-5cf2cc5b4f0a",
+          "material_id": "cf276143-aeb4-4753-8dd9-ff1bfd095e1c",
+          "target_timerange": {
+            "start": 18010000,
+            "duration": 960000
+          }
+        },
+        {
+          "id": "6506559f-0bb6-4b62-8f3a-8884f33e339a",
+          "material_id": "29052699-2c50-480d-b88a-3181e796d129",
+          "target_timerange": {
+            "start": 18970000,
+            "duration": 559999
+          }
+        },
+        {
+          "id": "52e9cd95-eda3-424b-b190-900cd03076df",
+          "material_id": "899041c9-b556-48e4-b028-b32a3ef087fd",
+          "target_timerange": {
+            "start": 19530000,
+            "duration": 1039999
+          }
+        },
+        {
+          "id": "ad873cc4-b264-43b0-9e86-554bc5860579",
+          "material_id": "860b7a11-9b80-4084-985f-a7d37ffcdb7b",
+          "target_timerange": {
+            "start": 20570000,
+            "duration": 2600000
+          }
+        },
+        {
+          "id": "af868dbe-65ab-47b3-ac0a-fe4a7d9f1d5e",
+          "material_id": "ccfc50fc-90d3-472e-a2f5-85aaa739f00e",
+          "target_timerange": {
+            "start": 23170000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "695e9e6a-e2b5-4c16-9d8b-2670143036bd",
+          "material_id": "ccb8a1ab-69f2-42c8-9945-7161a64a862f",
+          "target_timerange": {
+            "start": 24170000,
+            "duration": 1599999
+          }
+        },
+        {
+          "id": "1db429e7-df41-4b0e-b609-107f825f4edb",
+          "material_id": "6fb9855b-4c46-45e0-a867-3f233cae2bb2",
+          "target_timerange": {
+            "start": 25770000,
+            "duration": 1520000
+          }
+        },
+        {
+          "id": "8c52e101-5220-42de-9648-ce653ab382f5",
+          "material_id": "65e9a9d9-587f-4d95-bee8-8ddde8d16baa",
+          "target_timerange": {
+            "start": 27290000,
+            "duration": 2719999
+          }
+        },
+        {
+          "id": "47ea654c-7f24-444a-aa29-8923b1ea184c",
+          "material_id": "5af41f21-ec2c-4ec8-9df3-4750beea8dfb",
+          "target_timerange": {
+            "start": 30010000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "89f41d58-6f23-4034-bbc3-5996f604385a",
+          "material_id": "f9decd12-3a23-435a-92e1-dc38b32d3043",
+          "target_timerange": {
+            "start": 31010000,
+            "duration": 839999
+          }
+        },
+        {
+          "id": "6c57d448-a80d-4821-977e-1f8c6cdefde8",
+          "material_id": "bc0ba9ae-91f0-4daa-af1c-5b76d9998559",
+          "target_timerange": {
+            "start": 31849999,
+            "duration": 760000
+          }
+        },
+        {
+          "id": "33ce1c15-8581-4ce2-b955-2826dfc2b053",
+          "material_id": "a7c3689c-b3d4-4f38-9987-8ce4a3cc67aa",
+          "target_timerange": {
+            "start": 32610000,
+            "duration": 1159999
+          }
+        },
+        {
+          "id": "b7ad28ae-c1db-44d0-b40f-a85b1dd76425",
+          "material_id": "8b0acd85-c6ac-41aa-8b85-14e54969485b",
+          "target_timerange": {
+            "start": 33769999,
+            "duration": 1440000
+          }
+        },
+        {
+          "id": "0e1060c5-aa6b-4db7-b571-199e40a443cc",
+          "material_id": "1316fc47-03b2-4ffe-a86a-076a77ba0a58",
+          "target_timerange": {
+            "start": 35210000,
+            "duration": 3229999
+          }
+        },
+        {
+          "id": "6c85eb2e-0be5-4448-b7e9-9c66e99c33c1",
+          "material_id": "6072f370-1356-41c3-a9fe-a116b96477f2",
+          "target_timerange": {
+            "start": 38440000,
+            "duration": 2399999
+          }
+        },
+        {
+          "id": "411604f4-24cf-4564-98a7-543bbc142433",
+          "material_id": "b5d3cfdf-0246-4344-b8f5-83798d1d5d07",
+          "target_timerange": {
+            "start": 40840000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "bc36505d-bb6b-422a-b7b1-4326f18bae66",
+          "material_id": "c4666ad3-7c66-4321-bad3-a4949597c242",
+          "target_timerange": {
+            "start": 42840000,
+            "duration": 2399999
+          }
+        },
+        {
+          "id": "d687881c-9a70-447c-b9f4-229b64c6301d",
+          "material_id": "ac218d08-a34a-4f80-92f7-d4e823edcabb",
+          "target_timerange": {
+            "start": 45239999,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "ebfff674-4671-4a20-9560-296906fe0f78",
+          "material_id": "bf140e80-1a8a-44c7-9cea-735087d494f4",
+          "target_timerange": {
+            "start": 48239999,
+            "duration": 3480000
+          }
+        },
+        {
+          "id": "a42c36e8-8cc4-4833-88e3-620d2ab30129",
+          "material_id": "7b2ef07c-9a40-42af-928c-57748c1e7b69",
+          "target_timerange": {
+            "start": 51720000,
+            "duration": 1560000
+          }
+        },
+        {
+          "id": "9d692f02-17db-4e2d-ab25-b8d553780c7d",
+          "material_id": "93a18785-d30c-4bcb-a152-6f89c7eba011",
+          "target_timerange": {
+            "start": 53280000,
+            "duration": 1199999
+          }
+        },
+        {
+          "id": "fb6ece8e-6cfb-4f0e-870e-6ba9e33def32",
+          "material_id": "412cd1ee-9b37-474c-99ba-a96710d59cf4",
+          "target_timerange": {
+            "start": 54480000,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "4ec39436-f426-40dc-a22b-f231771b1982",
+          "material_id": "93775fa6-85f7-423f-9144-b3123e4e6a44",
+          "target_timerange": {
+            "start": 55800000,
+            "duration": 880000
+          }
+        },
+        {
+          "id": "6d974728-a42e-49f9-b5b0-21826970e83e",
+          "material_id": "40f069d8-2546-4496-9c32-a072a97ad9d3",
+          "target_timerange": {
+            "start": 56680000,
+            "duration": 1280000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

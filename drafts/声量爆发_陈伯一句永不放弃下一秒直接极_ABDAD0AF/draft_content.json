@@ -1,0 +1,120 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 15029999,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "d081da9c-d006-4b1f-9b65-bc146ac66192",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-57-07_陈伯(全能王)_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "20c7b9ce-ed40-411d-996c-888060c5cd49",
+        "content": "{\"text\": \"永不放棄,幾嘴\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "48d2ed78-1646-43c5-bd24-d93851b576f2",
+        "content": "{\"text\": \"玩一台也輸了呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "11c4493a-2248-4cf4-999f-2c59282252e7",
+        "content": "{\"text\": \"對,我極限起來,看來沒有\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9fe4ec2d-e302-4b26-85d7-86476b6899e1",
+        "content": "{\"text\": \"斗了一批\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "c6202ffb-2f44-41b5-8cdd-a0be7387f74d",
+      "type": "video",
+      "segments": [
+        {
+          "id": "39be3c4e-cc6a-42fd-aa78-3f24d92ac20f",
+          "material_id": "d081da9c-d006-4b1f-9b65-bc146ac66192",
+          "source_timerange": {
+            "start": 21270000,
+            "duration": 15029999
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 15029999
+          }
+        }
+      ]
+    },
+    {
+      "id": "f7350d9e-a4f1-4df1-96ab-5a34de06820e",
+      "type": "text",
+      "segments": [
+        {
+          "id": "eed45c5c-7705-470e-8848-b12d7edbc855",
+          "material_id": "20c7b9ce-ed40-411d-996c-888060c5cd49",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1780000
+          }
+        },
+        {
+          "id": "6f9578c0-f381-443c-891a-c5bbcac50343",
+          "material_id": "48d2ed78-1646-43c5-bd24-d93851b576f2",
+          "target_timerange": {
+            "start": 2800000,
+            "duration": 1300000
+          }
+        },
+        {
+          "id": "121d6538-968f-4204-b168-0be9fa03f5db",
+          "material_id": "11c4493a-2248-4cf4-999f-2c59282252e7",
+          "target_timerange": {
+            "start": 11450000,
+            "duration": 2060000
+          }
+        },
+        {
+          "id": "b574721a-9cf4-41a4-9881-c9ae1dd6a9f5",
+          "material_id": "9fe4ec2d-e302-4b26-85d7-86476b6899e1",
+          "target_timerange": {
+            "start": 13750000,
+            "duration": 1279999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

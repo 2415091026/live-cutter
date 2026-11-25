@@ -1,0 +1,307 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 59960000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "8208801b-df4d-4a1a-9b5c-3abfb3a1c3b6",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\16-56-49_蘸晨翔_p008.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "99677875-cc83-4e58-9614-13fc7bc2e9b8",
+        "content": "{\"text\": \"对 越大这外边的话就越没什么天\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e1cccd54-a3a4-4eac-bde0-76b5cd1e72c3",
+        "content": "{\"text\": \"好不好 说不过\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "39b22eb6-62a0-441c-b2fd-69799624669e",
+        "content": "{\"text\": \"越靠地面越挺越到外面这越不天\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c8ebd1bd-3dab-4401-b07b-d0e485fd03c5",
+        "content": "{\"text\": \"蛇点估计的话 两到三国\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a3f74ea2-8082-4f8e-afae-3ce25c4f6066",
+        "content": "{\"text\": \"对 两到三国\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c881d64a-f10b-4438-b9db-9a64c931ef8e",
+        "content": "{\"text\": \"三号吧 什么 做好传 做好车避的布林\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f3931afe-2569-4c41-8420-dcde448022fe",
+        "content": "{\"text\": \"找不干鱼波了 鱼波不挣钱了吗\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0672f02a-0040-4cc7-9038-534a2d1718e6",
+        "content": "{\"text\": \"别动\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cfdc3bba-08ab-480d-a5fb-c2b6c2e1136e",
+        "content": "{\"text\": \"鱼波不挣钱了吗\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "56660e33-ae1e-48d2-83ab-caa53a1bccb9",
+        "content": "{\"text\": \"他打的 是吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e1bbe9c9-59bc-4b86-be47-c6d402215c4c",
+        "content": "{\"text\": \"是 来个国字外边是不是\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "272b1724-35e7-425d-8ef0-000ed25f6680",
+        "content": "{\"text\": \"他打的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "278fc435-12b7-4a7d-a531-9bef6bd282cc",
+        "content": "{\"text\": \"他打的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "efd83140-7e33-41b4-8ea6-7c6a2cb81110",
+        "content": "{\"text\": \"他打的是谁故意 生活是少 最后是什么\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7028ff06-6e2a-4ecc-adb3-97926f58b40a",
+        "content": "{\"text\": \"越大和边的天气军的那\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "92a40110-7a6c-4eac-9161-e6bc22b0572b",
+      "type": "video",
+      "segments": [
+        {
+          "id": "63d7eb3e-4054-4708-a89f-66e18f2271b2",
+          "material_id": "8208801b-df4d-4a1a-9b5c-3abfb3a1c3b6",
+          "source_timerange": {
+            "start": 0,
+            "duration": 59960000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 59960000
+          }
+        }
+      ]
+    },
+    {
+      "id": "e29f7579-ebbd-4ac6-8208-0ca9f66340ff",
+      "type": "text",
+      "segments": [
+        {
+          "id": "d6d1dfb3-d985-44ec-931c-22921ffb14a8",
+          "material_id": "99677875-cc83-4e58-9614-13fc7bc2e9b8",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3580000
+          }
+        },
+        {
+          "id": "cdf5354a-63f7-43e4-8b3d-ad45907b689f",
+          "material_id": "e1cccd54-a3a4-4eac-bde0-76b5cd1e72c3",
+          "target_timerange": {
+            "start": 3580000,
+            "duration": 1799999
+          }
+        },
+        {
+          "id": "76f6baa2-07eb-4e35-9bf7-0af944fde1cb",
+          "material_id": "39b22eb6-62a0-441c-b2fd-69799624669e",
+          "target_timerange": {
+            "start": 5380000,
+            "duration": 5540000
+          }
+        },
+        {
+          "id": "37eb38a4-09f0-45fb-ae7e-2448d8027658",
+          "material_id": "c8ebd1bd-3dab-4401-b07b-d0e485fd03c5",
+          "target_timerange": {
+            "start": 10920000,
+            "duration": 3599999
+          }
+        },
+        {
+          "id": "c4a87498-f568-4c50-bf0f-ea6eeee21195",
+          "material_id": "a3f74ea2-8082-4f8e-afae-3ce25c4f6066",
+          "target_timerange": {
+            "start": 14520000,
+            "duration": 3080000
+          }
+        },
+        {
+          "id": "5dfc43f0-08b2-4d81-938d-05d7b5d404e4",
+          "material_id": "c881d64a-f10b-4438-b9db-9a64c931ef8e",
+          "target_timerange": {
+            "start": 17600000,
+            "duration": 5949999
+          }
+        },
+        {
+          "id": "653d228f-1fce-42b4-b954-cf9a1c0c4faf",
+          "material_id": "f3931afe-2569-4c41-8420-dcde448022fe",
+          "target_timerange": {
+            "start": 23550000,
+            "duration": 4599999
+          }
+        },
+        {
+          "id": "544f0f78-353c-4a86-9454-979377452325",
+          "material_id": "0672f02a-0040-4cc7-9038-534a2d1718e6",
+          "target_timerange": {
+            "start": 28150000,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "7ca7c9a3-0b73-49af-93b0-bd1e9a2bb411",
+          "material_id": "cfdc3bba-08ab-480d-a5fb-c2b6c2e1136e",
+          "target_timerange": {
+            "start": 29950000,
+            "duration": 7320000
+          }
+        },
+        {
+          "id": "e842dffa-42ee-4e0b-992b-009b2353c3ef",
+          "material_id": "56660e33-ae1e-48d2-83ab-caa53a1bccb9",
+          "target_timerange": {
+            "start": 37270000,
+            "duration": 5000000
+          }
+        },
+        {
+          "id": "0c70c9d7-798c-468a-9c3b-0464d8a4580e",
+          "material_id": "e1bbe9c9-59bc-4b86-be47-c6d402215c4c",
+          "target_timerange": {
+            "start": 42270000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "64126e74-3148-4abc-8997-87f8cc413a54",
+          "material_id": "272b1724-35e7-425d-8ef0-000ed25f6680",
+          "target_timerange": {
+            "start": 44270000,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "d76161ee-1b99-4f7f-af68-93726e79e2a8",
+          "material_id": "278fc435-12b7-4a7d-a531-9bef6bd282cc",
+          "target_timerange": {
+            "start": 47270000,
+            "duration": 5379999
+          }
+        },
+        {
+          "id": "248000a4-4501-431a-9685-3055a620c84d",
+          "material_id": "efd83140-7e33-41b4-8ea6-7c6a2cb81110",
+          "target_timerange": {
+            "start": 52650000,
+            "duration": 5310000
+          }
+        },
+        {
+          "id": "f7599ff2-211f-4e6d-9aed-b49ff48053b0",
+          "material_id": "7028ff06-6e2a-4ecc-adb3-97926f58b40a",
+          "target_timerange": {
+            "start": 57960000,
+            "duration": 2000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

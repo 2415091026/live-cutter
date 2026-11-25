@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 5040000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "8a62c0a6-0e4f-4e30-9a96-659c45f0aba9",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-48-58_渡一Web前端学习频道（Ai全栈）_p010.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "342a8a52-dc61-417c-b830-493d3efdf8b4",
+        "content": "{\"text\": \"對現在實際工作就是你現在的開發過程\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f9eb997b-06a7-48a0-9299-1548f243fdf5",
+        "content": "{\"text\": \"你現在的開發工作就是實際工作的情況\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "c75a37cb-c1a5-41a7-bd10-7f59cf77a7c0",
+      "type": "video",
+      "segments": [
+        {
+          "id": "dffc5d7f-ec8e-4c6f-ad11-9c12bd2c74cc",
+          "material_id": "8a62c0a6-0e4f-4e30-9a96-659c45f0aba9",
+          "source_timerange": {
+            "start": 0,
+            "duration": 5040000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 5040000
+          }
+        }
+      ]
+    },
+    {
+      "id": "cb1b662e-7e0f-497c-bfd6-19bdf6505004",
+      "type": "text",
+      "segments": [
+        {
+          "id": "e347b156-d294-4e0c-936d-fdf780bc43ae",
+          "material_id": "342a8a52-dc61-417c-b830-493d3efdf8b4",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2760000
+          }
+        },
+        {
+          "id": "f8a41845-8141-467a-9eab-8fef433ce1f1",
+          "material_id": "f9eb997b-06a7-48a0-9299-1548f243fdf5",
+          "target_timerange": {
+            "start": 2760000,
+            "duration": 2280000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

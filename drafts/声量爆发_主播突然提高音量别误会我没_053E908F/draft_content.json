@@ -1,0 +1,120 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 6639999,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "ceb69168-bc0c-4b74-bc04-b2cc37bf6a97",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-49-52_渡一Web前端学习频道（Ai全栈）_p011.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "e79699da-1ec4-477a-9d98-0929b51ea2a4",
+        "content": "{\"text\": \"你还能把这结构付出来\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2d223fa6-3904-4872-97c5-7c68fa34e2d9",
+        "content": "{\"text\": \"我没有要求你这一点\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a33f7a2f-73a7-4d08-9c05-5c9c84ea0eaf",
+        "content": "{\"text\": \"我只要求你这结构完事之后\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "771ecb43-76e6-445b-b679-4cb187c600c6",
+        "content": "{\"text\": \"你这结构能够付出来\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "0d892bd3-3926-42f8-b5f8-15e5f81b8cc7",
+      "type": "video",
+      "segments": [
+        {
+          "id": "91f495f3-fc12-4788-a845-36153476f0a4",
+          "material_id": "ceb69168-bc0c-4b74-bc04-b2cc37bf6a97",
+          "source_timerange": {
+            "start": 3480000,
+            "duration": 6639999
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 6639999
+          }
+        }
+      ]
+    },
+    {
+      "id": "8f0c102d-31c7-4543-ab71-32f12b6ffb5c",
+      "type": "text",
+      "segments": [
+        {
+          "id": "4e783f0d-34de-4cfb-91c9-241368a92adc",
+          "material_id": "e79699da-1ec4-477a-9d98-0929b51ea2a4",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1199999
+          }
+        },
+        {
+          "id": "f942999c-7fbf-4480-98d4-c1da3a7cc4bf",
+          "material_id": "2d223fa6-3904-4872-97c5-7c68fa34e2d9",
+          "target_timerange": {
+            "start": 1199999,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "0e369ce7-b41a-42d0-b3c3-c6dcc2aabde2",
+          "material_id": "a33f7a2f-73a7-4d08-9c05-5c9c84ea0eaf",
+          "target_timerange": {
+            "start": 2800000,
+            "duration": 2239999
+          }
+        },
+        {
+          "id": "3b40b024-54a9-46d4-9941-f69ce9b0058a",
+          "material_id": "771ecb43-76e6-445b-b679-4cb187c600c6",
+          "target_timerange": {
+            "start": 5039999,
+            "duration": 1599999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

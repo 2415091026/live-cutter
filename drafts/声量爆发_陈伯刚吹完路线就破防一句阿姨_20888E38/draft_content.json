@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 25780000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "f2722bab-fb93-41d2-9090-421a7dff593e",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\23-39-04_陈伯(全能王)_p006.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "841aab6e-bdd3-4840-81f8-e158dd64457c",
+        "content": "{\"text\": \"阿姨好,站一條\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cf943d6a-b4aa-4e81-add0-581b3c38d948",
+        "content": "{\"text\": \"登機梗還有兩條\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "cf110461-1fd8-4583-8d9b-1c7c1c253420",
+      "type": "video",
+      "segments": [
+        {
+          "id": "c6faefaa-8518-4e79-b9cb-3989b3aec036",
+          "material_id": "f2722bab-fb93-41d2-9090-421a7dff593e",
+          "source_timerange": {
+            "start": 34190000,
+            "duration": 25780000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 25780000
+          }
+        }
+      ]
+    },
+    {
+      "id": "e33a4a63-467f-4b11-a29b-d13ebaf64356",
+      "type": "text",
+      "segments": [
+        {
+          "id": "b1a92bf4-4726-45ea-b953-ccaf0d11cc73",
+          "material_id": "841aab6e-bdd3-4840-81f8-e158dd64457c",
+          "target_timerange": {
+            "start": 0,
+            "duration": 22680000
+          }
+        },
+        {
+          "id": "36c0c398-718c-4411-88db-69afd6657605",
+          "material_id": "cf943d6a-b4aa-4e81-add0-581b3c38d948",
+          "target_timerange": {
+            "start": 23780000,
+            "duration": 2000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

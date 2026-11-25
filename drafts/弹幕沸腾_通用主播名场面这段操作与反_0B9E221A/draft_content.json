@@ -1,0 +1,562 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 54950000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "a2c106d2-43f5-416e-9460-123416a3d738",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\16-53-27_蘸晨翔_p005.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "1471945e-5adb-4125-9ffa-7ef00e7d51a3",
+        "content": "{\"text\": \"好吧 我忘了跟这买酷女爷\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e9c43c7f-0fc7-4384-996c-04c217231f38",
+        "content": "{\"text\": \"还需要分得快进\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1f8bcd46-e636-4306-9685-7f1bbc71ed7b",
+        "content": "{\"text\": \"对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "29c0e38f-35b1-412a-89b0-22d8155692f2",
+        "content": "{\"text\": \"所以说我来秘密 也还酷女\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d6876964-fedf-4589-aeb5-3e08ae6bf777",
+        "content": "{\"text\": \"要交给\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7470a1ec-1780-4c79-bc0e-94cfbe07afbc",
+        "content": "{\"text\": \"能再有想像人买这些亏吃呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1ac19dd6-c98c-4a06-a91b-0c7e9f26b69e",
+        "content": "{\"text\": \"对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7f82a499-c64e-4987-bd25-75a476ac0182",
+        "content": "{\"text\": \"对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "68324ef4-df4e-4493-aed5-d8a96b8531bb",
+        "content": "{\"text\": \"想像人买这些亏吃呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fd056a66-e155-494f-bae5-d1b1052bffcc",
+        "content": "{\"text\": \"对\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "18af9b58-1106-44f8-8636-ac12782378cb",
+        "content": "{\"text\": \"买一国就吃快强\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "eda5508b-d902-4dbc-8d6b-91a89dc1ee56",
+        "content": "{\"text\": \"吃快段\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "eb2f68ea-f2fd-45c4-b8d8-47b03e1699ee",
+        "content": "{\"text\": \"说这干啥你得去干\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7d58914f-1d40-418d-8adb-c33c8e511509",
+        "content": "{\"text\": \"我们记住那些女人干啥\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "44138d94-045a-4794-9b8e-9fa795440bef",
+        "content": "{\"text\": \"我们记住那些女人干啥\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a359c7c2-dfd7-4429-8f5c-1e212dc46de2",
+        "content": "{\"text\": \"我们记住那些女人干啥\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9b86ea75-e9a9-4e4e-9a59-ff4961fbbead",
+        "content": "{\"text\": \"我们记住那些女人干啥\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bfec1635-02b5-4aa0-b50e-ce8c75bdecf0",
+        "content": "{\"text\": \"我们记住那些女人干啥\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "772a6c2a-6b26-4aea-a6b1-c537871ebb9a",
+        "content": "{\"text\": \"我们记住那些女人干啥\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "60aa81b5-43fd-4b76-9581-770cc5441af8",
+        "content": "{\"text\": \"这是鱼骨甜瓜\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b2932483-bd18-4078-aece-f10130169dca",
+        "content": "{\"text\": \"它嘴 嘴粘粘\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "52b096f9-1d79-4f86-a45c-a292770c62b8",
+        "content": "{\"text\": \"那一层是嘴粘粘\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "29c725a0-4371-4a08-b300-56bc9942a954",
+        "content": "{\"text\": \"约大外边\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "946453a6-2a06-4e07-8ae4-3183315ce9db",
+        "content": "{\"text\": \"就原本那么甜的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c1eacb3b-7c05-46f4-a3b6-0d6855a69ee4",
+        "content": "{\"text\": \"它就是挺甜的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fda488dd-7a3b-43b7-ace2-e551cba391eb",
+        "content": "{\"text\": \"口感的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9b30c54d-7644-4b19-b378-f9f04c6c2fdd",
+        "content": "{\"text\": \"对 挺吃\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "32323136-274a-4443-ad1e-284421ab122c",
+        "content": "{\"text\": \"秘密 果然要秘密\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4114b41e-da60-439d-8993-cd82d5fb96f2",
+        "content": "{\"text\": \"这个不够较劳十五块\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f85383a6-76ee-4617-a283-774e87788742",
+        "content": "{\"text\": \"聊个亏上\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "c5e97d5c-5cee-4e3d-b968-47d76984394a",
+      "type": "video",
+      "segments": [
+        {
+          "id": "1dc81b82-bd21-45f0-af0a-48263ddcfeb9",
+          "material_id": "a2c106d2-43f5-416e-9460-123416a3d738",
+          "source_timerange": {
+            "start": 0,
+            "duration": 54950000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 54950000
+          }
+        }
+      ]
+    },
+    {
+      "id": "c6ca0f9c-38ec-4983-9383-7caae6754db9",
+      "type": "text",
+      "segments": [
+        {
+          "id": "1edfd991-93b6-440e-985e-158c5fc8c726",
+          "material_id": "1471945e-5adb-4125-9ffa-7ef00e7d51a3",
+          "target_timerange": {
+            "start": 0,
+            "duration": 5230000
+          }
+        },
+        {
+          "id": "a6c10e11-f799-41cd-8cf6-ddb804332707",
+          "material_id": "e9c43c7f-0fc7-4384-996c-04c217231f38",
+          "target_timerange": {
+            "start": 5230000,
+            "duration": 1519999
+          }
+        },
+        {
+          "id": "03b55166-1cf3-49ab-9671-71cefc1fb2e7",
+          "material_id": "1f8bcd46-e636-4306-9685-7f1bbc71ed7b",
+          "target_timerange": {
+            "start": 6750000,
+            "duration": 1279999
+          }
+        },
+        {
+          "id": "8ffc63ee-a29f-4848-93b1-7829ccde440c",
+          "material_id": "29c0e38f-35b1-412a-89b0-22d8155692f2",
+          "target_timerange": {
+            "start": 8029999,
+            "duration": 1680000
+          }
+        },
+        {
+          "id": "63c1f24d-b473-44c7-845c-07c459bbd201",
+          "material_id": "d6876964-fedf-4589-aeb5-3e08ae6bf777",
+          "target_timerange": {
+            "start": 9710000,
+            "duration": 1519999
+          }
+        },
+        {
+          "id": "db6dbc3d-915f-4b6b-8f46-8bb216721e13",
+          "material_id": "7470a1ec-1780-4c79-bc0e-94cfbe07afbc",
+          "target_timerange": {
+            "start": 11230000,
+            "duration": 2240000
+          }
+        },
+        {
+          "id": "e5f01e47-8416-48dd-b7b6-1580ea3b3cce",
+          "material_id": "1ac19dd6-c98c-4a06-a91b-0c7e9f26b69e",
+          "target_timerange": {
+            "start": 13470000,
+            "duration": 879999
+          }
+        },
+        {
+          "id": "a17f4bca-ecee-4028-b70d-de374ca7538e",
+          "material_id": "7f82a499-c64e-4987-bd25-75a476ac0182",
+          "target_timerange": {
+            "start": 14350000,
+            "duration": 160000
+          }
+        },
+        {
+          "id": "86d2e482-a4fe-49b8-bb6e-bf2a0aa64bda",
+          "material_id": "68324ef4-df4e-4493-aed5-d8a96b8531bb",
+          "target_timerange": {
+            "start": 14510000,
+            "duration": 960000
+          }
+        },
+        {
+          "id": "31630fd9-7fd7-4d90-b2ef-28fc4baac60a",
+          "material_id": "fd056a66-e155-494f-bae5-d1b1052bffcc",
+          "target_timerange": {
+            "start": 15470000,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "220b4eb5-96e8-4772-a715-4be523337e26",
+          "material_id": "18af9b58-1106-44f8-8636-ac12782378cb",
+          "target_timerange": {
+            "start": 16670000,
+            "duration": 2319999
+          }
+        },
+        {
+          "id": "29456926-0a48-49e1-81ae-503550dbed0c",
+          "material_id": "eda5508b-d902-4dbc-8d6b-91a89dc1ee56",
+          "target_timerange": {
+            "start": 18990000,
+            "duration": 3090000
+          }
+        },
+        {
+          "id": "c9116519-0854-486b-bb46-bfd836442f2f",
+          "material_id": "eb2f68ea-f2fd-45c4-b8d8-47b03e1699ee",
+          "target_timerange": {
+            "start": 22080000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "57e8ea9a-1e27-4de1-869c-12bc6b589472",
+          "material_id": "7d58914f-1d40-418d-8adb-c33c8e511509",
+          "target_timerange": {
+            "start": 24080000,
+            "duration": 3320000
+          }
+        },
+        {
+          "id": "85124485-c887-408e-89d7-7fab1336029c",
+          "material_id": "44138d94-045a-4794-9b8e-9fa795440bef",
+          "target_timerange": {
+            "start": 27400000,
+            "duration": 3179999
+          }
+        },
+        {
+          "id": "f848cad6-d177-4541-a08e-a9a797171d24",
+          "material_id": "a359c7c2-dfd7-4429-8f5c-1e212dc46de2",
+          "target_timerange": {
+            "start": 30580000,
+            "duration": 4450000
+          }
+        },
+        {
+          "id": "79ca321b-ec3c-401a-9ac1-629978129564",
+          "material_id": "9b86ea75-e9a9-4e4e-9a59-ff4961fbbead",
+          "target_timerange": {
+            "start": 35030000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "7df67d7e-723c-4afa-84d9-0a1411e6b379",
+          "material_id": "bfec1635-02b5-4aa0-b50e-ce8c75bdecf0",
+          "target_timerange": {
+            "start": 37030000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "0f756c6b-c42f-4e1f-bada-8e6acb84d0d0",
+          "material_id": "772a6c2a-6b26-4aea-a6b1-c537871ebb9a",
+          "target_timerange": {
+            "start": 38030000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "6b8ca616-0c21-45dd-82be-f50239d71b78",
+          "material_id": "60aa81b5-43fd-4b76-9581-770cc5441af8",
+          "target_timerange": {
+            "start": 39590000,
+            "duration": 1399999
+          }
+        },
+        {
+          "id": "7dd75bc4-5264-4048-aada-a3a1f6c115ce",
+          "material_id": "b2932483-bd18-4078-aece-f10130169dca",
+          "target_timerange": {
+            "start": 40990000,
+            "duration": 1600000
+          }
+        },
+        {
+          "id": "843ae557-b56d-4eb9-9312-3ccbcd8d458a",
+          "material_id": "52b096f9-1d79-4f86-a45c-a292770c62b8",
+          "target_timerange": {
+            "start": 42590000,
+            "duration": 1239999
+          }
+        },
+        {
+          "id": "e7e52eee-a5ce-4587-865c-360fdf34cc7a",
+          "material_id": "29c725a0-4371-4a08-b300-56bc9942a954",
+          "target_timerange": {
+            "start": 43830000,
+            "duration": 760000
+          }
+        },
+        {
+          "id": "0c37fb09-7f78-4111-97d1-4b53bb0c504a",
+          "material_id": "946453a6-2a06-4e07-8ae4-3183315ce9db",
+          "target_timerange": {
+            "start": 44590000,
+            "duration": 1559999
+          }
+        },
+        {
+          "id": "4fdf72e9-df15-47ba-8203-1cfb0fcb89c7",
+          "material_id": "c1eacb3b-7c05-46f4-a3b6-0d6855a69ee4",
+          "target_timerange": {
+            "start": 46150000,
+            "duration": 1520000
+          }
+        },
+        {
+          "id": "935f8ccf-b82e-43a1-84de-8c5f8be3093a",
+          "material_id": "fda488dd-7a3b-43b7-ace2-e551cba391eb",
+          "target_timerange": {
+            "start": 47670000,
+            "duration": 640000
+          }
+        },
+        {
+          "id": "275d8838-9d50-44ba-96f1-3d21ef7c354b",
+          "material_id": "9b30c54d-7644-4b19-b378-f9f04c6c2fdd",
+          "target_timerange": {
+            "start": 48310000,
+            "duration": 960000
+          }
+        },
+        {
+          "id": "571ddaba-c0f9-441d-bcdd-97f5856f4346",
+          "material_id": "32323136-274a-4443-ad1e-284421ab122c",
+          "target_timerange": {
+            "start": 50310000,
+            "duration": 1839999
+          }
+        },
+        {
+          "id": "f19d6f9b-995f-41de-93e0-aa24de7afc7c",
+          "material_id": "4114b41e-da60-439d-8993-cd82d5fb96f2",
+          "target_timerange": {
+            "start": 52150000,
+            "duration": 1679999
+          }
+        },
+        {
+          "id": "bc00b0eb-7a1c-41cd-85d4-319b679eb94f",
+          "material_id": "f85383a6-76ee-4617-a283-774e87788742",
+          "target_timerange": {
+            "start": 53830000,
+            "duration": 1120000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

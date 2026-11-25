@@ -1,0 +1,36 @@
+{
+  "_comment": "大语言模型配置 (支持 text 经典声文模式与 multimodal 多模态音画全感知模式自由切换)",
+  "engine_mode": "multimodal",
+  "provider": "qwen",
+  "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "api_key": "YOUR_API_KEY_HERE",
+  "model": "qwen3.8-omni-flash",
+  "text_model": "qwen3.8-flash",
+  "multimodal_model": "qwen3.8-omni-flash",
+  "frame_sample_count": 6,
+  "temperature": 0.3,
+  "max_tokens": 2000,
+  "timeout_seconds": 35,
+  "presets": {
+    "qwen_text": {
+      "engine_mode": "text",
+      "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "model": "qwen3.8-flash"
+    },
+    "qwen_omni": {
+      "engine_mode": "multimodal",
+      "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "model": "qwen3.8-omni-flash"
+    },
+    "deepseek": {
+      "engine_mode": "text",
+      "base_url": "https://api.deepseek.com/v1",
+      "model": "deepseek-chat"
+    },
+    "zhipu": {
+      "engine_mode": "text",
+      "base_url": "https://open.bigmodel.cn/api/paas/v4",
+      "model": "glm-4-flash"
+    }
+  }
+}

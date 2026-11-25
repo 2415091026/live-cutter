@@ -1,0 +1,188 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 12640000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "6ff3e799-7405-40aa-81eb-36401e225be7",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-43-26_渡一Web前端学习频道（Ai全栈）_p005.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "8bff937a-0652-410d-8f67-928402166b5a",
+        "content": "{\"text\": \"不管是講後段也好 前段也好\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d28f1a5f-2bad-4416-a6e7-8f1c645fda2a",
+        "content": "{\"text\": \"當時都會有一道題\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "05dc3145-ae00-48a6-94d3-b5842ebe8a20",
+        "content": "{\"text\": \"就到了一個道循環的一款\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a69a70c2-4e3d-4e93-9ad1-264be8afe0ec",
+        "content": "{\"text\": \"都會有一道題\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c57ebbbe-0ff3-404a-bb0b-f191ec7026c8",
+        "content": "{\"text\": \"就是啥呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c75daad2-f799-4241-bb2e-35d11c48e072",
+        "content": "{\"text\": \"就是判斷一個數\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d5bce0ee-7036-4264-8c96-c15c61a9704d",
+        "content": "{\"text\": \"是不是數數\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fb1cc584-4610-4e58-9703-df9457ec81e4",
+        "content": "{\"text\": \"你知道?\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "5b0cf7ba-78bf-4fd3-9313-543957cffcdd",
+      "type": "video",
+      "segments": [
+        {
+          "id": "67419514-b275-4694-8cdf-ea92665e8507",
+          "material_id": "6ff3e799-7405-40aa-81eb-36401e225be7",
+          "source_timerange": {
+            "start": 0,
+            "duration": 12640000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 12640000
+          }
+        }
+      ]
+    },
+    {
+      "id": "b3c08f41-3ba0-4b8e-922b-3b907f1865fe",
+      "type": "text",
+      "segments": [
+        {
+          "id": "82a774fa-9bfa-4d72-a588-89576cd2324d",
+          "material_id": "8bff937a-0652-410d-8f67-928402166b5a",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2200000
+          }
+        },
+        {
+          "id": "f6164c3e-7c12-4101-8956-067e5b494fa5",
+          "material_id": "d28f1a5f-2bad-4416-a6e7-8f1c645fda2a",
+          "target_timerange": {
+            "start": 2200000,
+            "duration": 1279999
+          }
+        },
+        {
+          "id": "15d4fb13-2078-40e4-aada-f814a142bbed",
+          "material_id": "05dc3145-ae00-48a6-94d3-b5842ebe8a20",
+          "target_timerange": {
+            "start": 3480000,
+            "duration": 2159999
+          }
+        },
+        {
+          "id": "104cd827-b7a1-4fef-a9e7-7f8df4498225",
+          "material_id": "a69a70c2-4e3d-4e93-9ad1-264be8afe0ec",
+          "target_timerange": {
+            "start": 5640000,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "91755281-9fcd-4b78-954f-29aa2b73ef62",
+          "material_id": "c57ebbbe-0ff3-404a-bb0b-f191ec7026c8",
+          "target_timerange": {
+            "start": 7040000,
+            "duration": 999999
+          }
+        },
+        {
+          "id": "15189c60-8a58-4f9a-9416-a3205d5efc22",
+          "material_id": "c75daad2-f799-4241-bb2e-35d11c48e072",
+          "target_timerange": {
+            "start": 8039999,
+            "duration": 1680000
+          }
+        },
+        {
+          "id": "94c4f276-6a05-48b2-952c-9e37e0c3bc7f",
+          "material_id": "d5bce0ee-7036-4264-8c96-c15c61a9704d",
+          "target_timerange": {
+            "start": 9720000,
+            "duration": 1920000
+          }
+        },
+        {
+          "id": "c2544c8e-c46f-4712-bb4e-01c8922398aa",
+          "material_id": "fb1cc584-4610-4e58-9703-df9457ec81e4",
+          "target_timerange": {
+            "start": 11640000,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

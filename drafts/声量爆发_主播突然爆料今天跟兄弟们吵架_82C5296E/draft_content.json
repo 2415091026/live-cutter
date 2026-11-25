@@ -1,0 +1,239 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18240000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "c0775acc-4cf8-41c5-be60-3c8c0f3c7729",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-40-28_陈伯(全能王)_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "7ee0ff18-ac27-4d3d-ac5d-febf529803d6",
+        "content": "{\"text\": \"我是不会给你看完笑的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2622170b-ede5-4392-a7c7-b5ab5d176fed",
+        "content": "{\"text\": \"还有三十秒\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9780c587-2aa9-4e87-a595-086cf30ccc42",
+        "content": "{\"text\": \"先转复带还有三十秒\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "712063ee-391c-4c1f-9cad-bcd4e28def6c",
+        "content": "{\"text\": \"先把这个复带给参与了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "82f21c92-54fb-425c-b1d0-6e0570521f04",
+        "content": "{\"text\": \"感谢宝宝吃不饱送来加点华\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c11eef3a-d120-4a42-9701-256ba3d9ce84",
+        "content": "{\"text\": \"谢宝宝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0ad9e7e6-7396-47dc-9f96-73f17aba42b6",
+        "content": "{\"text\": \"谢宝宝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "228949e6-1d43-4850-bc52-24c144ab9539",
+        "content": "{\"text\": \"谢宝宝\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a820e50e-6084-4c00-b595-cf3056c7861f",
+        "content": "{\"text\": \"今天跟阴民三群的兄弟们吵架了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "466dd5d0-cd4b-435c-8dab-addd8ab6cffd",
+        "content": "{\"text\": \"没有吵架\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9ad42ce1-3966-48a8-b45b-b1df692fbe44",
+        "content": "{\"text\": \"那怎么天天我给你讲\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "01ae15ce-5137-47ca-bf8c-7011a64b5833",
+      "type": "video",
+      "segments": [
+        {
+          "id": "57e93df7-e114-4ac7-8e14-4ba1816f9100",
+          "material_id": "c0775acc-4cf8-41c5-be60-3c8c0f3c7729",
+          "source_timerange": {
+            "start": 6800000,
+            "duration": 18240000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18240000
+          }
+        }
+      ]
+    },
+    {
+      "id": "73446701-c9e0-47e0-8eb1-207d50bc1d6d",
+      "type": "text",
+      "segments": [
+        {
+          "id": "75ca70ed-2f36-4cf4-9c3c-1c124591a733",
+          "material_id": "7ee0ff18-ac27-4d3d-ac5d-febf529803d6",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "04069ecb-d26b-497e-a915-5ecb6fbd4e90",
+          "material_id": "2622170b-ede5-4392-a7c7-b5ab5d176fed",
+          "target_timerange": {
+            "start": 3200000,
+            "duration": 640000
+          }
+        },
+        {
+          "id": "bddb4e25-11cc-46cf-b8a6-9ef3217d62c0",
+          "material_id": "9780c587-2aa9-4e87-a595-086cf30ccc42",
+          "target_timerange": {
+            "start": 3840000,
+            "duration": 1080000
+          }
+        },
+        {
+          "id": "7465126a-ae36-48e3-8022-ec11281cc84c",
+          "material_id": "712063ee-391c-4c1f-9cad-bcd4e28def6c",
+          "target_timerange": {
+            "start": 4920000,
+            "duration": 1160000
+          }
+        },
+        {
+          "id": "48d15702-0c0a-4a16-8bf6-d7e55bf904d5",
+          "material_id": "82f21c92-54fb-425c-b1d0-6e0570521f04",
+          "target_timerange": {
+            "start": 6440000,
+            "duration": 1880000
+          }
+        },
+        {
+          "id": "625da691-298e-478b-a3ae-09791b0f873b",
+          "material_id": "c11eef3a-d120-4a42-9701-256ba3d9ce84",
+          "target_timerange": {
+            "start": 8320000,
+            "duration": 879999
+          }
+        },
+        {
+          "id": "60d3c03c-e5de-4164-b56f-645fd5763df5",
+          "material_id": "0ad9e7e6-7396-47dc-9f96-73f17aba42b6",
+          "target_timerange": {
+            "start": 9439999,
+            "duration": 1360000
+          }
+        },
+        {
+          "id": "91cd246b-1536-4a31-9dc2-b597cfadac3a",
+          "material_id": "228949e6-1d43-4850-bc52-24c144ab9539",
+          "target_timerange": {
+            "start": 11399999,
+            "duration": 600000
+          }
+        },
+        {
+          "id": "945f6f53-e6d3-4f5c-8b47-985d6b0509ec",
+          "material_id": "a820e50e-6084-4c00-b595-cf3056c7861f",
+          "target_timerange": {
+            "start": 13239999,
+            "duration": 2320000
+          }
+        },
+        {
+          "id": "0d83f1d4-1a1a-493a-998a-a54b632882f4",
+          "material_id": "466dd5d0-cd4b-435c-8dab-addd8ab6cffd",
+          "target_timerange": {
+            "start": 15759999,
+            "duration": 880000
+          }
+        },
+        {
+          "id": "7c8da4ae-f635-4bad-8af8-e7b1534d9abb",
+          "material_id": "9ad42ce1-3966-48a8-b45b-b1df692fbe44",
+          "target_timerange": {
+            "start": 16920000,
+            "duration": 1320000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

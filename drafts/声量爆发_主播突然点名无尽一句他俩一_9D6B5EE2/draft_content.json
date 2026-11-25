@@ -1,0 +1,188 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18920000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "fae1f124-148a-4512-b504-92c9371e22c0",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-27-08_观音桥毕加索_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "d7f90494-ebad-44bb-ab32-00a02cd740a5",
+        "content": "{\"text\": \"而今兒發作品說是無盡派的扔扔了的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3951a10a-590f-4aed-8f2d-9b425a0e4d26",
+        "content": "{\"text\": \"今兒發作品讓無盡大家去\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "efe311f2-d5f0-43d3-b4fc-214b06fe626c",
+        "content": "{\"text\": \"對舉報無盡對的他俩是一直繞著\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7acab123-1daf-4e61-9afa-d15d169315c8",
+        "content": "{\"text\": \"反正就是挺容易的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a3c72d82-62b5-4dca-9419-62ad540a192e",
+        "content": "{\"text\": \"當我拉棄的拉棄的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "46baa249-3f05-4764-8ef8-38132a70ed62",
+        "content": "{\"text\": \"張大龍來了嗎\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2f00abd8-6e5e-45ba-a729-92d414ffdd68",
+        "content": "{\"text\": \"張大龍沒去張大龍\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d89e0327-c97a-49ad-b158-9f28ba199a03",
+        "content": "{\"text\": \"他寫不可那個廣州副朝廠辦人的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "d7073c89-ad74-43da-b450-9f1164cd8c2e",
+      "type": "video",
+      "segments": [
+        {
+          "id": "4d61a991-f267-4e5c-bf45-b6ab160b8e30",
+          "material_id": "fae1f124-148a-4512-b504-92c9371e22c0",
+          "source_timerange": {
+            "start": 5130000,
+            "duration": 18920000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18920000
+          }
+        }
+      ]
+    },
+    {
+      "id": "2e053ccc-52a1-4d8c-aa63-a1f188f30cc7",
+      "type": "text",
+      "segments": [
+        {
+          "id": "57399ffb-ae6b-482e-8fce-1366bf172353",
+          "material_id": "d7f90494-ebad-44bb-ab32-00a02cd740a5",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2280000
+          }
+        },
+        {
+          "id": "8ca5002a-baad-4c64-840a-371fdc1d0382",
+          "material_id": "3951a10a-590f-4aed-8f2d-9b425a0e4d26",
+          "target_timerange": {
+            "start": 2760000,
+            "duration": 3200000
+          }
+        },
+        {
+          "id": "720b768e-dec8-4b51-88d7-e2157fecc724",
+          "material_id": "efe311f2-d5f0-43d3-b4fc-214b06fe626c",
+          "target_timerange": {
+            "start": 5960000,
+            "duration": 2640000
+          }
+        },
+        {
+          "id": "7896c1cb-706a-474e-9639-6ad439b74be5",
+          "material_id": "7acab123-1daf-4e61-9afa-d15d169315c8",
+          "target_timerange": {
+            "start": 9360000,
+            "duration": 1160000
+          }
+        },
+        {
+          "id": "671e30f7-ed4c-477e-8336-0a4b915bc983",
+          "material_id": "a3c72d82-62b5-4dca-9419-62ad540a192e",
+          "target_timerange": {
+            "start": 12040000,
+            "duration": 1439999
+          }
+        },
+        {
+          "id": "eb523585-a922-42e0-969d-62ca753ca5b1",
+          "material_id": "46baa249-3f05-4764-8ef8-38132a70ed62",
+          "target_timerange": {
+            "start": 13480000,
+            "duration": 1199999
+          }
+        },
+        {
+          "id": "a91da525-1c55-42a8-9645-0170a7978202",
+          "material_id": "2f00abd8-6e5e-45ba-a729-92d414ffdd68",
+          "target_timerange": {
+            "start": 15240000,
+            "duration": 1279999
+          }
+        },
+        {
+          "id": "9cdcef04-705c-4f28-8037-6c25d97c0bbf",
+          "material_id": "d89e0327-c97a-49ad-b158-9f28ba199a03",
+          "target_timerange": {
+            "start": 16520000,
+            "duration": 2400000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

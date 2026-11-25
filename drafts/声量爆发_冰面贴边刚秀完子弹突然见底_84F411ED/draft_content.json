@@ -1,0 +1,50 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 19000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "fccf2dfc-2461-4322-a804-2b0b811bc9b4",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\18-44-41_叫我Happy（Rust-失控进化）_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "d94149ee-3b46-42e9-ab57-c9130b82e4a5",
+      "type": "video",
+      "segments": [
+        {
+          "id": "f814069b-0bfe-4b91-8a88-453d7958bce8",
+          "material_id": "fccf2dfc-2461-4322-a804-2b0b811bc9b4",
+          "source_timerange": {
+            "start": 29000000,
+            "duration": 19000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 19000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "62c56108-947d-48bf-b7cf-fd8bd7971ca6",
+      "type": "text",
+      "segments": []
+    }
+  ],
+  "version": 3000000
+}

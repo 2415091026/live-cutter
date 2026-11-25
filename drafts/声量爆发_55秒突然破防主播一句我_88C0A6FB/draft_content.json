@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18500000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "ad48ad2d-30b6-46f9-a678-ba777439a71a",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\18-40-14_叫我Happy（Rust-失控进化）_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "fe495af6-0212-419d-9602-02ffe04269e1",
+        "content": "{\"text\": \"我感覺逼某些人都會玩\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3a8ac1b7-9d8a-405e-bc60-eee250f2fc98",
+        "content": "{\"text\": \"哇 奇怪\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "6129d30d-e52d-4b65-b859-31faa9c3eb68",
+      "type": "video",
+      "segments": [
+        {
+          "id": "d34defdd-17aa-4e69-913f-611fa54a608b",
+          "material_id": "ad48ad2d-30b6-46f9-a678-ba777439a71a",
+          "source_timerange": {
+            "start": 0,
+            "duration": 18500000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18500000
+          }
+        }
+      ]
+    },
+    {
+      "id": "e08c9046-71ca-4ae4-9b20-e1058e17ae79",
+      "type": "text",
+      "segments": [
+        {
+          "id": "870977bb-3c16-42d5-8f2f-6c176a276e39",
+          "material_id": "fe495af6-0212-419d-9602-02ffe04269e1",
+          "target_timerange": {
+            "start": 8300000,
+            "duration": 2119999
+          }
+        },
+        {
+          "id": "8d68d16c-3938-447e-9e76-1062a5c5327b",
+          "material_id": "3a8ac1b7-9d8a-405e-bc60-eee250f2fc98",
+          "target_timerange": {
+            "start": 11620000,
+            "duration": 1080000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

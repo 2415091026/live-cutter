@@ -1,0 +1,137 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 22080000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "e288a102-4605-4a39-b7e3-e284b68b9203",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-27-02_PANDAER_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "4fe968d4-58c7-4e38-8bf7-d37b7612b4ef",
+        "content": "{\"text\": \"我就总看他老在那个评论底下\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "47b11c65-4423-4242-ab54-cbffd8151c15",
+        "content": "{\"text\": \"就是回复留言回复带还挺多的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e69da865-395f-4fcd-a0df-964be019b2dc",
+        "content": "{\"text\": \"回复带还挺多的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "275026c3-4bd8-45c8-950d-3952295e78cf",
+        "content": "{\"text\": \"因为没有所以没有\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f4264f95-82c8-400c-af31-9cc54be8eddf",
+        "content": "{\"text\": \"我们这边关市这两个监盘都受空呀\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "b4dee827-b70c-43e7-90b8-5424f58a9114",
+      "type": "video",
+      "segments": [
+        {
+          "id": "bf32a802-105a-41b4-b31f-f69b4adff854",
+          "material_id": "e288a102-4605-4a39-b7e3-e284b68b9203",
+          "source_timerange": {
+            "start": 2120000,
+            "duration": 22080000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 22080000
+          }
+        }
+      ]
+    },
+    {
+      "id": "3919acc7-774a-4f2f-97a3-fa9b905c5835",
+      "type": "text",
+      "segments": [
+        {
+          "id": "ca42703d-3d86-4da5-a895-6600a67d9279",
+          "material_id": "4fe968d4-58c7-4e38-8bf7-d37b7612b4ef",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1960000
+          }
+        },
+        {
+          "id": "e5891955-a663-44ec-a153-5c5e3e24f01e",
+          "material_id": "47b11c65-4423-4242-ab54-cbffd8151c15",
+          "target_timerange": {
+            "start": 1960000,
+            "duration": 2280000
+          }
+        },
+        {
+          "id": "b16dd62b-0364-4405-a65a-9796424783c2",
+          "material_id": "e69da865-395f-4fcd-a0df-964be019b2dc",
+          "target_timerange": {
+            "start": 4840000,
+            "duration": 1239999
+          }
+        },
+        {
+          "id": "7e80c675-4c04-4b62-a99b-3e26e24df6b2",
+          "material_id": "275026c3-4bd8-45c8-950d-3952295e78cf",
+          "target_timerange": {
+            "start": 16360000,
+            "duration": 1480000
+          }
+        },
+        {
+          "id": "114d71ad-1371-417d-bbb7-aa2cd581d59c",
+          "material_id": "f4264f95-82c8-400c-af31-9cc54be8eddf",
+          "target_timerange": {
+            "start": 19080000,
+            "duration": 3000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

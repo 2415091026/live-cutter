@@ -1,0 +1,205 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 12900000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "ae4591d0-6a6e-4805-bd21-69cf963d2b78",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-31-19_观音桥毕加索_p005.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "b3ea881e-f724-44b4-adb9-e4c35efc73d5",
+        "content": "{\"text\": \"跟他玩呀\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "be80591d-dc85-4258-a28b-8e31113aa8a1",
+        "content": "{\"text\": \"是吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "09369280-98de-4cf5-862d-4ba9fae86003",
+        "content": "{\"text\": \"那打他妈爱豆子的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dbcd70ca-f99d-42cc-8884-6b719d5d0205",
+        "content": "{\"text\": \"我们的谁敢跟他玩呀\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8b51599b-2c23-4ad4-a090-066313712b71",
+        "content": "{\"text\": \"你也不下班\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "da2874e1-32a6-44da-8e91-3ac9f15a39a6",
+        "content": "{\"text\": \"谁敢跟他玩呀\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e15de8f1-812e-4e53-be4a-0b0e8229d176",
+        "content": "{\"text\": \"走上去就起自我\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d80f97ed-c54b-47dc-9d0a-edb93605860f",
+        "content": "{\"text\": \"走下爱豆子是来\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ac8cef65-2dbb-41a4-808b-0cdea95df52b",
+        "content": "{\"text\": \"这其实我会见不下班\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "849a3225-5d56-4bd3-bbc2-d2b729eda593",
+      "type": "video",
+      "segments": [
+        {
+          "id": "4c51a905-6346-4eea-9283-f68a9c877302",
+          "material_id": "ae4591d0-6a6e-4805-bd21-69cf963d2b78",
+          "source_timerange": {
+            "start": 0,
+            "duration": 12900000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 12900000
+          }
+        }
+      ]
+    },
+    {
+      "id": "a0df06bc-1a2b-4ec7-87af-e09046d23e21",
+      "type": "text",
+      "segments": [
+        {
+          "id": "331ed2e7-a789-4fe5-8a57-3ac7136f9423",
+          "material_id": "b3ea881e-f724-44b4-adb9-e4c35efc73d5",
+          "target_timerange": {
+            "start": 0,
+            "duration": 720000
+          }
+        },
+        {
+          "id": "a4ad6ac8-91cb-49da-a4ee-46ffd43b740e",
+          "material_id": "be80591d-dc85-4258-a28b-8e31113aa8a1",
+          "target_timerange": {
+            "start": 720000,
+            "duration": 800000
+          }
+        },
+        {
+          "id": "f1fe5ed2-1bda-4546-a87b-a40f00001494",
+          "material_id": "09369280-98de-4cf5-862d-4ba9fae86003",
+          "target_timerange": {
+            "start": 1520000,
+            "duration": 1160000
+          }
+        },
+        {
+          "id": "a4d95770-45dd-45c4-ac9c-ed2df5b624f1",
+          "material_id": "dbcd70ca-f99d-42cc-8884-6b719d5d0205",
+          "target_timerange": {
+            "start": 2680000,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "9887cdfc-1761-47ab-b127-706f6de5da5d",
+          "material_id": "8b51599b-2c23-4ad4-a090-066313712b71",
+          "target_timerange": {
+            "start": 7860000,
+            "duration": 799999
+          }
+        },
+        {
+          "id": "c2a06d47-da79-4722-859a-16f94374273e",
+          "material_id": "da2874e1-32a6-44da-8e91-3ac9f15a39a6",
+          "target_timerange": {
+            "start": 8660000,
+            "duration": 919999
+          }
+        },
+        {
+          "id": "aa8dba6a-8117-41e1-b7cd-a58b691f711a",
+          "material_id": "e15de8f1-812e-4e53-be4a-0b0e8229d176",
+          "target_timerange": {
+            "start": 9580000,
+            "duration": 959999
+          }
+        },
+        {
+          "id": "0fc30eb4-0e16-4a83-a282-f124d3727c1e",
+          "material_id": "d80f97ed-c54b-47dc-9d0a-edb93605860f",
+          "target_timerange": {
+            "start": 10540000,
+            "duration": 840000
+          }
+        },
+        {
+          "id": "fa699a74-8830-4e1f-bf90-473cdaba7fd7",
+          "material_id": "ac8cef65-2dbb-41a4-808b-0cdea95df52b",
+          "target_timerange": {
+            "start": 11380000,
+            "duration": 1519999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

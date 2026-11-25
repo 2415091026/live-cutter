@@ -1,0 +1,103 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 6080000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "dcdc0a40-850b-493b-bd3a-19dde5b043d4",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_256751986134_20261102_212132_p002.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "9c3bd7fd-f175-4b7e-976b-2638e6199030",
+        "content": "{\"text\": \"我们大家先去把关注点一点\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4cd33cbc-87aa-4d7a-a728-c7ce8976de41",
+        "content": "{\"text\": \"先去把关注点一点\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1132d69a-0ea6-44f0-b57a-dddd37a82fe1",
+        "content": "{\"text\": \"点好关\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "d49bca1c-634f-4e59-9a1a-e8283846a0e1",
+      "type": "video",
+      "segments": [
+        {
+          "id": "1543e661-6436-4a29-8556-2ddbe90604b9",
+          "material_id": "dcdc0a40-850b-493b-bd3a-19dde5b043d4",
+          "source_timerange": {
+            "start": 6080000,
+            "duration": 6080000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 6080000
+          }
+        }
+      ]
+    },
+    {
+      "id": "3ccbacb7-f6b8-465e-9303-b1d98cc45105",
+      "type": "text",
+      "segments": [
+        {
+          "id": "a84cf42c-4941-4460-a3bd-60dc23cc0001",
+          "material_id": "9c3bd7fd-f175-4b7e-976b-2638e6199030",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2199999
+          }
+        },
+        {
+          "id": "7b8b3cb4-3e9e-47b1-a072-bcad2056799f",
+          "material_id": "4cd33cbc-87aa-4d7a-a728-c7ce8976de41",
+          "target_timerange": {
+            "start": 3359999,
+            "duration": 1520000
+          }
+        },
+        {
+          "id": "825b21e0-926c-4171-9317-fa071f91b4fb",
+          "material_id": "1132d69a-0ea6-44f0-b57a-dddd37a82fe1",
+          "target_timerange": {
+            "start": 5160000,
+            "duration": 919999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

@@ -1,0 +1,341 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 58820000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "2d0693a5-c9e0-4642-aedf-8be93646fcb7",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-56-56_陈伯(全能王)_p011.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "cecf00d9-bcb2-4e36-9d94-414292b76735",
+        "content": "{\"text\": \"就只能比国打六把一双来\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7b5b4f24-b7f2-448e-9f4e-5a2162c2283b",
+        "content": "{\"text\": \"再给我坚持六王\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2254ecd6-fa26-4631-acae-16b9eec2c924",
+        "content": "{\"text\": \"哎你后里都还一条\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a801fa8f-529f-43a6-aa6a-1cf6443d2e8f",
+        "content": "{\"text\": \"上\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2d8fb82d-a888-4374-b40a-1d549fe3b7ff",
+        "content": "{\"text\": \"我也发两个一万的团子\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ba98d92a-8eec-4f2d-8851-eac6ef231683",
+        "content": "{\"text\": \"发不了现在\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d207e338-36f1-4b3b-929d-c3f753201427",
+        "content": "{\"text\": \"我是七分\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "60a8dd43-9fc6-405c-9b87-d4323504bcb6",
+        "content": "{\"text\": \"给你再抓点\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d122777f-d2e9-4b65-bfb7-56d8cebb9f25",
+        "content": "{\"text\": \"扶在产品下\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c144de5c-9b85-40e0-b0d2-8db82601eb37",
+        "content": "{\"text\": \"什么\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "16740b64-1a3c-4821-be75-2bb3f12895e6",
+        "content": "{\"text\": \"给他放肚\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d192a651-1653-4099-bdec-46f47a956d30",
+        "content": "{\"text\": \"还是二十万\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c54d6788-0db3-4b04-8500-2779efaf08bc",
+        "content": "{\"text\": \"可以吗\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ccace424-6fbf-4a0c-a386-d019ae4c0af1",
+        "content": "{\"text\": \"我们这面手足不好\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "19489cf4-2b29-48a6-bb31-20887943c886",
+        "content": "{\"text\": \"二十万发足不坚\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c0c98b08-6598-4349-a4f4-4c418dab0607",
+        "content": "{\"text\": \"这边要一闷的话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d0949455-8c1c-4ff6-9677-5b60596a76b6",
+        "content": "{\"text\": \"二十万拿走\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "ef6190bb-b6df-42f3-94a5-cc81f076cb21",
+      "type": "video",
+      "segments": [
+        {
+          "id": "28504ddf-3a40-4117-b72e-9225334bb1bb",
+          "material_id": "2d0693a5-c9e0-4642-aedf-8be93646fcb7",
+          "source_timerange": {
+            "start": 0,
+            "duration": 58820000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 58820000
+          }
+        }
+      ]
+    },
+    {
+      "id": "c5ba9391-783d-410e-b5b2-72bca07e1829",
+      "type": "text",
+      "segments": [
+        {
+          "id": "a57e0978-d65d-4b9a-adae-2d537fb0bd76",
+          "material_id": "cecf00d9-bcb2-4e36-9d94-414292b76735",
+          "target_timerange": {
+            "start": 0,
+            "duration": 12220000
+          }
+        },
+        {
+          "id": "37704e17-05ea-4dec-9a46-5c80ca947845",
+          "material_id": "7b5b4f24-b7f2-448e-9f4e-5a2162c2283b",
+          "target_timerange": {
+            "start": 13220000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "bf3e53ac-3e99-4170-992b-a8384aa78196",
+          "material_id": "2254ecd6-fa26-4631-acae-16b9eec2c924",
+          "target_timerange": {
+            "start": 15220000,
+            "duration": 999999
+          }
+        },
+        {
+          "id": "8b152a1d-1022-4cfc-9eb3-b601b1121259",
+          "material_id": "a801fa8f-529f-43a6-aa6a-1cf6443d2e8f",
+          "target_timerange": {
+            "start": 17220000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "2accb2ff-99d2-4083-95e1-97f958b15726",
+          "material_id": "2d8fb82d-a888-4374-b40a-1d549fe3b7ff",
+          "target_timerange": {
+            "start": 19220000,
+            "duration": 10180000
+          }
+        },
+        {
+          "id": "3ececa4f-ac16-4b4d-bfe9-741ab47b5208",
+          "material_id": "ba98d92a-8eec-4f2d-8851-eac6ef231683",
+          "target_timerange": {
+            "start": 29400000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "ac157aca-51b6-41f0-b4ed-8d35edb356d7",
+          "material_id": "d207e338-36f1-4b3b-929d-c3f753201427",
+          "target_timerange": {
+            "start": 31400000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "1daa657f-372b-4b81-a0e9-60a54bda1a94",
+          "material_id": "60a8dd43-9fc6-405c-9b87-d4323504bcb6",
+          "target_timerange": {
+            "start": 32400000,
+            "duration": 2539999
+          }
+        },
+        {
+          "id": "78149cda-160d-40a3-a27d-b63247560ddd",
+          "material_id": "d122777f-d2e9-4b65-bfb7-56d8cebb9f25",
+          "target_timerange": {
+            "start": 34940000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "022091c1-777c-428d-8d23-93651b51ab0f",
+          "material_id": "c144de5c-9b85-40e0-b0d2-8db82601eb37",
+          "target_timerange": {
+            "start": 35940000,
+            "duration": 5990000
+          }
+        },
+        {
+          "id": "f8c55c4e-7a05-4d10-b6f5-313ba0d6cb4a",
+          "material_id": "16740b64-1a3c-4821-be75-2bb3f12895e6",
+          "target_timerange": {
+            "start": 41930000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "b4f3db44-1a13-47b5-be27-8efd6f52b72b",
+          "material_id": "d192a651-1653-4099-bdec-46f47a956d30",
+          "target_timerange": {
+            "start": 42930000,
+            "duration": 8420000
+          }
+        },
+        {
+          "id": "59da3547-c5a0-4994-9df9-6e651da38db3",
+          "material_id": "c54d6788-0db3-4b04-8500-2779efaf08bc",
+          "target_timerange": {
+            "start": 51350000,
+            "duration": 3469999
+          }
+        },
+        {
+          "id": "998f4f2e-8d1d-4333-8953-05d75f8021b5",
+          "material_id": "ccace424-6fbf-4a0c-a386-d019ae4c0af1",
+          "target_timerange": {
+            "start": 54820000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "09823c24-914f-4777-a362-dae49a4679e8",
+          "material_id": "19489cf4-2b29-48a6-bb31-20887943c886",
+          "target_timerange": {
+            "start": 55820000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "ff9b276c-94a5-455e-a860-4a3a223071a3",
+          "material_id": "c0c98b08-6598-4349-a4f4-4c418dab0607",
+          "target_timerange": {
+            "start": 56820000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "32c02e8f-96e5-4b2f-a39f-01f28aba6829",
+          "material_id": "d0949455-8c1c-4ff6-9677-5b60596a76b6",
+          "target_timerange": {
+            "start": 57820000,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

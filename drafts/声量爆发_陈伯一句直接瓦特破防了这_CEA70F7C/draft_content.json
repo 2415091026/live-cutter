@@ -1,0 +1,171 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 19250000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "e066a3f8-4586-4fb0-839a-e846d34dd5bf",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\23-17-20_陈伯(全能王)_p010.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "71192c76-7eb6-474e-8c55-b057ea881dbd",
+        "content": "{\"text\": \"直接瓦特\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fe641cc8-a362-4cf5-8581-6980301a1f05",
+        "content": "{\"text\": \"来\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dbd52e39-5753-46ba-9be5-a9a079916b7a",
+        "content": "{\"text\": \"好久没有看到瓦特了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2500cdb0-b2b1-4fab-8bfb-1aaf6bbe633d",
+        "content": "{\"text\": \"是对吗\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "4a04096c-0676-454f-8004-8694adba0ddd",
+        "content": "{\"text\": \"还就没有看到瓦特是当地图了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d11a5a47-741c-4457-9c35-8f9d90e753bd",
+        "content": "{\"text\": \"瓦特上好像飞车最大的六星地图\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "2120d024-e2de-4fcf-a033-961f05dbd1ab",
+        "content": "{\"text\": \"五星地图\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "43c84b1a-bbf3-49d4-98a1-2841c7ef21f7",
+      "type": "video",
+      "segments": [
+        {
+          "id": "3a6ffb5d-8778-4d26-ae85-e3dedbe5491b",
+          "material_id": "e066a3f8-4586-4fb0-839a-e846d34dd5bf",
+          "source_timerange": {
+            "start": 40260000,
+            "duration": 19250000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 19250000
+          }
+        }
+      ]
+    },
+    {
+      "id": "e17c501d-201a-45c8-861d-59d6ecb73326",
+      "type": "text",
+      "segments": [
+        {
+          "id": "1e561cc8-48e5-40bd-b336-483c3347e818",
+          "material_id": "71192c76-7eb6-474e-8c55-b057ea881dbd",
+          "target_timerange": {
+            "start": 0,
+            "duration": 6719999
+          }
+        },
+        {
+          "id": "5abef8e1-f8be-44ac-81c4-0512b24a0e0e",
+          "material_id": "fe641cc8-a362-4cf5-8581-6980301a1f05",
+          "target_timerange": {
+            "start": 6719999,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "db9dfee7-4b82-4eec-b86c-930f102b0022",
+          "material_id": "dbd52e39-5753-46ba-9be5-a9a079916b7a",
+          "target_timerange": {
+            "start": 7719999,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "e53940c0-3ca8-4e24-b84c-782dd91d530f",
+          "material_id": "2500cdb0-b2b1-4fab-8bfb-1aaf6bbe633d",
+          "target_timerange": {
+            "start": 9120000,
+            "duration": 599999
+          }
+        },
+        {
+          "id": "a1a13018-13d5-4ba6-9414-f931c4eeafed",
+          "material_id": "4a04096c-0676-454f-8004-8694adba0ddd",
+          "target_timerange": {
+            "start": 9719999,
+            "duration": 2600000
+          }
+        },
+        {
+          "id": "3e0c7bb8-8a30-424e-a6ec-3e11027deb45",
+          "material_id": "d11a5a47-741c-4457-9c35-8f9d90e753bd",
+          "target_timerange": {
+            "start": 12320000,
+            "duration": 4200000
+          }
+        },
+        {
+          "id": "6ca7b8a6-32b4-4600-89a8-52e8130ac612",
+          "material_id": "2120d024-e2de-4fcf-a033-961f05dbd1ab",
+          "target_timerange": {
+            "start": 16520000,
+            "duration": 2729999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

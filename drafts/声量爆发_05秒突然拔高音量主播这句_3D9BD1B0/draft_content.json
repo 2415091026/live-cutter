@@ -1,0 +1,154 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 11560000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "2d32af02-65a6-4314-948a-8cfc84d04843",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-39-48_渡一Web前端学习频道（Ai全栈）_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "26af63a6-8b3d-49c2-8148-db45473e910a",
+        "content": "{\"text\": \"我敢结婚离的老人线\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f3697497-55cd-42dd-ac52-ec557fc6949f",
+        "content": "{\"text\": \"但是这实际上\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ac80a860-d8c7-45eb-acb4-dee28c743584",
+        "content": "{\"text\": \"只讲不出来\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "74e2fbef-a05c-424d-9e99-599810f2de01",
+        "content": "{\"text\": \"我就觉得很着急\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b9faddf5-f882-40e7-b519-b70986b2a4a5",
+        "content": "{\"text\": \"不可能说多看即便没效果的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ac17cae0-98b6-447e-b8e1-f501fa7253d9",
+        "content": "{\"text\": \"只是多看的次数多少而已\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "867324b9-d24f-4124-98ad-d51e7140ca4b",
+      "type": "video",
+      "segments": [
+        {
+          "id": "ec3225f8-be1b-47ca-b884-32b5393786c6",
+          "material_id": "2d32af02-65a6-4314-948a-8cfc84d04843",
+          "source_timerange": {
+            "start": 0,
+            "duration": 11560000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 11560000
+          }
+        }
+      ]
+    },
+    {
+      "id": "fce8c72e-a95a-44f2-9a95-072cea44b976",
+      "type": "text",
+      "segments": [
+        {
+          "id": "a1d8ce9d-a584-49b5-b51c-e32d82157f8a",
+          "material_id": "26af63a6-8b3d-49c2-8148-db45473e910a",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2440000
+          }
+        },
+        {
+          "id": "2cd7f529-e437-44ef-b582-57ba3cad2ad2",
+          "material_id": "f3697497-55cd-42dd-ac52-ec557fc6949f",
+          "target_timerange": {
+            "start": 2440000,
+            "duration": 1240000
+          }
+        },
+        {
+          "id": "40bd43d0-0d76-4e13-ad63-2f1c68cf9ff9",
+          "material_id": "ac80a860-d8c7-45eb-acb4-dee28c743584",
+          "target_timerange": {
+            "start": 3680000,
+            "duration": 839999
+          }
+        },
+        {
+          "id": "fc260cde-ebb0-46e6-b7af-269fc4cf5fbf",
+          "material_id": "74e2fbef-a05c-424d-9e99-599810f2de01",
+          "target_timerange": {
+            "start": 4520000,
+            "duration": 1280000
+          }
+        },
+        {
+          "id": "5445c4ae-c254-431b-aefb-dc0e1a9c5342",
+          "material_id": "b9faddf5-f882-40e7-b519-b70986b2a4a5",
+          "target_timerange": {
+            "start": 6520000,
+            "duration": 2280000
+          }
+        },
+        {
+          "id": "c614e702-5b87-4bbc-a687-456340236a89",
+          "material_id": "ac17cae0-98b6-447e-b8e1-f501fa7253d9",
+          "target_timerange": {
+            "start": 9280000,
+            "duration": 2280000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

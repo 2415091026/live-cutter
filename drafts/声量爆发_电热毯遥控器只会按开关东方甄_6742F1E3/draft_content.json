@@ -1,0 +1,290 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18540000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "74408dd3-98a7-4465-b8c1-dd8f16588563",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\19-52-12_东方甄选_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "8e587a5e-79a4-4a26-a9a2-dfc42d2cf4cc",
+        "content": "{\"text\": \"太高了 那我就按着左就想按\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dedb13c7-0769-4bc3-9f78-7a246e15c267",
+        "content": "{\"text\": \"哎 往下一按 变成中了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "482274da-8218-4b78-944f-d5a6215bdb2a",
+        "content": "{\"text\": \"再按 你看变成低了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "162988e5-ecf2-4e88-941e-51ab235d0c0a",
+        "content": "{\"text\": \"再按就关了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d0766b3b-0e0e-493e-9eef-cf37ea7f900a",
+        "content": "{\"text\": \"然后再按右边成高了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3538586a-32e5-43cd-b58b-5a7ca5cea150",
+        "content": "{\"text\": \"那按吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f60d5287-b105-4436-b6fd-a57b1353763c",
+        "content": "{\"text\": \"就一个循环见\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "45c56e68-6391-4eab-b614-e7b4dfba2cfa",
+        "content": "{\"text\": \"然后呢 再有的话\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0a244177-c18a-4f12-be56-8cb45993d27f",
+        "content": "{\"text\": \"下不有一个定时间\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fbcc82ad-1c5e-407c-9cac-dac2362f0299",
+        "content": "{\"text\": \"默认识12小时\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "19c7018d-f2f9-4d58-b731-8699ed4642f8",
+        "content": "{\"text\": \"你按一下变8小时\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "3cb4c2f6-5eb7-49ba-a6f3-002db641c51b",
+        "content": "{\"text\": \"再按一下变4小时\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5b7464ad-b1d7-4cf7-8d58-9b75ae3c7657",
+        "content": "{\"text\": \"再按一下又回12了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c0029bc4-3fd0-4a40-b113-4fd066c11217",
+        "content": "{\"text\": \"也就是说上线的时间就是12小时\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "365b2051-74d8-40e1-aa70-56d264ae273a",
+      "type": "video",
+      "segments": [
+        {
+          "id": "687986df-a9c4-45a4-b825-58fc6ed2c78c",
+          "material_id": "74408dd3-98a7-4465-b8c1-dd8f16588563",
+          "source_timerange": {
+            "start": 0,
+            "duration": 18540000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18540000
+          }
+        }
+      ]
+    },
+    {
+      "id": "defa945e-b33f-4913-be4a-e660ef0f4073",
+      "type": "text",
+      "segments": [
+        {
+          "id": "db87d53d-1307-4901-9161-1c076197f000",
+          "material_id": "8e587a5e-79a4-4a26-a9a2-dfc42d2cf4cc",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1740000
+          }
+        },
+        {
+          "id": "e264c0c8-b7d9-4692-88ca-cf3d7d3ce5f5",
+          "material_id": "dedb13c7-0769-4bc3-9f78-7a246e15c267",
+          "target_timerange": {
+            "start": 1740000,
+            "duration": 1260000
+          }
+        },
+        {
+          "id": "d3951388-3cf3-4de4-8d73-76eca7fc4384",
+          "material_id": "482274da-8218-4b78-944f-d5a6215bdb2a",
+          "target_timerange": {
+            "start": 3000000,
+            "duration": 1259999
+          }
+        },
+        {
+          "id": "441ce08b-9184-4f42-ba68-31e56652dcc5",
+          "material_id": "162988e5-ecf2-4e88-941e-51ab235d0c0a",
+          "target_timerange": {
+            "start": 4260000,
+            "duration": 1120000
+          }
+        },
+        {
+          "id": "2e443283-0653-4a11-be3a-aa08f0960fde",
+          "material_id": "d0766b3b-0e0e-493e-9eef-cf37ea7f900a",
+          "target_timerange": {
+            "start": 5380000,
+            "duration": 1520000
+          }
+        },
+        {
+          "id": "417f4a39-ed30-40f7-946c-a74d0dfe1100",
+          "material_id": "3538586a-32e5-43cd-b58b-5a7ca5cea150",
+          "target_timerange": {
+            "start": 6900000,
+            "duration": 599999
+          }
+        },
+        {
+          "id": "d290d8e4-a59d-4613-a39f-c936fbbd4360",
+          "material_id": "f60d5287-b105-4436-b6fd-a57b1353763c",
+          "target_timerange": {
+            "start": 7500000,
+            "duration": 1080000
+          }
+        },
+        {
+          "id": "79574fed-f969-4368-b61d-b3946059a601",
+          "material_id": "45c56e68-6391-4eab-b614-e7b4dfba2cfa",
+          "target_timerange": {
+            "start": 8580000,
+            "duration": 900000
+          }
+        },
+        {
+          "id": "7d534a0b-48e6-45e9-af73-844a291b77f2",
+          "material_id": "0a244177-c18a-4f12-be56-8cb45993d27f",
+          "target_timerange": {
+            "start": 9480000,
+            "duration": 1259999
+          }
+        },
+        {
+          "id": "96002495-9768-4621-938e-e1cba331d292",
+          "material_id": "fbcc82ad-1c5e-407c-9cac-dac2362f0299",
+          "target_timerange": {
+            "start": 10740000,
+            "duration": 1019999
+          }
+        },
+        {
+          "id": "ef5b3d32-d0f0-4d14-9e4f-c5d17369ec02",
+          "material_id": "19c7018d-f2f9-4d58-b731-8699ed4642f8",
+          "target_timerange": {
+            "start": 11760000,
+            "duration": 1080000
+          }
+        },
+        {
+          "id": "837386d4-39a4-45a4-a30a-25e2d8476ec5",
+          "material_id": "3cb4c2f6-5eb7-49ba-a6f3-002db641c51b",
+          "target_timerange": {
+            "start": 12840000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "f60c2bca-04cf-468a-92bc-79912c2f93f9",
+          "material_id": "5b7464ad-b1d7-4cf7-8d58-9b75ae3c7657",
+          "target_timerange": {
+            "start": 13840000,
+            "duration": 1599999
+          }
+        },
+        {
+          "id": "f880192e-0e69-40ee-9c3a-dcc9243640e1",
+          "material_id": "c0029bc4-3fd0-4a40-b113-4fd066c11217",
+          "target_timerange": {
+            "start": 15440000,
+            "duration": 3099999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

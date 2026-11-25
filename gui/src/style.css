@@ -1,0 +1,259 @@
+/* ==========================================================================
+   Live-Cutter PRO — 专业级智能导播与切片工作台设计系统 (Studio Obsidian UI)
+   灵感源于 Linear / DaVinci Resolve / Raycast 现代暗色精密工业美学
+   ========================================================================== */
+
+:root {
+  /* 核心背景色阶：深邃黑曜石色系 */
+  --bg-deep: #05070B;
+  --bg-main: #090C15;
+  --bg-elevated: #0E1320;
+  --bg-card: rgba(14, 19, 32, 0.78);
+  --bg-card-hover: rgba(20, 27, 45, 0.88);
+  --bg-surface: rgba(255, 255, 255, 0.03);
+  --bg-input: rgba(5, 7, 11, 0.65);
+
+  /* 精密微边框与高光边缘 */
+  --border-subtle: rgba(255, 255, 255, 0.07);
+  --border-strong: rgba(255, 255, 255, 0.13);
+  --border-glow: rgba(99, 102, 241, 0.45);
+  --inner-highlight: inset 0 1px 0 0 rgba(255, 255, 255, 0.07);
+
+  /* 品牌主色：电光靛蓝 */
+  --primary: #6366F1;
+  --primary-hover: #4F46E5;
+  --primary-light: #818CF8;
+  --primary-glow: rgba(99, 102, 241, 0.32);
+
+  /* 辅助强调色：激光青 */
+  --accent: #06B6D4;
+  --accent-light: #22D3EE;
+  --accent-glow: rgba(6, 182, 212, 0.3);
+
+  /* 状态色阶：翡翠绿 / 琥珀金 / 珊瑚红 */
+  --success: #10B981;
+  --success-light: #34D399;
+  --success-glow: rgba(16, 185, 129, 0.28);
+
+  --gold: #F59E0B;
+  --gold-light: #FBBF24;
+  --gold-glow: rgba(245, 158, 11, 0.28);
+
+  --danger: #EF4444;
+  --danger-light: #F87171;
+  --danger-glow: rgba(239, 68, 68, 0.28);
+
+  /* 文字色阶 */
+  --text-main: #F8FAFC;
+  --text-sub: #94A3B8;
+  --text-muted: #64748B;
+
+  /* 圆角与动效曲线 */
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --transition: all 0.22s cubic-bezier(0.16, 1, 0.3, 1);
+
+  /* 阴影层级 */
+  --shadow-card: 0 12px 32px -4px rgba(0, 0, 0, 0.55), var(--inner-highlight);
+  --shadow-float: 0 20px 50px rgba(0, 0, 0, 0.75), var(--inner-highlight);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  background-color: var(--bg-deep);
+  background-image:
+    radial-gradient(circle at 12% 0%, rgba(99, 102, 241, 0.14) 0%, transparent 38%),
+    radial-gradient(circle at 88% 4%, rgba(6, 182, 212, 0.10) 0%, transparent 35%),
+    radial-gradient(circle at 50% 100%, rgba(168, 85, 247, 0.08) 0%, transparent 45%),
+    linear-gradient(rgba(255, 255, 255, 0.015) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.015) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 100% 100%, 32px 32px, 32px 32px;
+  color: var(--text-main);
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 定制科技感微滚动条 */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary-light);
+}
+
+/* 通用按钮体系 */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  padding: 8px 15px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  border-radius: var(--radius-xs);
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: var(--transition);
+  font-family: inherit;
+  user-select: none;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+.btn:disabled,
+.btn-disabled {
+  opacity: 0.45;
+  cursor: not-allowed !important;
+  transform: none !important;
+  box-shadow: none !important;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #6366F1 0%, #4F46E5 100%);
+  color: #FFFFFF;
+  border-color: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 4px 14px var(--primary-glow), inset 0 1px 0 rgba(255, 255, 255, 0.2);
+}
+.btn-primary:hover:not(:disabled) {
+  background: linear-gradient(135deg, #7174F7 0%, #5850EC 100%);
+  box-shadow: 0 6px 20px rgba(99, 102, 241, 0.48), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: rgba(255, 255, 255, 0.045);
+  color: #E2E8F0;
+  border-color: var(--border-subtle);
+  box-shadow: var(--inner-highlight);
+}
+.btn-secondary:hover:not(:disabled) {
+  background: rgba(255, 255, 255, 0.09);
+  border-color: var(--border-strong);
+  color: #FFFFFF;
+}
+
+.btn-accent {
+  background: linear-gradient(135deg, #06B6D4 0%, #0284C7 100%);
+  color: #FFFFFF;
+  font-weight: 700;
+  border-color: rgba(255, 255, 255, 0.18);
+  box-shadow: 0 4px 14px var(--accent-glow), inset 0 1px 0 rgba(255, 255, 255, 0.22);
+}
+.btn-accent:hover:not(:disabled) {
+  background: linear-gradient(135deg, #22D3EE 0%, #0369A1 100%);
+  box-shadow: 0 6px 18px rgba(6, 182, 212, 0.45);
+  transform: translateY(-1px);
+}
+
+.btn-sm {
+  padding: 6px 12px;
+  font-size: 0.76rem;
+  border-radius: var(--radius-xs);
+}
+
+/* 核心玻璃拟态面板卡片 */
+.glass-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 18px;
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  box-shadow: var(--shadow-card);
+  transition: var(--transition);
+  position: relative;
+}
+
+.glass-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 16px;
+  right: 16px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.12), transparent);
+  pointer-events: none;
+}
+
+.glass-card:hover {
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+.card-title {
+  font-family: 'Outfit', 'Inter', sans-serif;
+  font-size: 0.92rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--text-main);
+}
+
+.card-title svg {
+  color: var(--primary-light);
+  filter: drop-shadow(0 0 6px rgba(99, 102, 241, 0.4));
+}
+
+/* 呼吸状态指示点 */
+.pulse-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--text-muted);
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.pulse-dot.online {
+  background: var(--success);
+  box-shadow: 0 0 10px var(--success);
+}
+
+.pulse-dot.online::after {
+  content: '';
+  position: absolute;
+  inset: -3px;
+  border-radius: 50%;
+  border: 1.5px solid var(--success);
+  animation: pulse-ring 2s cubic-bezier(0.16, 1, 0.3, 1) infinite;
+}
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.85); opacity: 0.9; }
+  100% { transform: scale(2.3); opacity: 0; }
+}
+
+/* 数字与等宽字体辅助类 */
+.mono-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-numeric: tabular-nums;
+}

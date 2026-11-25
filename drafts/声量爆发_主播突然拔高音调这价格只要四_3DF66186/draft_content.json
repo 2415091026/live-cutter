@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 6600000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "b3559183-a35c-4b92-8d82-aead0079f64e",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_256751986134_20261102_212053_p001.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "a75e6602-1a44-466c-8a35-28004f8c0d53",
+        "content": "{\"text\": \"他这款价格只需要花到一个巴尔四块一毛五\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "9879d739-01f8-4858-bc68-213e93f6a5d6",
+        "content": "{\"text\": \"只需要花到一个巴尔四块一毛五的价格\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "46c3a379-7089-49ea-8562-ff76b515f194",
+      "type": "video",
+      "segments": [
+        {
+          "id": "011a70da-0914-46c6-b7fd-5586aa33ec07",
+          "material_id": "b3559183-a35c-4b92-8d82-aead0079f64e",
+          "source_timerange": {
+            "start": 5400000,
+            "duration": 6600000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 6600000
+          }
+        }
+      ]
+    },
+    {
+      "id": "234975ea-47ff-439a-b3c6-8158e09966af",
+      "type": "text",
+      "segments": [
+        {
+          "id": "ce59fce7-d4a5-4df4-bf68-f22f00198f56",
+          "material_id": "a75e6602-1a44-466c-8a35-28004f8c0d53",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "5386f1a1-62d0-4024-baed-0a2b63fa5d8a",
+          "material_id": "9879d739-01f8-4858-bc68-213e93f6a5d6",
+          "target_timerange": {
+            "start": 4400000,
+            "duration": 2199999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

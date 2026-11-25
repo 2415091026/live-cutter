@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 7200000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "fc282efc-daaa-4feb-9b0d-814495758667",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-41-04_渡一Web前端学习频道（Ai全栈）_p003.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "6f3d5ac8-1516-4952-8191-67ea4a91cad8",
+        "content": "{\"text\": \"也感觉也有很多的课程都要学个大帮你啊 学一遍的话是\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "35a657c0-2350-450f-ae94-338d46605f43",
+        "content": "{\"text\": \"是 是 但是就是 而且学一遍感觉一遍\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "7cef9311-f898-4875-9350-9b33c1105c20",
+      "type": "video",
+      "segments": [
+        {
+          "id": "c3583347-87d4-4ed4-a643-e098e73d2689",
+          "material_id": "fc282efc-daaa-4feb-9b0d-814495758667",
+          "source_timerange": {
+            "start": 0,
+            "duration": 7200000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 7200000
+          }
+        }
+      ]
+    },
+    {
+      "id": "501429fb-ba0f-4711-a7ff-9a98d3a64579",
+      "type": "text",
+      "segments": [
+        {
+          "id": "1e07ef07-4791-4725-9bec-1f07aa397373",
+          "material_id": "6f3d5ac8-1516-4952-8191-67ea4a91cad8",
+          "target_timerange": {
+            "start": 0,
+            "duration": 3960000
+          }
+        },
+        {
+          "id": "538507e6-d3ce-4c5b-8c7f-519f837bdda4",
+          "material_id": "35a657c0-2350-450f-ae94-338d46605f43",
+          "target_timerange": {
+            "start": 3960000,
+            "duration": 3240000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

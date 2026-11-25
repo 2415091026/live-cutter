@@ -1,0 +1,256 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 18499999,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "d503274f-7e2b-415a-9342-48abc21efc50",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\19-55-01_东方甄选_p005.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "3812e0d6-d016-465f-9fc4-97e67db9a75f",
+        "content": "{\"text\": \"然后又着急\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dfede65f-7f01-4d39-a61d-4e50806991ae",
+        "content": "{\"text\": \"哎呀 开公条太飞电的开一火吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e8776aaa-fc32-4a44-b119-3b6138448638",
+        "content": "{\"text\": \"哎呀 我这个小太阳更飞电\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a2dc4cd7-203d-4702-ab6d-6b685bf737b9",
+        "content": "{\"text\": \"对吧 开一小火吧\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "cf95bd43-e08b-4276-b52c-90601eabaa4f",
+        "content": "{\"text\": \"不用猶余了朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e5ab0a14-7937-49a2-9e4b-5e30e265862a",
+        "content": "{\"text\": \"咱们今天给大家带来的是我们的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b2aeabbd-34b8-4e2c-a1ca-d8c9ef9edef7",
+        "content": "{\"text\": \"电热坦啊朋友们\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "28d1e20f-315a-4d02-8a61-80ec1e60bdaf",
+        "content": "{\"text\": \"这个是40多年的国货牢品牌\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "a869fdf1-79b7-4b98-8c8c-ee105190d475",
+        "content": "{\"text\": \"这个叫做彩虹\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c297a974-1f29-4978-bed0-6b0140937471",
+        "content": "{\"text\": \"品牌强定人产\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c9871afe-165f-402f-a80a-d6dc89e340eb",
+        "content": "{\"text\": \"40多年老品牌\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "86c05ca6-1212-41cd-81e5-ff6983e6897e",
+        "content": "{\"text\": \"各位朋友们 如果有用过的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "1585dfe5-85c2-45a3-96be-17bd4fad404f",
+      "type": "video",
+      "segments": [
+        {
+          "id": "a66c0820-cc43-4a0f-9932-7106d7193445",
+          "material_id": "d503274f-7e2b-415a-9342-48abc21efc50",
+          "source_timerange": {
+            "start": 22800000,
+            "duration": 18499999
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 18499999
+          }
+        }
+      ]
+    },
+    {
+      "id": "4bc88ff7-e7d3-4c25-92dc-ca8f4471d91c",
+      "type": "text",
+      "segments": [
+        {
+          "id": "2138aaa9-4ebf-471a-97c4-3bb48ff5d895",
+          "material_id": "3812e0d6-d016-465f-9fc4-97e67db9a75f",
+          "target_timerange": {
+            "start": 0,
+            "duration": 199999
+          }
+        },
+        {
+          "id": "c02ab117-e5d0-4042-bbcc-7cb8b0a5cc76",
+          "material_id": "dfede65f-7f01-4d39-a61d-4e50806991ae",
+          "target_timerange": {
+            "start": 199999,
+            "duration": 1839999
+          }
+        },
+        {
+          "id": "dc72d093-466f-41c0-9e0e-aec6fa24b093",
+          "material_id": "e8776aaa-fc32-4a44-b119-3b6138448638",
+          "target_timerange": {
+            "start": 2039999,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "f41f62a2-d499-49b6-9370-234754acbef6",
+          "material_id": "a2dc4cd7-203d-4702-ab6d-6b685bf737b9",
+          "target_timerange": {
+            "start": 3840000,
+            "duration": 1239999
+          }
+        },
+        {
+          "id": "f5172418-5c1b-47a0-bc25-2e26506c7078",
+          "material_id": "cf95bd43-e08b-4276-b52c-90601eabaa4f",
+          "target_timerange": {
+            "start": 5079999,
+            "duration": 1240000
+          }
+        },
+        {
+          "id": "f9d9eef2-31fd-4128-a2e7-4581a7922d36",
+          "material_id": "e5ab0a14-7937-49a2-9e4b-5e30e265862a",
+          "target_timerange": {
+            "start": 6320000,
+            "duration": 2000000
+          }
+        },
+        {
+          "id": "c451518b-bbba-419f-ad99-ef773b9a2779",
+          "material_id": "b2aeabbd-34b8-4e2c-a1ca-d8c9ef9edef7",
+          "target_timerange": {
+            "start": 8320000,
+            "duration": 1599999
+          }
+        },
+        {
+          "id": "c98eb299-0725-4e33-aa3c-d5c7c8fdc78a",
+          "material_id": "28d1e20f-315a-4d02-8a61-80ec1e60bdaf",
+          "target_timerange": {
+            "start": 9919999,
+            "duration": 4000000
+          }
+        },
+        {
+          "id": "3678c3af-6070-4295-aa66-3fa596c26a8b",
+          "material_id": "a869fdf1-79b7-4b98-8c8c-ee105190d475",
+          "target_timerange": {
+            "start": 13919999,
+            "duration": 2079999
+          }
+        },
+        {
+          "id": "ae8c91c5-b98d-4183-851f-a24f60d895c2",
+          "material_id": "c297a974-1f29-4978-bed0-6b0140937471",
+          "target_timerange": {
+            "start": 15999999,
+            "duration": 1200000
+          }
+        },
+        {
+          "id": "e727878b-96cc-481f-bfb0-c42736f97c8a",
+          "material_id": "c9871afe-165f-402f-a80a-d6dc89e340eb",
+          "target_timerange": {
+            "start": 17200000,
+            "duration": 1280000
+          }
+        },
+        {
+          "id": "24acd6ac-b46f-4035-8060-b2ef385c6e3b",
+          "material_id": "86c05ca6-1212-41cd-81e5-ff6983e6897e",
+          "target_timerange": {
+            "start": 18480000,
+            "duration": 19999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

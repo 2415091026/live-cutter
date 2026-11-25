@@ -1,0 +1,205 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 45710000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "8f15e667-0e67-46d9-82d7-78f19f595355",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-59-26_陈伯(全能王)_p003.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "43b8e2e9-b11e-4bf4-b190-8d52b081b98e",
+        "content": "{\"text\": \"走走走走走走走走走走走\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "dc7b4eb5-af72-47a6-a529-90345bd20ffe",
+        "content": "{\"text\": \"繼續設定嗎\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "b1633829-6bfe-4e24-b0d7-ce10b0cef521",
+        "content": "{\"text\": \"昨天勝利他們領袒五秒都被逃了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d788589e-2185-4681-97f5-f258655f2d43",
+        "content": "{\"text\": \"會也十一列的發生用嗎\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "16890dbb-4cd6-4a0e-9949-1f1518c75215",
+        "content": "{\"text\": \"人球嗎 傳統一共發5位\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "f2d3a17a-795d-4ebd-b92a-cca7c8bc1904",
+        "content": "{\"text\": \"大5萬 一共發5萬\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8ec602e8-cc06-4dc6-b999-5e0b4eb3e13f",
+        "content": "{\"text\": \"誰能想法慢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7ab2bd37-7473-423a-8e00-c3c01732af9b",
+        "content": "{\"text\": \"直直對\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "40230177-2927-4bfb-9c90-b77cc9a5f18c",
+        "content": "{\"text\": \"吃到兩隊到了對換了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "322b9313-a260-48c0-8831-2d46d32f9713",
+      "type": "video",
+      "segments": [
+        {
+          "id": "cf919abd-b2d0-4a64-b24a-8c627d040305",
+          "material_id": "8f15e667-0e67-46d9-82d7-78f19f595355",
+          "source_timerange": {
+            "start": 460000,
+            "duration": 45710000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 45710000
+          }
+        }
+      ]
+    },
+    {
+      "id": "dce5dce1-d5ec-45b6-998d-7bdfdcb48794",
+      "type": "text",
+      "segments": [
+        {
+          "id": "d27ad201-31d7-4c7d-ba79-fb1ed08262e7",
+          "material_id": "43b8e2e9-b11e-4bf4-b190-8d52b081b98e",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "d83ef16f-00b0-42d9-b878-9d0058427f6e",
+          "material_id": "dc7b4eb5-af72-47a6-a529-90345bd20ffe",
+          "target_timerange": {
+            "start": 1400000,
+            "duration": 999999
+          }
+        },
+        {
+          "id": "48b31de4-922e-4649-af41-0327ded57505",
+          "material_id": "b1633829-6bfe-4e24-b0d7-ce10b0cef521",
+          "target_timerange": {
+            "start": 2400000,
+            "duration": 2400000
+          }
+        },
+        {
+          "id": "2581663f-5e7f-4f4f-b478-0118aecba39d",
+          "material_id": "d788589e-2185-4681-97f5-f258655f2d43",
+          "target_timerange": {
+            "start": 4800000,
+            "duration": 6310000
+          }
+        },
+        {
+          "id": "7dcf1332-d98b-465a-88fe-b7f376d59f16",
+          "material_id": "16890dbb-4cd6-4a0e-9949-1f1518c75215",
+          "target_timerange": {
+            "start": 11110000,
+            "duration": 1900000
+          }
+        },
+        {
+          "id": "7ae582cb-2eda-47fa-b1b5-752aa5cec105",
+          "material_id": "f2d3a17a-795d-4ebd-b92a-cca7c8bc1904",
+          "target_timerange": {
+            "start": 13010000,
+            "duration": 27240000
+          }
+        },
+        {
+          "id": "cc414352-d2bd-47a2-a2d7-78b3134bd744",
+          "material_id": "8ec602e8-cc06-4dc6-b999-5e0b4eb3e13f",
+          "target_timerange": {
+            "start": 40250000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "beacf60a-a60a-4362-898a-29bade808281",
+          "material_id": "7ab2bd37-7473-423a-8e00-c3c01732af9b",
+          "target_timerange": {
+            "start": 41250000,
+            "duration": 2759999
+          }
+        },
+        {
+          "id": "75da9524-2dea-42b6-a1ac-3c271fa6a5c9",
+          "material_id": "40230177-2927-4bfb-9c90-b77cc9a5f18c",
+          "target_timerange": {
+            "start": 44010000,
+            "duration": 1700000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

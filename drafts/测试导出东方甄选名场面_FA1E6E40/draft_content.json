@@ -1,0 +1,86 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 4500000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "bd00b422-b7e4-4c4e-864f-4164b2dab05f",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\live_80017709309_20261102_171325_5s.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "dfe776f0-3b07-499d-87c9-6585c38e5f70",
+        "content": "{\"text\": \"主播进场三秒钟\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "87c8baed-21c8-43fc-b5cc-da424912bd83",
+        "content": "{\"text\": \"直接当场破防退钱！\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "aee71a55-58fc-4446-a01b-dd68b20cdd33",
+      "type": "video",
+      "segments": [
+        {
+          "id": "2616d727-63ec-40c3-810b-77a44166a035",
+          "material_id": "bd00b422-b7e4-4c4e-864f-4164b2dab05f",
+          "source_timerange": {
+            "start": 0,
+            "duration": 4500000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 4500000
+          }
+        }
+      ]
+    },
+    {
+      "id": "990bbc49-f23e-4029-a588-d457371ab0aa",
+      "type": "text",
+      "segments": [
+        {
+          "id": "fa50c8b0-e3cd-4648-b1bb-d0fb31d56a8c",
+          "material_id": "dfe776f0-3b07-499d-87c9-6585c38e5f70",
+          "target_timerange": {
+            "start": 500000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "7661a69c-870c-4b9b-9e2b-118be4e122b8",
+          "material_id": "87c8baed-21c8-43fc-b5cc-da424912bd83",
+          "target_timerange": {
+            "start": 2200000,
+            "duration": 2000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

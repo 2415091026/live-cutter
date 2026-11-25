@@ -1,0 +1,103 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 6560000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "45e932ac-211a-49be-8a14-e295d91e8582",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\21-50-58_渡一Web前端学习频道（Ai全栈）_p012.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "b521ee1c-e8f1-461b-a3b9-f40850dc5757",
+        "content": "{\"text\": \"包括学的那些机件的那些工具\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0f48ee3c-c542-4de5-b0f9-96e33eab75e6",
+        "content": "{\"text\": \"你要我自己在项目里面去\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "bac281a9-cd0c-4d7e-bb55-139d65c8d389",
+        "content": "{\"text\": \"在接入项目\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "f22fdcc9-2c2c-4c1d-a107-1098b5d8a18d",
+      "type": "video",
+      "segments": [
+        {
+          "id": "03bc0bdb-8052-409c-b9b3-86d9bbdb7fc9",
+          "material_id": "45e932ac-211a-49be-8a14-e295d91e8582",
+          "source_timerange": {
+            "start": 5640000,
+            "duration": 6560000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 6560000
+          }
+        }
+      ]
+    },
+    {
+      "id": "fd847a85-4fb4-451f-829c-2204a8fc9386",
+      "type": "text",
+      "segments": [
+        {
+          "id": "f4e83d1c-330b-421b-bd19-401ac18dab06",
+          "material_id": "b521ee1c-e8f1-461b-a3b9-f40850dc5757",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2800000
+          }
+        },
+        {
+          "id": "58369113-a69b-49dd-9fbb-8f234220477a",
+          "material_id": "0f48ee3c-c542-4de5-b0f9-96e33eab75e6",
+          "target_timerange": {
+            "start": 2800000,
+            "duration": 2640000
+          }
+        },
+        {
+          "id": "314539cd-c916-4281-8b83-90d7c53c50b8",
+          "material_id": "bac281a9-cd0c-4d7e-bb55-139d65c8d389",
+          "target_timerange": {
+            "start": 5440000,
+            "duration": 1119999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

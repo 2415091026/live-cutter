@@ -1,0 +1,188 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 22390000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "e67ee4d2-c62a-4677-b42f-602baf119cfc",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-29-27_PANDAER_p006.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "93cb8eed-a882-459f-8ac4-3d83fe7b8837",
+        "content": "{\"text\": \"它是做到了一個輕量化的設計\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c7f0595d-db78-48d5-ba73-a30a84ec60b3",
+        "content": "{\"text\": \"我們這款讓大家長時間對戰手玩會更輕鬆\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "1e55dd84-8baa-4bb0-b987-0dd64340d8af",
+        "content": "{\"text\": \"比方手玩遊戲\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "8e5ea409-b60d-48d4-b101-1c36d5dcd433",
+        "content": "{\"text\": \"對吧 或者說你高倉獲得去辦公了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "7b9efd04-5e6a-4eb3-9f56-4614bb4933ff",
+        "content": "{\"text\": \"那我們就可以選了這款\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "73c99955-c94f-4404-8778-0ca857bf7a53",
+        "content": "{\"text\": \"它是PW3395的一個旗艦傳感性\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "49fa514f-248e-4f64-96f3-7da2b21ec695",
+        "content": "{\"text\": \"至高能夠達到26000DPI\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "d261306c-4dfc-4375-b5b1-bf87e6410bcd",
+        "content": "{\"text\": \"手一動光瞄舊到壓倉銘海會更穩衛星\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "9fc5f2fd-a5c2-47b1-89f5-c02fa522001f",
+      "type": "video",
+      "segments": [
+        {
+          "id": "befe91ba-3e7b-4308-b5ae-d82ba3592639",
+          "material_id": "e67ee4d2-c62a-4677-b42f-602baf119cfc",
+          "source_timerange": {
+            "start": 270000,
+            "duration": 22390000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 22390000
+          }
+        }
+      ]
+    },
+    {
+      "id": "30bb0d5f-8541-4cef-8fdc-3efa62c8cf0b",
+      "type": "text",
+      "segments": [
+        {
+          "id": "670aca28-fec3-4f69-a156-8f527254f5f0",
+          "material_id": "93cb8eed-a882-459f-8ac4-3d83fe7b8837",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2100000
+          }
+        },
+        {
+          "id": "ccee6b34-fe1b-4e52-a027-bf80740e843f",
+          "material_id": "c7f0595d-db78-48d5-ba73-a30a84ec60b3",
+          "target_timerange": {
+            "start": 2100000,
+            "duration": 3079999
+          }
+        },
+        {
+          "id": "071434ee-d0e5-421c-b352-449c36931323",
+          "material_id": "1e55dd84-8baa-4bb0-b987-0dd64340d8af",
+          "target_timerange": {
+            "start": 5180000,
+            "duration": 1519999
+          }
+        },
+        {
+          "id": "54901e18-da30-410c-9fc7-4d5e1820144d",
+          "material_id": "8e5ea409-b60d-48d4-b101-1c36d5dcd433",
+          "target_timerange": {
+            "start": 6699999,
+            "duration": 4590000
+          }
+        },
+        {
+          "id": "571e537f-8ae3-4020-9eb4-a669d797105c",
+          "material_id": "7b9efd04-5e6a-4eb3-9f56-4614bb4933ff",
+          "target_timerange": {
+            "start": 11290000,
+            "duration": 1500000
+          }
+        },
+        {
+          "id": "d4a3a51b-26d6-430e-b546-feaf5405309a",
+          "material_id": "73c99955-c94f-4404-8778-0ca857bf7a53",
+          "target_timerange": {
+            "start": 12790000,
+            "duration": 2999999
+          }
+        },
+        {
+          "id": "ea55d661-6fa4-4c29-8d39-24bd8929adab",
+          "material_id": "49fa514f-248e-4f64-96f3-7da2b21ec695",
+          "target_timerange": {
+            "start": 15790000,
+            "duration": 2700000
+          }
+        },
+        {
+          "id": "756fbe53-4231-4bf2-bd88-e81deedf9060",
+          "material_id": "d261306c-4dfc-4375-b5b1-bf87e6410bcd",
+          "target_timerange": {
+            "start": 18490000,
+            "duration": 3899999
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

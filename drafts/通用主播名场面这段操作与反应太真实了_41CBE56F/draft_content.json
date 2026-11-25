@@ -1,0 +1,137 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 8000000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "0276d535-0cab-436c-9109-1719d68393aa",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\16-18-59_单良¹⁰³_p004.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "9a177a4c-967c-4808-995d-9768a3f72f7d",
+        "content": "{\"text\": \"他的问题就是他\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "48cf001f-647f-4cbf-953e-41b154fb75ff",
+        "content": "{\"text\": \"他觉得他和他经营一理婚姻的时候\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5cb26718-8842-40e7-97ed-f5b4c896775a",
+        "content": "{\"text\": \"他老公每次回来说\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "5b63b0c3-3285-4d2e-b450-ca6858b19f3c",
+        "content": "{\"text\": \"叫我平凡\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "693c949b-d9bb-48f3-87db-18b59bf858fc",
+        "content": "{\"text\": \"他感受到很痛\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "dbf57650-eab9-4492-9fc9-bca5d9c44434",
+      "type": "video",
+      "segments": [
+        {
+          "id": "5c484187-b61d-4d1f-9330-49731719f73a",
+          "material_id": "0276d535-0cab-436c-9109-1719d68393aa",
+          "source_timerange": {
+            "start": 3890000,
+            "duration": 8000000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 8000000
+          }
+        }
+      ]
+    },
+    {
+      "id": "99bc3c74-7ff3-4166-abfe-58153c2365d5",
+      "type": "text",
+      "segments": [
+        {
+          "id": "df7f0205-8712-46e6-90f3-bd99542190ae",
+          "material_id": "9a177a4c-967c-4808-995d-9768a3f72f7d",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1999999
+          }
+        },
+        {
+          "id": "d996f8c4-36b3-44dc-a57c-b19dfeae3d1c",
+          "material_id": "48cf001f-647f-4cbf-953e-41b154fb75ff",
+          "target_timerange": {
+            "start": 1999999,
+            "duration": 3000000
+          }
+        },
+        {
+          "id": "6b6b2347-0a0f-4601-933d-7403e67323c6",
+          "material_id": "5cb26718-8842-40e7-97ed-f5b4c896775a",
+          "target_timerange": {
+            "start": 5000000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "3ee9a028-c854-4ee9-903b-be93fd72a68e",
+          "material_id": "5b63b0c3-3285-4d2e-b450-ca6858b19f3c",
+          "target_timerange": {
+            "start": 6000000,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "ecc7c618-5f28-4495-a593-87e66a62d11c",
+          "material_id": "693c949b-d9bb-48f3-87db-18b59bf858fc",
+          "target_timerange": {
+            "start": 7000000,
+            "duration": 1000000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}

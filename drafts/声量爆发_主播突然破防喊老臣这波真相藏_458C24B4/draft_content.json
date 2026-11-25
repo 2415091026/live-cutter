@@ -1,0 +1,273 @@
+{
+  "canvas_config": {
+    "width": 1080,
+    "height": 1920,
+    "ratio": "9:16"
+  },
+  "duration": 15200000,
+  "fps": 30,
+  "materials": {
+    "videos": [
+      {
+        "id": "e9f6a36f-f09f-46db-8c26-0d0601cd7673",
+        "path": "E:\\代码\\美食街\\live-cutter\\recordings\\22-27-58_观音桥毕加索_p003.mp4",
+        "type": "video",
+        "duration": 3600000000,
+        "width": 1080,
+        "height": 1920
+      }
+    ],
+    "texts": [
+      {
+        "id": "bc55e63f-3002-4308-819f-241ae762fc07",
+        "content": "{\"text\": \"你拿个别人呗\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c4e59090-9082-4a15-b5db-1f5a6b916293",
+        "content": "{\"text\": \"那我拉个别人呗\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "37e002eb-0092-44a2-ba94-ff76322da521",
+        "content": "{\"text\": \"我看看\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "976c07d6-9ad2-4b6d-a5b4-c77d9eae31e9",
+        "content": "{\"text\": \"我看到了 我看说现在的\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0c9edb27-ffb3-484d-9397-846f72038aa4",
+        "content": "{\"text\": \"他的评刀呢\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "0b8ed607-5a77-4f90-9f5c-b872b4cb48b0",
+        "content": "{\"text\": \"成星举上成节拿你\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "fc7f78a5-7b11-40f2-9e2a-cba2a3429673",
+        "content": "{\"text\": \"我看到了的事情\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "81aac831-0578-47cf-9a53-76324c110121",
+        "content": "{\"text\": \"我就看到我看到我找了\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "ad0d3392-e915-41e6-adaf-26aa9ab9564e",
+        "content": "{\"text\": \"是他那个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "c6610a84-f633-4a81-83cf-34b8841a7b74",
+        "content": "{\"text\": \"他那个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "321f9754-ef77-4e67-9ccb-45cc6c12cbdd",
+        "content": "{\"text\": \"他那个\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "35d35488-2b4f-4e8a-881e-5aa3e491379c",
+        "content": "{\"text\": \"他还有那个险事的不全\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      },
+      {
+        "id": "e96c15af-8f27-4e48-8870-2d0ee9944713",
+        "content": "{\"text\": \"老臣\"}",
+        "font_size": 8.0,
+        "text_color": "#FFD700",
+        "border_color": "#000000",
+        "border_width": 2.0,
+        "type": "subtitle"
+      }
+    ],
+    "speeds": [],
+    "transitions": []
+  },
+  "tracks": [
+    {
+      "id": "d7656501-cacc-4930-922c-b6b0d90f10a5",
+      "type": "video",
+      "segments": [
+        {
+          "id": "04156250-8f3b-45ab-a65e-dfdc6ee03416",
+          "material_id": "e9f6a36f-f09f-46db-8c26-0d0601cd7673",
+          "source_timerange": {
+            "start": 9580000,
+            "duration": 15200000
+          },
+          "target_timerange": {
+            "start": 0,
+            "duration": 15200000
+          }
+        }
+      ]
+    },
+    {
+      "id": "25d10a10-a313-4cc2-b52c-d90ccaad5d04",
+      "type": "text",
+      "segments": [
+        {
+          "id": "a47963e9-4241-4ab1-93a6-c1e1cd67ae1d",
+          "material_id": "bc55e63f-3002-4308-819f-241ae762fc07",
+          "target_timerange": {
+            "start": 0,
+            "duration": 1599999
+          }
+        },
+        {
+          "id": "b24c224b-390c-459c-adc3-feac9b8a3199",
+          "material_id": "c4e59090-9082-4a15-b5db-1f5a6b916293",
+          "target_timerange": {
+            "start": 1599999,
+            "duration": 839999
+          }
+        },
+        {
+          "id": "6f0fbf8f-7f7a-4133-a3f0-1f84fc6dc537",
+          "material_id": "37e002eb-0092-44a2-ba94-ff76322da521",
+          "target_timerange": {
+            "start": 2439999,
+            "duration": 720000
+          }
+        },
+        {
+          "id": "30760803-023f-4902-85d1-197b748cf1b8",
+          "material_id": "976c07d6-9ad2-4b6d-a5b4-c77d9eae31e9",
+          "target_timerange": {
+            "start": 3160000,
+            "duration": 1400000
+          }
+        },
+        {
+          "id": "e92d635e-15d4-4d1a-8b91-16482d1d0a00",
+          "material_id": "0c9edb27-ffb3-484d-9397-846f72038aa4",
+          "target_timerange": {
+            "start": 4560000,
+            "duration": 1399999
+          }
+        },
+        {
+          "id": "5b345601-6117-4ca4-ad1d-c02a9d75a08b",
+          "material_id": "0b8ed607-5a77-4f90-9f5c-b872b4cb48b0",
+          "target_timerange": {
+            "start": 6959999,
+            "duration": 1320000
+          }
+        },
+        {
+          "id": "950a733f-e065-4ea9-b381-24e223f72f1d",
+          "material_id": "fc7f78a5-7b11-40f2-9e2a-cba2a3429673",
+          "target_timerange": {
+            "start": 9319999,
+            "duration": 960000
+          }
+        },
+        {
+          "id": "edb4950c-e05a-4324-b1b6-8a1096513475",
+          "material_id": "81aac831-0578-47cf-9a53-76324c110121",
+          "target_timerange": {
+            "start": 10280000,
+            "duration": 879999
+          }
+        },
+        {
+          "id": "f8c7423d-f363-4a17-9d2d-fd71f17f109b",
+          "material_id": "ad0d3392-e915-41e6-adaf-26aa9ab9564e",
+          "target_timerange": {
+            "start": 11159999,
+            "duration": 1000000
+          }
+        },
+        {
+          "id": "1562466e-3f14-4a85-bf2b-1d5bf5b4e91e",
+          "material_id": "c6610a84-f633-4a81-83cf-34b8841a7b74",
+          "target_timerange": {
+            "start": 12159999,
+            "duration": 560000
+          }
+        },
+        {
+          "id": "4ddfbbcb-4f67-4d50-83cc-f49f5073295f",
+          "material_id": "321f9754-ef77-4e67-9ccb-45cc6c12cbdd",
+          "target_timerange": {
+            "start": 12720000,
+            "duration": 239999
+          }
+        },
+        {
+          "id": "15a5982f-4b58-44e6-bc2f-a9cb145d2f55",
+          "material_id": "35d35488-2b4f-4e8a-881e-5aa3e491379c",
+          "target_timerange": {
+            "start": 12960000,
+            "duration": 1800000
+          }
+        },
+        {
+          "id": "26353cbf-32a9-4fc2-b73a-b5c8bf7effd8",
+          "material_id": "e96c15af-8f27-4e48-8870-2d0ee9944713",
+          "target_timerange": {
+            "start": 14760000,
+            "duration": 440000
+          }
+        }
+      ]
+    }
+  ],
+  "version": 3000000
+}
